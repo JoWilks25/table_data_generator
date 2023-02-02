@@ -8,7 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@ngneat/falso": "^6.4.0"
+    "@ngneat/falso": "^6.4.0",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security"
   },
   "keywords": [],
   "author": "",
