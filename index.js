@@ -5,7 +5,7 @@ import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './he
 // VARIABLES
 const numberAccounts = 10
 const accountLength = 12
-const fromDate = '01/12/2022'
+const fromDate = '01/01/2022'
 const toDate = '12/31/2022'
 
 // GENERATE ARRAY OF DATES FOR SPECIFIED DATE RANGE
@@ -47,7 +47,7 @@ let transactionsTable = []
 accountNosList.forEach((accountNumber) => {
   dates.forEach((date) => {
     // Generating random number of transactions for a specific account number
-    const noTransactions = randNumber({ min: 0, max: 10 })
+    const noTransactions = randNumber({ min: 0, max: 50 })
     const transactionAmounts = randNumber({ length: noTransactions, min: -100000, max: 100000, fraction: 2 })
 
     // Updating the balance in the Account Balances list so it adds up.
