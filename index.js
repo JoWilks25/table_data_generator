@@ -1,7 +1,6 @@
 import { randAccount, randCountry, randNumber, randCompanyName, randFullName, randCurrencyCode } from '@ngneat/falso';
-import { generateRandDate, selectRandValue, getDates } from './functions.js'
-import ALL_CURRENCIES from './standardDataLists/currencies.js';
-import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './standardDataLists/subsets.js'
+import { selectRandValue, getDates } from './functions.js'
+import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './sampleDataLists.js'
 
 // VARIABLES
 const numberAccounts = 10
@@ -25,7 +24,6 @@ accountNosList.forEach((accountNumber) => {
     'Datetime': new Date(fromDate),
     'Account Currency': selectRandValue(SUBSET_CURRENCIES),
     'Product Type': selectRandValue(BANKING_PRODUCT_TYPES),
-    // 'Account Status': selectRandValue(['Active', 'Suspended']),
     'Financial Institution': `Bank of ${randNumber({ min: 1, max: 20 })}`,
     'Account Currency Balance': null,
     'Entity': randCompanyName(),
@@ -52,7 +50,7 @@ accountNosList.forEach((accountNumber) => {
     const transactionAmounts = randNumber({ length: noTransactions, min: -100000, max: 100000, fraction: 2 })
 
     // Updating the balance in the Account Balances list so it adds up.
-    const accountBalance = transactionAmounts.reduce((prevValue, nextValue) => prevValue + nextValue, [0])
+    const accountBalance = transactionAmounts.reduce((prevValue, nextValue) => Number(prevValue) + Number(nextValue), [0])
     accountBalancesTable.forEach((accountBalRowObj) => {
       if (accountBalRowObj['Account Number'] === accountNumber && accountBalRowObj.Datetime === date) {
         accountBalRowObj['Account Currency Balance'] = accountBalance;
@@ -90,10 +88,8 @@ const csvWriterAccountBalances = createObjectCsvWriter({
     { id: 'Datetime', title: 'Datetime' },
     { id: 'Account Currency', title: 'Account Currency' },
     { id: 'Product Type', title: 'Product Type' },
-    { id: 'Account Status', title: 'Account Status' },
     { id: 'Financial Institution', title: 'Financial Institution' },
     { id: 'Account Currency Balance', title: 'Account Currency Balance' },
-    { id: 'Base Currency Balance (GBP)', title: 'Base Currency Balance (GBP)' },
     { id: 'Entity', title: 'Entity' },
   ]
 });

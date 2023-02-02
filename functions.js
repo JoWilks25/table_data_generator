@@ -19,9 +19,3 @@ export function getDates (startDate, endDate) {
   }
   return dates
 }
-
-// // Usage
-// const dates = getDates(new Date(2013, 10, 22), new Date(2013, 11, 25))
-// dates.forEach(function (date) {
-//   console.log(date)
-// })
