@@ -1,0 +1,11 @@
+Account Number,Location,Datetime,Account Currency,Product Type,Account Status,Financial Institution,Account Currency Balance,Base Currency Balance (GBP),Entity
+231727847620,United Kingdom,Sat Nov 05 2022 03:36:57 GMT+0000 (Greenwich Mean Time),GBP,Demand deposit,Suspended,Bank of 2,,,Koepp and Sons
+606172266426,United Kingdom,Tue Feb 08 2022 00:16:24 GMT+0000 (Greenwich Mean Time),GBP,Demand deposit,Suspended,Bank of 2,,,"Kautzer, Macejkovic and Fisher"
+465346396036,United Kingdom,Mon Mar 07 2022 11:11:50 GMT+0000 (Greenwich Mean Time),GBP,Term deposit,Suspended,Bank of 4,,,Koepp and Sons
+086542788095,United Kingdom,Wed Apr 27 2022 17:38:40 GMT+0100 (British Summer Time),GBP,Term deposit,Active,Bank of 4,,,"Steuber, Luettgen and Corkery"
+753282867127,United Kingdom,Thu Sep 15 2022 13:54:46 GMT+0100 (British Summer Time),GBP,Demand deposit,Active,Bank of 4,,,Luettgen Inc
+127247322864,United Kingdom,Wed Jun 01 2022 07:43:56 GMT+0100 (British Summer Time),GBP,Demand deposit,Suspended,Bank of 1,,,Stracke - Kertzmann
+961684541663,United Kingdom,Fri Feb 25 2022 16:40:52 GMT+0000 (Greenwich Mean Time),GBP,Demand deposit,Suspended,Bank of 4,,,"Graham, Sipes and Towne"
+744920829820,United Kingdom,Wed Mar 16 2022 16:28:17 GMT+0000 (Greenwich Mean Time),GBP,Term deposit,Suspended,Bank of 3,,,OReilly LLC
+695522836497,United Kingdom,Sat Apr 09 2022 23:35:24 GMT+0100 (British Summer Time),GBP,Demand deposit,Active,Bank of 2,,,"Hand, Bernhard and Kessler"
+125362003142,United Kingdom,Sat Dec 24 2022 21:46:11 GMT+0000 (Greenwich Mean Time),GBP,Demand deposit,Active,Bank of 2,,,"Legros, Tillman and Hodkiewicz"
