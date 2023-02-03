@@ -4,8 +4,9 @@ import { selectRandValue, getDates, generateRandomBankName } from './helpers/fun
 import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './helpers/sampleDataLists.js'
 
 // VARIABLES
-const numberAccounts = 2
+const numberAccounts = 10
 const accountLength = 12
+const numberEntities = 4
 const fromDate = '2022-12-28' // YYYY-MM-DD
 const toDate = '2022-12-31' // YYYY-MM-DD
 const outputDateFormat = 'YYYY-MM-DD HH:mm:ss'
@@ -18,6 +19,8 @@ let accountBalancesTable = [];
 
 const accountNosList = randAccount({ length: numberAccounts, accountLength });
 
+const listEntities = randCompanyName({ length: numberEntities })
+
 // Create account balance row for each account number for all dates
 accountNosList.forEach((accountNumber) => {
   const baseAccounBalRow = {
@@ -28,7 +31,7 @@ accountNosList.forEach((accountNumber) => {
     'Product Type': selectRandValue(BANKING_PRODUCT_TYPES),
     'Financial Institution': generateRandomBankName(),
     'Account Currency Balance': null,
-    'Entity': randCompanyName(),
+    'Entity': selectRandValue(listEntities),
   }
 
   dates.forEach((date, index) => {

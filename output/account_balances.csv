@@ -1,9 +1,41 @@
 Account Number,Location,Datetime,Account Currency,Product Type,Financial Institution,Account Currency Balance,Entity
-880178373433,Mexico,2022-12-28 00:00:00,GBP,Demand deposit,Bank of 9,789000,Stracke - Kertzmann
-880178373433,Mexico,2022-12-29 00:00:00,GBP,Demand deposit,Bank of 9,836731.77,Stracke - Kertzmann
-880178373433,Mexico,2022-12-30 00:00:00,GBP,Demand deposit,Bank of 9,901174.8300000001,Stracke - Kertzmann
-880178373433,Mexico,2022-12-31 00:00:00,GBP,Demand deposit,Bank of 9,897581.6900000001,Stracke - Kertzmann
-142882585026,Japan,2022-12-28 00:00:00,EUR,Demand deposit,Bank of 15,6967000,Jenkins - Turcotte
-142882585026,Japan,2022-12-29 00:00:00,EUR,Demand deposit,Bank of 15,6882074.47,Jenkins - Turcotte
-142882585026,Japan,2022-12-30 00:00:00,EUR,Demand deposit,Bank of 15,7347753.17,Jenkins - Turcotte
-142882585026,Japan,2022-12-31 00:00:00,EUR,Demand deposit,Bank of 15,7435065.29,Jenkins - Turcotte
+248482528272,United Kingdom,2022-12-28 00:00:00,GBP,Demand deposit,Bank of 16,6906000,Shanahan - Boyle
+248482528272,United Kingdom,2022-12-29 00:00:00,GBP,Demand deposit,Bank of 16,7126307.17,Shanahan - Boyle
+248482528272,United Kingdom,2022-12-30 00:00:00,GBP,Demand deposit,Bank of 16,7126307.170,Shanahan - Boyle
+248482528272,United Kingdom,2022-12-31 00:00:00,GBP,Demand deposit,Bank of 16,7126307.170219581.81999999998,Shanahan - Boyle
+018623235057,China,2022-12-28 00:00:00,EUR,Demand deposit,Bank of 12,4028000,"Mertz, Gusikowski and Lemke"
+018623235057,China,2022-12-29 00:00:00,EUR,Demand deposit,Bank of 12,4372615.65,"Mertz, Gusikowski and Lemke"
+018623235057,China,2022-12-30 00:00:00,EUR,Demand deposit,Bank of 12,4364545.470000001,"Mertz, Gusikowski and Lemke"
+018623235057,China,2022-12-31 00:00:00,EUR,Demand deposit,Bank of 12,4637476.200000001,"Mertz, Gusikowski and Lemke"
+617044662181,South Korea,2022-12-28 00:00:00,USD,Demand deposit,Bank of 6,3835000,"Dickinson, Tremblay and Moore"
+617044662181,South Korea,2022-12-29 00:00:00,USD,Demand deposit,Bank of 6,3847788.93,"Dickinson, Tremblay and Moore"
+617044662181,South Korea,2022-12-30 00:00:00,USD,Demand deposit,Bank of 6,4047005.4000000004,"Dickinson, Tremblay and Moore"
+617044662181,South Korea,2022-12-31 00:00:00,USD,Demand deposit,Bank of 6,3925777.2500000005,"Dickinson, Tremblay and Moore"
+831763084393,Germany,2022-12-28 00:00:00,GBP,Demand deposit,Bank of 9,8026000,"Orn, Gerlach and Runolfsdottir"
+831763084393,Germany,2022-12-29 00:00:00,GBP,Demand deposit,Bank of 9,8003191.77,"Orn, Gerlach and Runolfsdottir"
+831763084393,Germany,2022-12-30 00:00:00,GBP,Demand deposit,Bank of 9,8348925.67,"Orn, Gerlach and Runolfsdottir"
+831763084393,Germany,2022-12-31 00:00:00,GBP,Demand deposit,Bank of 9,8376503.87,"Orn, Gerlach and Runolfsdottir"
+413659774162,Malaysia,2022-12-28 00:00:00,GBP,Demand deposit,Bank of 3,5434000,"Mertz, Gusikowski and Lemke"
+413659774162,Malaysia,2022-12-29 00:00:00,GBP,Demand deposit,Bank of 3,5769536.98,"Mertz, Gusikowski and Lemke"
+413659774162,Malaysia,2022-12-30 00:00:00,GBP,Demand deposit,Bank of 3,6175851.54,"Mertz, Gusikowski and Lemke"
+413659774162,Malaysia,2022-12-31 00:00:00,GBP,Demand deposit,Bank of 3,6164277.5600000005,"Mertz, Gusikowski and Lemke"
+253653619676,Singapore,2022-12-28 00:00:00,USD,Demand deposit,Bank of 1,7612000,"Orn, Gerlach and Runolfsdottir"
+253653619676,Singapore,2022-12-29 00:00:00,USD,Demand deposit,Bank of 1,7685276.77,"Orn, Gerlach and Runolfsdottir"
+253653619676,Singapore,2022-12-30 00:00:00,USD,Demand deposit,Bank of 1,8082974.8,"Orn, Gerlach and Runolfsdottir"
+253653619676,Singapore,2022-12-31 00:00:00,USD,Demand deposit,Bank of 1,8184404.5,"Orn, Gerlach and Runolfsdottir"
+455157368407,Mexico,2022-12-28 00:00:00,EUR,Demand deposit,Bank of 15,1625000,Shanahan - Boyle
+455157368407,Mexico,2022-12-29 00:00:00,EUR,Demand deposit,Bank of 15,1268283.52,Shanahan - Boyle
+455157368407,Mexico,2022-12-30 00:00:00,EUR,Demand deposit,Bank of 15,1292601.54,Shanahan - Boyle
+455157368407,Mexico,2022-12-31 00:00:00,EUR,Demand deposit,Bank of 15,1195815.76,Shanahan - Boyle
+623815565325,Argentina,2022-12-28 00:00:00,GBP,Demand deposit,Bank of 16,9523000,"Dickinson, Tremblay and Moore"
+623815565325,Argentina,2022-12-29 00:00:00,GBP,Demand deposit,Bank of 16,9792980.17,"Dickinson, Tremblay and Moore"
+623815565325,Argentina,2022-12-30 00:00:00,GBP,Demand deposit,Bank of 16,9718236,"Dickinson, Tremblay and Moore"
+623815565325,Argentina,2022-12-31 00:00:00,GBP,Demand deposit,Bank of 16,9899216.14,"Dickinson, Tremblay and Moore"
+487770215546,Malaysia,2022-12-28 00:00:00,GBP,Demand deposit,Bank of 1,2933000,Shanahan - Boyle
+487770215546,Malaysia,2022-12-29 00:00:00,GBP,Demand deposit,Bank of 1,2985595.41,Shanahan - Boyle
+487770215546,Malaysia,2022-12-30 00:00:00,GBP,Demand deposit,Bank of 1,3018782.24,Shanahan - Boyle
+487770215546,Malaysia,2022-12-31 00:00:00,GBP,Demand deposit,Bank of 1,3037384.58,Shanahan - Boyle
+433085356685,Ireland,2022-12-28 00:00:00,USD,Demand deposit,Bank of 9,5887000,Shanahan - Boyle
+433085356685,Ireland,2022-12-29 00:00:00,USD,Demand deposit,Bank of 9,5866140.84,Shanahan - Boyle
+433085356685,Ireland,2022-12-30 00:00:00,USD,Demand deposit,Bank of 9,5956903.399999999,Shanahan - Boyle
+433085356685,Ireland,2022-12-31 00:00:00,USD,Demand deposit,Bank of 9,6241527.709999999,Shanahan - Boyle
