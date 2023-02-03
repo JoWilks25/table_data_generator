@@ -65,7 +65,7 @@ accountNosList.forEach((accountNumber) => {
     if (index === 0) {
       prevDayAccBalObject = {...currentDayAccBalObject}
     } else {
-      currentDayAccBalObject['Account Currency Balance'] = prevDayAccBalObject['Account Currency Balance'] + sumTransactions
+      currentDayAccBalObject['Account Currency Balance'] = Number(prevDayAccBalObject['Account Currency Balance']) + sumTransactions
       prevDayAccBalObject = {...currentDayAccBalObject}
     }
 

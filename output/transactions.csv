@@ -1,493 +1,369 @@
 Account Number,Datetime,Transaction type,Inflows / Outflows,Transaction Amount in Account Currency,Counterparty
-282884674164,2022-12-28 11:32:49,Direct Debit,Inflow,43869.16,Lei Gíslason
-282884674164,2022-12-28 13:18:41,Internal Transfer,Outflow,-81236.32,Sunday Muthoni
-282884674164,2022-12-28 11:44:02,Direct Debit,Inflow,53656.91,Ram Schmid
-282884674164,2022-12-28 09:33:01,Direct Debit,Outflow,-51658.98,Lan Óskarsdóttir
-282884674164,2022-12-28 09:13:35,Internal Transfer,Outflow,-54143.58,Somchit Das
-282884674164,2022-12-28 12:41:36,Direct Debit,Outflow,-9976.72,Samran Peña
-282884674164,2022-12-28 12:26:09,Cross Border Transfer,Outflow,-83238.04,Claudia Eze
-282884674164,2022-12-29 17:12:57,Direct Debit,Inflow,1251.98,Yhudiyt Guðmundsson
-282884674164,2022-12-29 10:56:00,Cross Border Transfer,Outflow,-267.83,Lei Pawłowski
-282884674164,2022-12-29 15:31:06,Cross Border Transfer,Outflow,-32340.59,Kun Petrova
-282884674164,2022-12-29 16:08:51,Internal Transfer,Outflow,-74131.12,Sushila Llewellyn
-282884674164,2022-12-29 14:30:32,Internal Transfer,Outflow,-51478.55,Julie Nguyen
-282884674164,2022-12-29 13:15:55,Cross Border Transfer,Inflow,1139.42,Valentina Veselá
-282884674164,2022-12-29 11:43:46,Cheque,Inflow,30285.74,Somnuek Núñez
-282884674164,2022-12-29 09:59:55,Direct Debit,Inflow,64452.68,Somnuek Yamaguchi
-282884674164,2022-12-29 12:47:40,Cheque,Inflow,73359.02,Abdul Jóhannesson
-282884674164,2022-12-29 10:17:35,Internal Transfer,Inflow,96544.91,Otieno Gutiérrez
-282884674164,2022-12-29 17:28:15,Direct Debit,Outflow,-9923.19,Esther Majewski
-282884674164,2022-12-29 15:24:58,Cheque,Inflow,60427.22,Renate Æbeltoft
-282884674164,2022-12-29 12:23:38,Internal Transfer,Inflow,58089.35,Ngozi Peña
-282884674164,2022-12-29 10:11:48,Internal Transfer,Outflow,-75075.71,Zhen García
-282884674164,2022-12-29 12:32:06,Cross Border Transfer,Outflow,-77738.4,Pavel Urbański
-282884674164,2022-12-29 11:01:12,Cross Border Transfer,Outflow,-44519.94,Tal Flores
-282884674164,2022-12-29 17:51:37,Cross Border Transfer,Inflow,98584.8,Patricia Serrano
-282884674164,2022-12-29 13:00:14,Cross Border Transfer,Inflow,86132.02,Katsumi Cooper
-282884674164,2022-12-29 11:42:26,Cheque,Outflow,-61493.46,Hulda Óskarsdóttir
-282884674164,2022-12-29 11:05:32,Cross Border Transfer,Outflow,-48336.31,Min Zulu
-282884674164,2022-12-30 15:55:08,Direct Debit,Outflow,-24876.62,Adamu Chanthara
-282884674164,2022-12-30 17:04:00,Cheque,Inflow,74059.97,Maria-Pilar Gomez
-282884674164,2022-12-30 16:32:05,Direct Debit,Outflow,-88546.07,Shoshanah Birgisdóttir
-282884674164,2022-12-30 09:14:24,Cross Border Transfer,Outflow,-10206.84,Marta Björnsdóttir
-282884674164,2022-12-30 16:32:16,Cheque,Inflow,74149.46,Winai Yusuf
-282884674164,2022-12-30 10:26:25,Cross Border Transfer,Outflow,-2708.16,Bongani Alonso
-282884674164,2022-12-30 09:16:56,Internal Transfer,Outflow,-17549.48,Liping Müller
-282884674164,2022-12-30 17:03:06,Cross Border Transfer,Inflow,53017.9,Hiroshi König
-282884674164,2022-12-30 13:27:57,Direct Debit,Inflow,91982.96,Joy Kristjánsdóttir
-282884674164,2022-12-31 12:53:05,Cross Border Transfer,Outflow,-23187.9,Nan Ólafsdóttir
-282884674164,2022-12-31 15:11:44,Cross Border Transfer,Inflow,15.47,Xiaohong Olszewski
-282884674164,2022-12-31 13:56:16,Internal Transfer,Inflow,8118.03,Rose Jónsson
-282884674164,2022-12-31 17:48:42,Cross Border Transfer,Outflow,-88385.64,Anton Peters
-282884674164,2022-12-31 17:30:04,Cheque,Outflow,-69335.36,Mohammed Smits
-282884674164,2022-12-31 15:25:31,Cross Border Transfer,Inflow,65053.21,Rita Förster
-282884674164,2022-12-31 13:35:51,Cross Border Transfer,Outflow,-41082.13,Richard Njoroge
-282884674164,2022-12-31 09:43:53,Internal Transfer,Inflow,56764.76,Xin Ochieng
-282884674164,2022-12-31 15:18:02,Internal Transfer,Outflow,-48135.36,Keiko Cheng
-282884674164,2022-12-31 14:28:34,Direct Debit,Outflow,-5098.43,Hendrik Navarro
-282884674164,2022-12-31 09:45:12,Cheque,Inflow,2687.88,Lan Jóhannsdóttir
-282884674164,2022-12-31 09:28:00,Direct Debit,Outflow,-25541.74,Noriko Chukwu
-644366817415,2022-12-28 10:57:08,Cross Border Transfer,Inflow,73152.38,Bunmi Watkins
-644366817415,2022-12-28 09:58:08,Cheque,Outflow,-12311.94,Claire Kato
-644366817415,2022-12-28 16:49:03,Cross Border Transfer,Outflow,-36659.12,Ramesh Guðmundsson
-644366817415,2022-12-28 12:14:12,Cheque,Inflow,31586.05,Somkhit John
-644366817415,2022-12-28 10:09:59,Direct Debit,Inflow,59532.39,Alexey Ragnarsdóttir
-644366817415,2022-12-28 10:25:51,Internal Transfer,Outflow,-36393.5,Usman Pretorius
-644366817415,2022-12-28 12:09:46,Internal Transfer,Outflow,-22928.79,Mary García
-644366817415,2022-12-28 13:05:24,Internal Transfer,Outflow,-38652.75,Rong Ūsas
-644366817415,2022-12-28 13:19:55,Direct Debit,Outflow,-59696.84,Mary Olszewski
-644366817415,2022-12-28 12:19:12,Internal Transfer,Inflow,61170.97,Xiaoping Segel
-644366817415,2022-12-28 14:23:59,Direct Debit,Outflow,-94605.13,Ryoko Jia
-644366817415,2022-12-28 12:33:59,Cheque,Outflow,-34341.9,Mali Sveinsdóttir
-644366817415,2022-12-28 10:25:06,Cross Border Transfer,Outflow,-24891.33,Susan Björnsdóttir
-644366817415,2022-12-29 12:28:57,Cheque,Outflow,-38434.11,Tatyana Endo
-644366817415,2022-12-29 11:16:32,Direct Debit,Inflow,55858.59,Heinz Ito
-644366817415,2022-12-29 16:47:45,Direct Debit,Inflow,39102.01,Yasuo Jäger
-644366817415,2022-12-29 13:01:19,Cheque,Inflow,86249.18,Faith Thongkham
-644366817415,2022-12-29 11:01:46,Direct Debit,Outflow,-310.57,Arnar Li
-644366817415,2022-12-29 16:29:29,Cross Border Transfer,Inflow,24936.09,Wirat Martinez
-644366817415,2022-12-29 14:26:53,Cross Border Transfer,Inflow,89328.41,Nikolay Okoth
-644366817415,2022-12-29 16:09:54,Cross Border Transfer,Outflow,-23416.45,Maria-Isabel Jacobs
-644366817415,2022-12-29 09:29:48,Direct Debit,Outflow,-4023.12,Amiyt Björnsdóttir
-644366817415,2022-12-29 11:15:01,Internal Transfer,Inflow,41342.79,Anah Golan
-644366817415,2022-12-29 15:04:36,Cross Border Transfer,Inflow,99121.51,Kseniya Øvergård
-644366817415,2022-12-29 09:40:51,Cheque,Outflow,-43575.19,Lijun Eze
-644366817415,2022-12-29 12:19:32,Internal Transfer,Outflow,-92011.56,Jin Levy
-644366817415,2022-12-29 09:00:29,Cheque,Inflow,49068.75,Shoshanah Ngcobo
-644366817415,2022-12-29 17:19:31,Internal Transfer,Outflow,-17056.28,Ling Pawlak
-644366817415,2022-12-29 09:28:30,Direct Debit,Outflow,-14006.75,Saman Sigurjónsson
-644366817415,2022-12-29 10:23:18,Internal Transfer,Inflow,95288.9,Erla Chen
-644366817415,2022-12-30 11:40:45,Internal Transfer,Inflow,82898.6,Jose-Manuel Katz
-644366817415,2022-12-30 17:39:57,Cross Border Transfer,Inflow,59051.76,Umar Łapiński
-644366817415,2022-12-30 10:13:45,Direct Debit,Inflow,16273.48,Chanah Chávez
-644366817415,2022-12-30 11:32:20,Cross Border Transfer,Inflow,81049.65,Bin Ágústsson
-644366817415,2022-12-30 11:40:43,Internal Transfer,Outflow,-2965.98,Galina Jung
-644366817415,2022-12-30 16:56:26,Cheque,Outflow,-49550.81,Fiona Bjarnadóttir
-644366817415,2022-12-30 17:12:04,Direct Debit,Inflow,52254.32,Faith Černý
-644366817415,2022-12-30 13:22:30,Internal Transfer,Inflow,89624,Hauwa Novák
-644366817415,2022-12-30 15:20:26,Internal Transfer,Inflow,16719.16,Joan Scott
-644366817415,2022-12-30 10:10:45,Cheque,Outflow,-53457.98,Kamil Ãshaikh
-644366817415,2022-12-30 15:16:07,Direct Debit,Outflow,-40609.76,Wojciech Bunsi
-644366817415,2022-12-30 16:31:52,Direct Debit,Outflow,-16383.18,Prani Baldursdóttir
-644366817415,2022-12-31 14:47:14,Cheque,Outflow,-38141.16,Rose Hill
-644366817415,2022-12-31 17:22:10,Direct Debit,Inflow,41656.8,Noam Levy
-644366817415,2022-12-31 13:53:00,Internal Transfer,Inflow,41399.22,Qing Jóhannsdóttir
-644366817415,2022-12-31 11:33:51,Cheque,Outflow,-85205.88,Somkhit Haruna
-644366817415,2022-12-31 09:17:36,Cheque,Outflow,-98745.61,Sebastian De-Groot
-644366817415,2022-12-31 15:51:25,Internal Transfer,Outflow,-97381.57,Laxmi Kumar
-644366817415,2022-12-31 13:33:22,Cheque,Outflow,-34966,Zainab Bjarnadóttir
-644366817415,2022-12-31 11:32:30,Cheque,Outflow,-73635.95,Inga Pérez
-644366817415,2022-12-31 15:16:51,Cheque,Outflow,-13277.67,Vinod Zimmermann
-644366817415,2022-12-31 12:06:40,Direct Debit,Inflow,52156.19,Kelvin Æbelø
-644366817415,2022-12-31 17:18:21,Cross Border Transfer,Inflow,3728.49,Eliyahu Svobodová
-644366817415,2022-12-31 09:33:13,Direct Debit,Outflow,-57302.53,Valentina Pawłowski
-644366817415,2022-12-31 09:57:02,Internal Transfer,Outflow,-82804.28,Jianjun Marková
-644366817415,2022-12-31 16:30:53,Internal Transfer,Inflow,40054.52,Miguel Þórðardóttir
-644366817415,2022-12-31 13:39:46,Cheque,Outflow,-16501.36,Wanchai Oakley
-644366817415,2022-12-31 15:49:42,Cross Border Transfer,Inflow,58767.26,Haruna Mathebula
-644366817415,2022-12-31 17:18:47,Cross Border Transfer,Outflow,-65393.34,Lilja Behera
-644366817415,2022-12-31 14:56:05,Cross Border Transfer,Inflow,27516.65,Thulani Sadowski
-644366817415,2022-12-31 17:48:06,Internal Transfer,Outflow,-85750.68,Sawat Beneš
-030237805512,2022-12-28 16:42:57,Direct Debit,Inflow,5174.2,Ravi Žukauskas
-030237805512,2022-12-28 16:06:15,Internal Transfer,Outflow,-71473.4,Claire Harðardóttir
-030237805512,2022-12-28 11:26:18,Cheque,Inflow,65502.98,Ping Veselá
-030237805512,2022-12-28 15:39:42,Internal Transfer,Outflow,-76322.45,Kiyoshi Taylor
-030237805512,2022-12-28 13:49:03,Cross Border Transfer,Inflow,92886.18,Yong Lozano
-030237805512,2022-12-28 11:59:26,Internal Transfer,Inflow,48014.87,Dariusz Pálsson
-030237805512,2022-12-28 10:32:08,Direct Debit,Outflow,-628.82,Hauwa Ramírez
-030237805512,2022-12-28 16:11:47,Cheque,Outflow,-84101.92,Marcin Mayer
-030237805512,2022-12-28 16:53:44,Direct Debit,Inflow,46723.3,Tal Mhamid
-030237805512,2022-12-28 10:22:25,Internal Transfer,Outflow,-360.36,Petra Müller
-030237805512,2022-12-28 09:01:05,Direct Debit,Outflow,-51822.18,Lan Dekker
-030237805512,2022-12-28 12:42:46,Cross Border Transfer,Inflow,84752.66,Zhen Pálsdóttir
-030237805512,2022-12-28 17:07:06,Internal Transfer,Outflow,-93764.51,Qing Jäger
-030237805512,2022-12-28 17:03:10,Direct Debit,Outflow,-32055.76,Koichi Sichantha
-030237805512,2022-12-28 16:35:13,Direct Debit,Outflow,-93157.93,Katsumi Marková
-030237805512,2022-12-28 17:13:08,Cross Border Transfer,Outflow,-52993.16,Pablo Sokolov
-030237805512,2022-12-28 16:36:37,Cheque,Inflow,78451.84,Xiaohong Žukauskienė
-030237805512,2022-12-28 13:41:06,Direct Debit,Inflow,37556.46,Klaus Hauksdóttir
-030237805512,2022-12-29 14:51:20,Cross Border Transfer,Outflow,-15341.15,Eunice Pétursson
-030237805512,2022-12-29 16:58:32,Cross Border Transfer,Inflow,70606.59,Anah Ríos
-030237805512,2022-12-29 15:39:56,Cheque,Inflow,27757.86,Stefan Walters
-030237805512,2022-12-29 13:26:52,Cross Border Transfer,Outflow,-45694.03,Pushpa Shevchenko
-030237805512,2022-12-30 11:44:17,Internal Transfer,Outflow,-16272.59,Urmila Díaz
-030237805512,2022-12-30 16:49:42,Cheque,Outflow,-30963.73,Jean Nyambura
-030237805512,2022-12-30 09:58:42,Direct Debit,Inflow,75987.46,Joy Parker
-030237805512,2022-12-30 11:55:49,Cheque,Inflow,49977.69,Somnuek Paswan
-030237805512,2022-12-30 12:56:18,Internal Transfer,Inflow,86943.43,Walter Cortes
-030237805512,2022-12-30 17:27:41,Internal Transfer,Outflow,-69502.39,Amit Birgisson
-030237805512,2022-12-30 15:36:58,Cross Border Transfer,Outflow,-44917.13,Katsumi López
-030237805512,2022-12-30 13:46:59,Cheque,Outflow,-19117.83,Cristina Watson
-030237805512,2022-12-30 15:38:51,Cheque,Inflow,92457.15,Toshio Pawłowski
-030237805512,2022-12-30 09:26:46,Internal Transfer,Outflow,-84687.05,Vincent Hendriks
-030237805512,2022-12-30 10:16:57,Cross Border Transfer,Inflow,72441.46,Yakubu Gutiérrez
-030237805512,2022-12-30 12:21:09,Cheque,Inflow,83598.58,Walter Lozano
-030237805512,2022-12-30 14:06:02,Direct Debit,Outflow,-4206.16,Wirat Magnússon
-030237805512,2022-12-30 14:48:04,Internal Transfer,Outflow,-42050.24,Sunday Ødegård
-030237805512,2022-12-30 09:33:02,Direct Debit,Outflow,-95870,Matthew Halldórsdóttir
-030237805512,2022-12-30 09:10:52,Cheque,Inflow,82793.88,Yoshio Gíslason
-030237805512,2022-12-30 14:51:47,Internal Transfer,Inflow,7864.48,Sergey Maseko
-030237805512,2022-12-30 14:52:48,Direct Debit,Inflow,38753.27,Yasuo Veselý
-030237805512,2022-12-31 15:28:51,Cheque,Inflow,64922.38,Ajay Bevan
-030237805512,2022-12-31 12:19:36,Cheque,Inflow,18676.13,Keiko Žukauskas
-030237805512,2022-12-31 13:27:32,Cheque,Inflow,90492.09,Yusuf Wood
-030237805512,2022-12-31 09:38:03,Cheque,Outflow,-36692.62,Lijun Łuczak
-030237805512,2022-12-31 16:11:30,Internal Transfer,Inflow,36105.32,Andrea Pillay
-030237805512,2022-12-31 11:37:47,Cross Border Transfer,Outflow,-72247,Xiang Griffiths
-030237805512,2022-12-31 14:09:52,Cheque,Inflow,86792.8,Yoshie Veselá
-030237805512,2022-12-31 14:24:27,Direct Debit,Outflow,-51901.4,Antonia Smit
-030237805512,2022-12-31 14:16:45,Internal Transfer,Outflow,-61228.19,Toshiko Sakamoto
-030237805512,2022-12-31 14:39:23,Internal Transfer,Inflow,5078.33,Suman Elbaz
-030237805512,2022-12-31 12:55:18,Direct Debit,Outflow,-60452.63,Graham Ayutthaya
-030237805512,2022-12-31 13:20:42,Cheque,Outflow,-52113.78,Sommai Björnsson
-030237805512,2022-12-31 17:15:45,Internal Transfer,Outflow,-9012.21,Gisela Schouten
-030237805512,2022-12-31 13:12:58,Cross Border Transfer,Inflow,17245.25,Lan Kozłowski
-030237805512,2022-12-31 16:27:38,Cross Border Transfer,Outflow,-71751.96,Claire Kucharski
-030237805512,2022-12-31 16:38:27,Cheque,Inflow,49167.1,Idris Björnsdóttir
-030237805512,2022-12-31 10:58:18,Direct Debit,Outflow,-8712.68,Maryam Majewski
-030237805512,2022-12-31 15:24:30,Internal Transfer,Outflow,-81650.44,Marina Powell
-030237805512,2022-12-31 12:21:32,Cheque,Outflow,-18293.01,Thomas Pérez
-771675640338,2022-12-28 14:25:05,Direct Debit,Outflow,-72703.63,Adamu Urbański
-771675640338,2022-12-28 09:26:45,Direct Debit,Outflow,-3059.46,Somnuek Jónasson
-771675640338,2022-12-28 14:17:34,Cross Border Transfer,Outflow,-91195.55,Noam Pálsdóttir
-771675640338,2022-12-28 16:37:49,Internal Transfer,Outflow,-97870.27,Daniel Rosenberg
-771675640338,2022-12-28 13:35:09,Direct Debit,Inflow,98211.31,Christian Omar
-771675640338,2022-12-28 16:37:26,Direct Debit,Inflow,21896.32,Sombun Schneider
-771675640338,2022-12-28 10:57:14,Cheque,Inflow,18930.23,Lyudmila Alvarez
-771675640338,2022-12-28 15:20:44,Internal Transfer,Inflow,92408.75,Magdalena Gunnarsdóttir
-771675640338,2022-12-28 09:03:28,Direct Debit,Inflow,14196.75,Andri Lawal
-771675640338,2022-12-28 15:02:12,Direct Debit,Outflow,-24465.23,Prasoet Łuczak
-771675640338,2022-12-28 12:43:56,Internal Transfer,Outflow,-56635.29,Aleksey Pritchard
-771675640338,2022-12-28 13:22:57,Direct Debit,Outflow,-68678.33,Ram Þorsteinsdóttir
-771675640338,2022-12-28 15:34:48,Direct Debit,Outflow,-93789.46,Jose Guo
-771675640338,2022-12-28 10:45:03,Cheque,Inflow,4821.64,Wei Watkins
-771675640338,2022-12-28 16:57:52,Internal Transfer,Inflow,3452.2,Amina Simiyu
-771675640338,2022-12-28 13:37:55,Cheque,Inflow,13848.73,Gary Schwartz
-771675640338,2022-12-28 09:06:51,Direct Debit,Inflow,61996.22,Vladimir Lavyan
-771675640338,2022-12-28 12:54:29,Cheque,Outflow,-89280.39,Blessing Gumede
-771675640338,2022-12-28 17:28:10,Cheque,Inflow,72576.36,Karen Benešová
-771675640338,2022-12-28 16:12:27,Cross Border Transfer,Inflow,84326.32,Sam Arnarson
-771675640338,2022-12-29 17:11:48,Direct Debit,Outflow,-30496.7,Aisha Maas
-771675640338,2022-12-30 13:07:52,Cross Border Transfer,Inflow,45411.55,Joan Becker
-771675640338,2022-12-30 13:23:13,Cross Border Transfer,Inflow,87438.9,Wojciech Jiménez
-771675640338,2022-12-30 12:42:51,Cross Border Transfer,Outflow,-2885.83,Shanti Jia
-771675640338,2022-12-30 15:17:40,Direct Debit,Outflow,-87381.22,Fernando Schulz
-771675640338,2022-12-30 16:36:09,Cheque,Outflow,-57956.58,Isah Gísladóttir
-771675640338,2022-12-30 13:34:54,Direct Debit,Outflow,-76849.22,Nicola Gutiérrez
-771675640338,2022-12-30 09:34:39,Cross Border Transfer,Inflow,81871.15,Somchit Stefánsdóttir
-771675640338,2022-12-30 16:10:27,Internal Transfer,Inflow,92319.36,Yoshie Bai
-771675640338,2022-12-30 10:55:41,Direct Debit,Inflow,2268.81,Hong Þórðardóttir
-771675640338,2022-12-30 13:56:22,Cheque,Inflow,74020.64,Lijun Cook
-771675640338,2022-12-30 13:10:45,Direct Debit,Inflow,81882.93,Sveinn Pretorius
-771675640338,2022-12-30 12:03:06,Cross Border Transfer,Outflow,-19856.14,Bello Ochieng
-771675640338,2022-12-30 14:00:06,Cross Border Transfer,Outflow,-93855.64,Idris Möller
-771675640338,2022-12-31 15:28:32,Cheque,Outflow,-98996.92,Lilian Lal
-771675640338,2022-12-31 14:06:05,Cross Border Transfer,Outflow,-76977.8,Yoshie Zoabi
-771675640338,2022-12-31 09:28:43,Cheque,Inflow,5080.53,Liping Segel
-771675640338,2022-12-31 11:14:14,Cross Border Transfer,Outflow,-55227.83,Hisako Muthoni
-771675640338,2022-12-31 16:22:01,Direct Debit,Inflow,357.66,Ajay Øvergård
-771675640338,2022-12-31 09:18:45,Internal Transfer,Outflow,-39971.7,Ana Förster
-771675640338,2022-12-31 14:56:42,Cheque,Inflow,54134.96,Mercy Kristjánsson
-771675640338,2022-12-31 09:56:19,Cheque,Outflow,-61961.6,Ling Bjarnadóttir
-771675640338,2022-12-31 15:39:59,Internal Transfer,Outflow,-62689.2,Magda Rogers
-771675640338,2022-12-31 13:17:47,Cheque,Inflow,27097.73,Ekaterina Böttcher
-771675640338,2022-12-31 15:06:53,Direct Debit,Inflow,44061.39,Ajay Einarsdóttir
-771675640338,2022-12-31 11:54:11,Cross Border Transfer,Inflow,81597.43,Horst Schouten
-484626875203,2022-12-28 10:24:00,Cheque,Outflow,-55988.91,Emmanuel Maina
-484626875203,2022-12-28 10:47:41,Direct Debit,Inflow,63256.39,Kiran Andreev
-484626875203,2022-12-28 15:23:32,Direct Debit,Outflow,-30253.29,Rattana Dvořáková
-484626875203,2022-12-28 14:09:13,Direct Debit,Inflow,99382.18,Mercy Price
-484626875203,2022-12-28 09:12:26,Cross Border Transfer,Outflow,-36677.34,Matthew Kibet
-484626875203,2022-12-28 11:05:34,Cross Border Transfer,Inflow,65473.7,Masako Árnadóttir
-484626875203,2022-12-28 10:17:01,Direct Debit,Outflow,-5300.94,Muhammed Kristinsdóttir
-484626875203,2022-12-28 12:50:54,Direct Debit,Inflow,43911.64,Somphong Njoroge
-484626875203,2022-12-28 12:44:32,Direct Debit,Inflow,63634.68,Yuval Černý
-484626875203,2022-12-28 16:21:32,Cheque,Inflow,40394.73,Ian Kobayashi
-484626875203,2022-12-28 12:51:19,Internal Transfer,Inflow,72687.38,Jason Þórðarson
-484626875203,2022-12-28 17:11:22,Cross Border Transfer,Inflow,90742,Daniyel Łuczak
-484626875203,2022-12-28 16:42:59,Cross Border Transfer,Inflow,94053.21,Mukesh Kondo
-484626875203,2022-12-28 15:41:39,Direct Debit,Inflow,1598.15,Claudia Saelim
-484626875203,2022-12-28 12:49:20,Direct Debit,Outflow,-34469.02,Ming Malinowski
-484626875203,2022-12-28 15:06:50,Cheque,Inflow,76397.64,Yoshiko Mhlongo
-484626875203,2022-12-28 13:31:58,Cross Border Transfer,Outflow,-19907.91,Mpho Ūsas
-484626875203,2022-12-29 11:58:30,Cheque,Outflow,-30281.44,Xiaoyan Das
-484626875203,2022-12-29 13:55:11,Direct Debit,Outflow,-5517.76,Sanjay Guðmundsdóttir
-484626875203,2022-12-29 10:42:26,Internal Transfer,Outflow,-23370.26,Dieter Sergeeva
-484626875203,2022-12-29 09:41:17,Cheque,Inflow,40944.45,Katsumi Ūžien
-484626875203,2022-12-29 12:48:24,Cheque,Outflow,-886.4,Kun Björnsson
-484626875203,2022-12-29 16:36:33,Internal Transfer,Outflow,-31285.67,Eugenia Karlsdóttir
-484626875203,2022-12-29 15:53:45,Internal Transfer,Inflow,39733.43,Teruko Bowen
-484626875203,2022-12-29 14:47:50,Internal Transfer,Inflow,43366.81,Bunmi Kjartansdóttir
-484626875203,2022-12-29 14:35:17,Internal Transfer,Inflow,89085.01,Raj Mohammed
-484626875203,2022-12-29 10:31:40,Internal Transfer,Outflow,-8155.7,Sombat Schouten
-484626875203,2022-12-29 14:00:07,Direct Debit,Outflow,-11755.08,Gabra Szymański
-484626875203,2022-12-29 16:17:32,Internal Transfer,Inflow,42850.37,Mariya Peng
-484626875203,2022-12-30 15:24:05,Direct Debit,Inflow,99654.19,Karin Kobayashi
-484626875203,2022-12-30 12:22:40,Cheque,Outflow,-51854.21,Laxmi Meier
-484626875203,2022-12-30 10:51:26,Internal Transfer,Inflow,63260.29,Inga Sichantha
-484626875203,2022-12-31 10:14:30,Direct Debit,Outflow,-53888.4,Narong Müller
-484626875203,2022-12-31 11:31:43,Cross Border Transfer,Outflow,-88510.24,Rakesh Marin
-484626875203,2022-12-31 17:49:37,Internal Transfer,Inflow,49516.82,Dieter Novák
-484626875203,2022-12-31 14:11:34,Cheque,Inflow,76979.57,Mohammad Žukauskienė
-484626875203,2022-12-31 09:17:21,Direct Debit,Inflow,75960.32,Yelena Adhiambo
-484626875203,2022-12-31 17:55:54,Cross Border Transfer,Outflow,-88487.74,Lin Schäfer
-484626875203,2022-12-31 15:32:19,Cross Border Transfer,Inflow,80873.48,Sunita Lehmann
-484626875203,2022-12-31 12:17:57,Cheque,Outflow,-80601.3,Erla Jäger
-484626875203,2022-12-31 12:25:20,Cross Border Transfer,Inflow,5745.16,Anastasiya Ásgeirsdóttir
-484626875203,2022-12-31 10:24:48,Cross Border Transfer,Outflow,-70089.67,Lindiwe Novotná
-484626875203,2022-12-31 16:32:46,Internal Transfer,Inflow,90676.5,Jianjun Katz
-484626875203,2022-12-31 09:09:26,Internal Transfer,Outflow,-98774.58,Francisca Magnússon
-484626875203,2022-12-31 14:29:18,Direct Debit,Inflow,41359.76,Jabulani Yakubu
-484626875203,2022-12-31 14:56:23,Cross Border Transfer,Outflow,-98320.21,Phonthip Jónasson
-484626875203,2022-12-31 15:39:24,Cross Border Transfer,Inflow,98405.47,Alexey Olszewski
-484626875203,2022-12-31 15:48:39,Direct Debit,Outflow,-97738.37,Thulani Bjarnadóttir
-239121181327,2022-12-28 09:48:54,Internal Transfer,Outflow,-52212.33,Toshio Tian
-239121181327,2022-12-28 16:56:54,Direct Debit,Inflow,61688.79,Jianjun Mikhaylova
-239121181327,2022-12-28 12:20:12,Cross Border Transfer,Inflow,98866.92,Maria-Jose Lal
-239121181327,2022-12-28 12:21:34,Internal Transfer,Inflow,4838.5,Adam Sharma
-239121181327,2022-12-28 10:45:19,Cheque,Outflow,-26657.96,Lilian Fu
-239121181327,2022-12-28 15:11:59,Direct Debit,Inflow,99901.55,Zanele Novotný
-239121181327,2022-12-28 17:32:34,Internal Transfer,Outflow,-49558.14,Eva Bai
-239121181327,2022-12-28 14:10:14,Cross Border Transfer,Outflow,-76856.3,Amit Suad
-239121181327,2022-12-28 14:46:07,Cheque,Outflow,-93666.9,Urmila Shalom
-239121181327,2022-12-28 09:49:58,Direct Debit,Outflow,-59132.3,Thawi Jóhannesson
-239121181327,2022-12-28 11:56:40,Internal Transfer,Outflow,-23430.71,Roy Isaac
-239121181327,2022-12-28 10:47:17,Internal Transfer,Inflow,34334.96,Hiroko Guzmán
-239121181327,2022-12-28 17:52:40,Cross Border Transfer,Inflow,73971.58,Joan Gunnarsdóttir
-239121181327,2022-12-28 14:42:02,Direct Debit,Outflow,-23583.8,Lin Ðorðić
-239121181327,2022-12-28 10:35:19,Direct Debit,Outflow,-45697.76,Xiaoyan Omondi
-239121181327,2022-12-28 09:22:13,Internal Transfer,Outflow,-51940.99,Sunthon Johnson
-239121181327,2022-12-28 14:53:56,Cheque,Inflow,44807.72,Ling Þórðarson
-239121181327,2022-12-28 15:06:06,Internal Transfer,Inflow,7102.91,Bunmi Kuznetsov
-239121181327,2022-12-28 14:12:31,Cross Border Transfer,Outflow,-42129.17,Mo Jasiński
-239121181327,2022-12-29 11:37:14,Internal Transfer,Outflow,-1938.09,Birgit Fernández
-239121181327,2022-12-29 16:15:49,Cheque,Outflow,-91553.95,Keiko Davies
-239121181327,2022-12-29 13:12:32,Cross Border Transfer,Outflow,-92677.6,Ning Andreev
-239121181327,2022-12-29 16:45:08,Cheque,Inflow,37160.95,Maria-Jose Pálsdóttir
-239121181327,2022-12-29 14:17:11,Cheque,Inflow,85933.42,Adamu Ólafsdóttir
-239121181327,2022-12-29 10:50:01,Cross Border Transfer,Inflow,98036.34,Galina Cao
-239121181327,2022-12-29 15:04:14,Direct Debit,Inflow,41057.79,Hendrik Rungrueang
-239121181327,2022-12-29 16:06:30,Cross Border Transfer,Inflow,8825.86,Ingrid Karlsson
-239121181327,2022-12-29 10:36:10,Internal Transfer,Inflow,63808.4,Yelena Ibrahim
-239121181327,2022-12-29 09:26:39,Internal Transfer,Inflow,30549.76,Santosh Yang
-239121181327,2022-12-29 14:49:14,Internal Transfer,Inflow,63754.61,Somphon Ragnarsdóttir
-239121181327,2022-12-29 14:33:45,Internal Transfer,Inflow,34086.79,Mpho Shaikh
-239121181327,2022-12-29 13:51:16,Cross Border Transfer,Inflow,55230.18,Lilian Horák
-239121181327,2022-12-29 13:46:38,Internal Transfer,Inflow,42525.92,Pushpa Halldórsson
-239121181327,2022-12-29 11:46:57,Direct Debit,Inflow,92392.79,Alexey Bitton
-239121181327,2022-12-29 09:47:49,Cross Border Transfer,Inflow,90111.21,Somkhit Segel
-239121181327,2022-12-29 13:22:26,Cross Border Transfer,Outflow,-82079.16,Suman Łapiński
-239121181327,2022-12-29 17:33:41,Direct Debit,Outflow,-37759.93,Saman Khan
-239121181327,2022-12-30 16:33:07,Cross Border Transfer,Outflow,-91247,Mikhail Ásgeirsdóttir
-239121181327,2022-12-30 11:00:15,Cross Border Transfer,Outflow,-37055.47,Sam Díaz
-239121181327,2022-12-30 14:00:47,Direct Debit,Outflow,-55022.26,Maryam Koch
-239121181327,2022-12-30 09:12:52,Internal Transfer,Outflow,-61807.76,Ying Schmitz
-239121181327,2022-12-30 10:05:47,Internal Transfer,Outflow,-50190.07,Mark Stefánsson
-239121181327,2022-12-30 13:08:34,Direct Debit,Inflow,87281.06,Yong Jónsdóttir
-239121181327,2022-12-30 12:38:12,Cheque,Outflow,-95486.02,Lyubov John
-239121181327,2022-12-30 14:02:35,Cross Border Transfer,Outflow,-7952.43,Thawi Brown
-239121181327,2022-12-30 11:47:46,Direct Debit,Outflow,-99409.38,Jan Mofokeng
-239121181327,2022-12-30 17:17:56,Internal Transfer,Inflow,25714.22,Sveinn Nkosi
-239121181327,2022-12-30 15:46:06,Cheque,Outflow,-61698.49,Dieter Gutiérrez
-239121181327,2022-12-30 09:05:40,Internal Transfer,Inflow,72085.51,Petra Martínez
-239121181327,2022-12-30 09:07:14,Cheque,Outflow,-25009.36,Christa Horáková
-239121181327,2022-12-30 10:28:29,Direct Debit,Outflow,-4189.57,Ian Tian
-239121181327,2022-12-30 13:56:27,Cross Border Transfer,Outflow,-45187.7,Bunmi Černá
-239121181327,2022-12-31 10:09:24,Cross Border Transfer,Outflow,-33132.68,Shigeru Moore
-239121181327,2022-12-31 10:11:26,Cheque,Inflow,75150.31,Yuko Guzmán
-239121181327,2022-12-31 11:40:15,Internal Transfer,Outflow,-16755.22,Isah Ūžien
-239121181327,2022-12-31 17:19:23,Cheque,Outflow,-79050.23,Heinz Baker
-239121181327,2022-12-31 14:51:07,Cheque,Outflow,-88654.7,Janet Saetan
-239121181327,2022-12-31 17:46:20,Cross Border Transfer,Outflow,-82138.94,Dmitriy Cruz
-239121181327,2022-12-31 13:31:29,Direct Debit,Inflow,83430.92,Rosa Haraldsdóttir
-239121181327,2022-12-31 15:21:23,Cross Border Transfer,Inflow,12232.14,Fiona Bunsi
-239121181327,2022-12-31 09:30:14,Direct Debit,Inflow,53653.32,Kamil Guðmundsson
-786923705661,2022-12-28 14:48:50,Internal Transfer,Inflow,65569.3,Samran Novotný
-786923705661,2022-12-28 14:16:02,Cross Border Transfer,Outflow,-82461,Hong Sigurðsson
-786923705661,2022-12-28 14:10:38,Internal Transfer,Outflow,-36530.45,Raphael Svobodová
-786923705661,2022-12-28 09:51:21,Internal Transfer,Inflow,66708.63,Alexander Núñez
-786923705661,2022-12-28 15:29:56,Direct Debit,Inflow,35989.83,Lei Smirnov
-786923705661,2022-12-28 12:03:00,Direct Debit,Inflow,27402.84,Iwona Szymański
-786923705661,2022-12-28 16:30:10,Internal Transfer,Outflow,-89695.32,Maria-Jose Černý
-786923705661,2022-12-28 16:39:39,Internal Transfer,Inflow,73592.11,Gareth Őllösová
-786923705661,2022-12-28 17:34:25,Direct Debit,Outflow,-62274.99,Krzysztof Mazibuko
-786923705661,2022-12-28 16:24:21,Internal Transfer,Outflow,-20136.24,Mikhail Su
-786923705661,2022-12-29 12:32:20,Internal Transfer,Outflow,-76531.63,Jianhua Þorsteinsdóttir
-786923705661,2022-12-29 15:15:33,Cheque,Inflow,10796.33,Nonhlanhla Clarke
-786923705661,2022-12-29 11:33:08,Cross Border Transfer,Inflow,24078.05,Robert Pospíšilová
-786923705661,2022-12-29 11:30:43,Direct Debit,Outflow,-97618.3,Maciej Őri
-786923705661,2022-12-29 16:30:05,Cheque,Inflow,71130.48,Darya Kamiński
-786923705661,2022-12-29 11:18:00,Cheque,Outflow,-5665.54,Lilian Kamiński
-786923705661,2022-12-29 11:41:19,Cross Border Transfer,Outflow,-51087.51,Eva Friðriksson
-786923705661,2022-12-29 10:13:19,Cheque,Outflow,-83878.68,Xiaoping Sahu
-786923705661,2022-12-29 09:54:11,Cheque,Outflow,-63746.36,Sammy Pietrzak
-786923705661,2022-12-29 13:55:10,Internal Transfer,Outflow,-12015.74,Sawat Kjartansdóttir
-786923705661,2022-12-29 15:59:06,Direct Debit,Inflow,64205.47,Shigeru Sharma
-786923705661,2022-12-30 15:42:01,Cross Border Transfer,Inflow,15623.98,Lucia Vasileva
-786923705661,2022-12-30 09:33:57,Internal Transfer,Outflow,-31235.75,Xiaoyan Janssen
-786923705661,2022-12-30 11:04:39,Cheque,Outflow,-78921.68,Bartosz Böttcher
-786923705661,2022-12-30 16:16:26,Internal Transfer,Inflow,89075.1,Konstantin Adan
-786923705661,2022-12-30 09:31:49,Cross Border Transfer,Inflow,5421.75,Wilai Łapiński
-786923705661,2022-12-31 17:19:58,Cross Border Transfer,Inflow,36756.52,Martin Rubio
-786923705661,2022-12-31 13:49:50,Cheque,Outflow,-3136.4,Nokuthula Pétursdóttir
-786923705661,2022-12-31 16:43:51,Cross Border Transfer,Inflow,48507.44,Hans Ríos
-786923705661,2022-12-31 10:01:41,Internal Transfer,Inflow,59489.82,Mark Groß
-786923705661,2022-12-31 16:02:41,Cross Border Transfer,Outflow,-56802.74,Jennifer Ðorðić
-786923705661,2022-12-31 14:56:19,Cross Border Transfer,Outflow,-32847.34,Tadashi Vásquez
-786923705661,2022-12-31 10:35:41,Cross Border Transfer,Inflow,31382.76,Akira Dvořáková
-786923705661,2022-12-31 09:22:15,Cheque,Outflow,-98735.3,Abubakar Jónsson
-786923705661,2022-12-31 09:59:22,Cross Border Transfer,Inflow,6209.79,Tal Espinoza
-786923705661,2022-12-31 16:54:58,Internal Transfer,Inflow,48373.87,Ahmad Stefánsdóttir
-786923705661,2022-12-31 16:31:29,Direct Debit,Outflow,-91058.99,Emiko Nowakowski
-786923705661,2022-12-31 11:51:20,Cheque,Outflow,-80526.05,Sebastian Méndez
-786923705661,2022-12-31 11:18:48,Cross Border Transfer,Inflow,805.38,Victor Friðriksson
-786923705661,2022-12-31 12:08:36,Direct Debit,Inflow,3647.04,Andrew Yan
-010882417603,2022-12-28 17:49:35,Internal Transfer,Outflow,-61198.44,Yael Möller
-010882417603,2022-12-28 12:26:13,Internal Transfer,Outflow,-52489.62,Katarzyna Szymański
-010882417603,2022-12-28 11:02:03,Cheque,Inflow,34706.33,Jean Friðriksson
-010882417603,2022-12-28 14:54:36,Internal Transfer,Inflow,60079.01,Kristinn Jenkins
-010882417603,2022-12-28 10:43:59,Internal Transfer,Outflow,-88735.74,Laxmi Lozano
-010882417603,2022-12-28 11:26:09,Cheque,Outflow,-85773.31,Ann Martínez
-010882417603,2022-12-28 10:58:42,Internal Transfer,Inflow,52733.04,Sani Jóhannesson
-010882417603,2022-12-28 17:54:32,Direct Debit,Outflow,-97705.51,Katsumi Köhler
-010882417603,2022-12-28 14:28:59,Internal Transfer,Inflow,77319.53,Anil Guo
-010882417603,2022-12-28 11:06:01,Direct Debit,Outflow,-96785.19,Pablo David
-010882417603,2022-12-28 09:26:30,Direct Debit,Inflow,13144.11,Anna Jankowski
-010882417603,2022-12-28 15:50:24,Direct Debit,Inflow,54086.44,Rita Dvořák
-010882417603,2022-12-29 12:44:24,Cross Border Transfer,Inflow,79021.57,Prasoet Dvořáková
-010882417603,2022-12-29 09:03:54,Internal Transfer,Inflow,74035.96,Mardkhay Friðriksson
-010882417603,2022-12-29 10:36:45,Direct Debit,Outflow,-39424.99,Iwona Bitton
-010882417603,2022-12-29 15:05:09,Cheque,Outflow,-34907.74,Avraham Haraldsson
-010882417603,2022-12-29 16:31:51,Internal Transfer,Inflow,2781.46,Jacek Cruz
-010882417603,2022-12-29 17:34:48,Cheque,Inflow,33399.84,Haim Gutiérrez
-010882417603,2022-12-29 10:02:02,Cheque,Outflow,-5016.34,Guy Jónsson
-010882417603,2022-12-29 11:46:50,Direct Debit,Inflow,25310.62,Kelvin Álvarez
-010882417603,2022-12-29 15:09:55,Direct Debit,Inflow,960.62,Miriam Soto
-010882417603,2022-12-29 15:16:20,Internal Transfer,Inflow,85696.85,Pieter Mwangi
-010882417603,2022-12-29 09:49:18,Cross Border Transfer,Inflow,48945.04,Manju Gunnarsdóttir
-010882417603,2022-12-29 09:07:09,Cheque,Outflow,-61317.72,Valentina Thompson
-010882417603,2022-12-29 16:21:51,Direct Debit,Inflow,62423.79,Tomiko Schütz
-010882417603,2022-12-29 09:50:21,Direct Debit,Inflow,46908.96,Prani Wafula
-010882417603,2022-12-29 14:47:26,Cross Border Transfer,Inflow,13244.35,Chao Wang
-010882417603,2022-12-30 17:54:28,Cheque,Outflow,-38867.52,Maria Ásgeirsdóttir
-010882417603,2022-12-30 09:50:45,Cross Border Transfer,Outflow,-21821.22,Sam Æbeltoft
-010882417603,2022-12-30 11:46:33,Cheque,Outflow,-20872.81,Mohamed Ragnarsdóttir
-010882417603,2022-12-30 13:23:39,Cheque,Outflow,-36994.7,Rut Žáková
-010882417603,2022-12-30 09:25:15,Cross Border Transfer,Inflow,96362.73,Ana-Maria Vazquez
-010882417603,2022-12-30 16:52:40,Internal Transfer,Outflow,-29696.13,Yasuo Hernandez
-010882417603,2022-12-30 14:17:24,Internal Transfer,Outflow,-94092.44,Erika Garba
-010882417603,2022-12-31 12:31:52,Direct Debit,Outflow,-13975.7,Shlomo Ðorðić
-010882417603,2022-12-31 12:55:08,Internal Transfer,Inflow,4075.15,Zhen Collins
-010882417603,2022-12-31 12:47:26,Direct Debit,Outflow,-42907.14,Kiyoshi Veselá
-010882417603,2022-12-31 12:08:11,Internal Transfer,Inflow,73986.01,Gisela Fujita
-010882417603,2022-12-31 13:00:19,Cheque,Outflow,-3232.85,Lakshmi Harðarson
-010882417603,2022-12-31 12:09:24,Cheque,Outflow,-20375.91,Thawi Huang
-010882417603,2022-12-31 17:36:16,Internal Transfer,Outflow,-35535.22,Yoshio Robinson
-833725565717,2022-12-28 14:21:32,Cheque,Outflow,-45696.89,Sibongile Cohen
-833725565717,2022-12-28 12:36:05,Direct Debit,Outflow,-69766.77,Emiko Einarsdóttir
-833725565717,2022-12-28 15:40:17,Internal Transfer,Outflow,-70823.09,Evgeniy Þórðarson
-833725565717,2022-12-28 10:47:12,Cross Border Transfer,Inflow,36088.33,Amina Pospíšil
-833725565717,2022-12-28 17:17:24,Cheque,Outflow,-59293.35,Jakub García
-833725565717,2022-12-28 14:02:54,Cheque,Inflow,4671.69,Miyoko Ruiz
-833725565717,2022-12-28 10:20:22,Internal Transfer,Inflow,61213.76,Valentina Sato
-833725565717,2022-12-28 10:46:04,Cross Border Transfer,Outflow,-60214.46,Sebastian Ãshaikh
-833725565717,2022-12-28 09:58:49,Internal Transfer,Inflow,53522.51,Min Guzmán
-833725565717,2022-12-28 16:26:19,Internal Transfer,Inflow,21831.68,Hiromi Malkah
-833725565717,2022-12-28 13:46:29,Internal Transfer,Inflow,41472.37,Kai Mazurek
-833725565717,2022-12-28 11:30:49,Cross Border Transfer,Outflow,-26484.52,Diego Su
-833725565717,2022-12-29 10:33:13,Cheque,Inflow,68470.79,Jabulani Veselý
-833725565717,2022-12-29 17:04:38,Cheque,Outflow,-68416.77,Masami Khan
-833725565717,2022-12-29 15:47:25,Cross Border Transfer,Outflow,-36700.67,Xin Ødegård
-833725565717,2022-12-29 15:12:38,Cheque,Inflow,32165.97,Francisco-Javier Abdullahi
-833725565717,2022-12-29 17:34:19,Cross Border Transfer,Outflow,-22859.82,Qing Žáková
-833725565717,2022-12-29 17:15:11,Cross Border Transfer,Inflow,50479.75,Martin Szymański
-833725565717,2022-12-29 13:35:29,Internal Transfer,Inflow,19658.16,Yasuko Hájek
-833725565717,2022-12-29 14:56:13,Cross Border Transfer,Inflow,19453.66,Marcin Bjarnason
-833725565717,2022-12-29 11:49:32,Direct Debit,Outflow,-93142.47,Caroline Santos
-833725565717,2022-12-29 09:30:15,Direct Debit,Inflow,81154.01,Stephen Meißner
-833725565717,2022-12-29 13:21:32,Internal Transfer,Inflow,78229.29,Victoria Muñoz
-833725565717,2022-12-30 11:17:43,Cross Border Transfer,Outflow,-59411.34,Jacek Richards
-833725565717,2022-12-30 12:01:49,Internal Transfer,Inflow,702.64,Keiko Dvořáková
-833725565717,2022-12-30 12:14:28,Cross Border Transfer,Outflow,-79302,Tal Su
-833725565717,2022-12-30 11:33:54,Internal Transfer,Inflow,30171.52,Sushila Horák
-833725565717,2022-12-30 12:19:49,Cross Border Transfer,Outflow,-48638.95,Raju Kozłowski
-833725565717,2022-12-30 17:47:56,Cross Border Transfer,Inflow,98599.75,Steinunn Perez
-833725565717,2022-12-30 16:44:43,Cheque,Inflow,11913.26,Aliyu Mori
-833725565717,2022-12-30 14:47:02,Direct Debit,Inflow,88910.27,Anita Ūsas
-833725565717,2022-12-30 15:41:54,Cross Border Transfer,Inflow,51517.37,Karen König
-833725565717,2022-12-30 15:02:17,Cheque,Outflow,-66723.41,Sammy Ono
-833725565717,2022-12-30 12:29:01,Internal Transfer,Outflow,-63666.58,Beata Pokorná
-833725565717,2022-12-30 12:07:04,Cheque,Outflow,-11546.36,Klaus Lin
-833725565717,2022-12-30 15:08:43,Direct Debit,Inflow,90762.89,Anah Æbelø
-833725565717,2022-12-30 12:13:59,Cheque,Inflow,48613.03,Lakshmi Jónasson
-833725565717,2022-12-30 17:24:51,Internal Transfer,Inflow,65158.27,Konstantin Akpan
-833725565717,2022-12-30 12:23:53,Cheque,Inflow,4661.02,Magda Czarnecki
-833725565717,2022-12-30 10:48:13,Cheque,Outflow,-25174.6,Lin Suissa
-833725565717,2022-12-31 13:00:56,Internal Transfer,Inflow,22782.84,Victoria Thompson
-504940267474,2022-12-28 09:20:30,Internal Transfer,Inflow,13710.05,Bartosz Æbelø
-504940267474,2022-12-28 17:57:46,Cheque,Outflow,-7170.51,Francisco-Javier Birgisdóttir
-504940267474,2022-12-28 17:05:43,Direct Debit,Inflow,43432.21,Walter Haraldsdóttir
-504940267474,2022-12-28 11:22:05,Cheque,Inflow,90669.71,Erna Frolova
-504940267474,2022-12-28 12:48:04,Direct Debit,Outflow,-68015.03,Xiaoyan Sakai
-504940267474,2022-12-28 14:16:33,Internal Transfer,Outflow,-85161.7,Xin Vazquez
-504940267474,2022-12-28 11:54:14,Internal Transfer,Outflow,-39985.03,Li Ūsas
-504940267474,2022-12-28 12:11:11,Cheque,Inflow,38771.7,Aleksandra Birgisdóttir
-504940267474,2022-12-28 10:08:29,Internal Transfer,Inflow,26561.71,Joy Cooper
-504940267474,2022-12-28 12:48:23,Cheque,Outflow,-57210.16,Haruna Deng
-504940267474,2022-12-28 15:22:52,Cheque,Inflow,91148.4,Shlomo Singh
-504940267474,2022-12-28 14:09:08,Internal Transfer,Outflow,-38507.4,Li Bennett
-504940267474,2022-12-28 17:09:47,Cross Border Transfer,Outflow,-35885.94,Kabiru Óskarsson
-504940267474,2022-12-29 15:49:05,Cross Border Transfer,Outflow,-30338.11,Hauwa Krüger
-504940267474,2022-12-29 13:37:43,Internal Transfer,Inflow,59858.85,Yong Jäger
-504940267474,2022-12-29 12:09:18,Internal Transfer,Inflow,39681.51,Guy Stefánsdóttir
-504940267474,2022-12-30 12:36:26,Cheque,Outflow,-79830.7,Kiyoko Alonso
-504940267474,2022-12-30 12:19:18,Internal Transfer,Outflow,-71191.26,Salisu Ragnarsdóttir
-504940267474,2022-12-30 14:23:52,Cheque,Inflow,29831.07,Laxmi Sanchez
-504940267474,2022-12-30 17:30:22,Cross Border Transfer,Outflow,-77814.31,Kazuo Þorsteinsson
-504940267474,2022-12-30 14:41:55,Cheque,Inflow,86165.75,Mali Abubakar
-504940267474,2022-12-30 11:58:12,Direct Debit,Outflow,-91129.96,Suphaphon Rungrueang
-504940267474,2022-12-30 17:15:27,Cross Border Transfer,Outflow,-31337.8,Tomiko Dahan
-504940267474,2022-12-30 09:10:20,Direct Debit,Inflow,33883.45,Helen De-Groot
-504940267474,2022-12-30 10:33:28,Cheque,Inflow,62953.42,Asha Pospíšilová
-504940267474,2022-12-30 11:13:37,Cross Border Transfer,Inflow,20784.43,Steve Ochieng
-504940267474,2022-12-30 12:17:53,Cross Border Transfer,Inflow,26409.84,Ling Álvarez
-504940267474,2022-12-30 16:20:30,Cross Border Transfer,Outflow,-81365.19,Yuval Chand
-504940267474,2022-12-30 10:27:46,Cross Border Transfer,Outflow,-39556.7,Jennifer Friðriksson
-504940267474,2022-12-30 17:14:25,Internal Transfer,Outflow,-80925.88,Marta Einarsdóttir
-504940267474,2022-12-30 11:17:57,Internal Transfer,Outflow,-43439.82,Hong Marek
-504940267474,2022-12-30 10:37:04,Internal Transfer,Inflow,26618.96,Josef Pálsson
-504940267474,2022-12-30 17:30:56,Cheque,Outflow,-54457.45,Anita Kozłowski
-504940267474,2022-12-30 16:43:16,Internal Transfer,Outflow,-76962.52,Anan Köhler
-504940267474,2022-12-30 10:14:58,Cross Border Transfer,Inflow,666.41,Laxmi Kamiński
-504940267474,2022-12-30 17:52:03,Cross Border Transfer,Inflow,5762.74,Jackline Szymański
-504940267474,2022-12-31 10:42:59,Cheque,Inflow,56888.88,Jianhua Ðekić
-504940267474,2022-12-31 09:02:25,Direct Debit,Inflow,68628.56,Joseph Saito
-504940267474,2022-12-31 17:37:39,Internal Transfer,Inflow,41801.63,Kai Gísladóttir
-504940267474,2022-12-31 09:01:51,Direct Debit,Outflow,-51083.34,Suman Őrségi-Zölderdő
-504940267474,2022-12-31 09:46:59,Direct Debit,Inflow,13194.43,Katsumi Ágústsdóttir
-504940267474,2022-12-31 17:04:04,Cross Border Transfer,Outflow,-36124.46,Miyoko Álvarez
-504940267474,2022-12-31 11:26:02,Direct Debit,Inflow,38908.8,Kun Ūsas
-504940267474,2022-12-31 12:20:24,Cross Border Transfer,Outflow,-98089.16,Zhen Pavlova
-504940267474,2022-12-31 17:44:45,Internal Transfer,Outflow,-69700.16,Ko Ūsas
-504940267474,2022-12-31 14:40:34,Cheque,Outflow,-68401,Justyna Veselá
-504940267474,2022-12-31 15:29:33,Direct Debit,Outflow,-24458.06,Yhudiyt Weiß
+858410610697,2022-12-28 13:52:16,Direct Debit,Outflow,-26387.21,Watsana Dvořáková
+858410610697,2022-12-28 16:38:49,Internal Transfer,Inflow,78659.47,Sushila Ágústsson
+858410610697,2022-12-28 11:24:35,Cross Border Transfer,Outflow,-38340.87,Patricia Chávez
+858410610697,2022-12-28 13:30:59,Cheque,Inflow,84572.22,Carmen Ojo
+858410610697,2022-12-28 15:45:52,Cheque,Inflow,51940.69,Jabulani Vásquez
+858410610697,2022-12-28 17:23:34,Cheque,Outflow,-44544.55,Tomiko Kristjánsson
+858410610697,2022-12-28 11:01:07,Cross Border Transfer,Outflow,-30047.97,Arun Þorsteinsson
+858410610697,2022-12-29 16:31:21,Internal Transfer,Outflow,-8941.03,Blessing Muñoz
+858410610697,2022-12-29 15:28:26,Internal Transfer,Inflow,65394.96,Jan Marciniak
+858410610697,2022-12-29 14:21:45,Direct Debit,Outflow,-29369.19,Thulani Köhler
+858410610697,2022-12-30 17:40:35,Internal Transfer,Outflow,-52339.4,Eliyahu Ahmed
+858410610697,2022-12-30 12:24:47,Cheque,Outflow,-88936.35,Marta Biswas
+858410610697,2022-12-30 14:12:23,Direct Debit,Outflow,-10383.07,Yuliya Benešová
+858410610697,2022-12-30 16:05:26,Direct Debit,Outflow,-47842.44,Gary Gumede
+858410610697,2022-12-30 14:14:40,Direct Debit,Outflow,-12821.67,Yun Őri
+858410610697,2022-12-30 10:03:33,Cross Border Transfer,Outflow,-29551.87,Erika Delgado
+858410610697,2022-12-30 10:09:16,Internal Transfer,Inflow,86699.78,Angela Gunnarsdóttir
+858410610697,2022-12-30 13:59:58,Cross Border Transfer,Inflow,19950.59,Watsana Hoekstra
+858410610697,2022-12-30 10:02:06,Internal Transfer,Inflow,34456.11,Rattana Jabłoński
+858410610697,2022-12-30 15:02:47,Cheque,Inflow,58931.7,Wei Stefánsdóttir
+858410610697,2022-12-30 09:27:06,Direct Debit,Outflow,-10187.11,Chao Murakami
+858410610697,2022-12-30 10:04:08,Cross Border Transfer,Inflow,61302.49,Pawel De-Graaf
+858410610697,2022-12-30 13:00:57,Internal Transfer,Inflow,48440.28,Amiyt Óskarsson
+858410610697,2022-12-30 17:13:37,Cheque,Outflow,-29912.68,Liyor Bai
+858410610697,2022-12-30 14:09:42,Direct Debit,Outflow,-62652.88,Brigitte Böttcher
+858410610697,2022-12-30 11:37:08,Direct Debit,Inflow,18764.65,Zbigniew Schröder
+858410610697,2022-12-30 10:35:00,Internal Transfer,Outflow,-67333.75,Pricha Müller
+858410610697,2022-12-31 16:50:10,Direct Debit,Outflow,-6080.05,Yong Carter
+216514444844,2022-12-28 10:32:47,Internal Transfer,Inflow,6533.98,Somnuek García
+216514444844,2022-12-28 09:11:16,Cheque,Inflow,30558.66,Aliyu Ágústsson
+216514444844,2022-12-28 11:43:44,Cross Border Transfer,Inflow,22492.27,Thawi Björnsdóttir
+216514444844,2022-12-28 13:50:18,Internal Transfer,Outflow,-84703.02,Yuval Okon
+216514444844,2022-12-28 16:06:52,Cheque,Inflow,44762.28,Yoshie Ūžien
+216514444844,2022-12-28 17:46:41,Direct Debit,Inflow,12922.4,Udom Maina
+216514444844,2022-12-28 15:51:07,Internal Transfer,Inflow,84332.44,Jackline Pálsson
+216514444844,2022-12-28 10:30:10,Cheque,Outflow,-74039.58,Samran Ren
+216514444844,2022-12-28 16:25:54,Internal Transfer,Outflow,-87900.16,Urai Žukauskas
+216514444844,2022-12-28 15:25:48,Cheque,Inflow,88281.96,Umar Gil
+216514444844,2022-12-28 14:17:49,Internal Transfer,Inflow,95960.39,Helga Ye
+216514444844,2022-12-28 09:53:17,Cheque,Inflow,97666.1,Elke Liao
+216514444844,2022-12-28 13:33:10,Direct Debit,Inflow,23145.98,Lijun Jasiński
+216514444844,2022-12-28 09:27:45,Internal Transfer,Outflow,-25069.23,Thulani Sichantha
+216514444844,2022-12-28 13:01:10,Direct Debit,Outflow,-38428.39,Esther Braun
+216514444844,2022-12-28 15:41:44,Direct Debit,Inflow,68393.45,Suwit Morozova
+216514444844,2022-12-28 10:43:24,Direct Debit,Inflow,63735.65,Anita Krejčí
+216514444844,2022-12-28 16:24:48,Cheque,Outflow,-41879.74,Sunita Kučera
+216514444844,2022-12-28 17:43:09,Internal Transfer,Inflow,5306.81,Philip Ikeda
+216514444844,2022-12-28 09:18:20,Internal Transfer,Inflow,95269.52,Charoen Fang
+216514444844,2022-12-29 13:12:00,Cheque,Inflow,14384.27,Somphong Rumbelow
+216514444844,2022-12-29 10:20:19,Internal Transfer,Inflow,57151.44,Helmut Wambua
+216514444844,2022-12-30 11:17:34,Direct Debit,Outflow,-42483.5,Sunday Gómez
+216514444844,2022-12-30 09:45:02,Cheque,Outflow,-23359.48,Philip Helgadóttir
+216514444844,2022-12-30 10:30:19,Cross Border Transfer,Outflow,-63813.55,Mark Isah
+216514444844,2022-12-30 17:03:24,Cheque,Inflow,30426.59,Haim Harðarson
+216514444844,2022-12-30 13:26:06,Internal Transfer,Outflow,-67370.47,Daniyel Murakami
+216514444844,2022-12-30 13:16:11,Internal Transfer,Outflow,-47563.16,Pavel Kowalczyk
+216514444844,2022-12-30 17:41:05,Cheque,Inflow,72893.3,Isah John
+216514444844,2022-12-30 14:38:55,Cheque,Outflow,-28070.3,Takeshi Löffler
+216514444844,2022-12-30 14:06:15,Cross Border Transfer,Inflow,95717.31,Ursula Zhang
+216514444844,2022-12-30 12:51:08,Cheque,Inflow,37801.81,Nonhlanhla Koech
+216514444844,2022-12-30 11:08:48,Internal Transfer,Outflow,-72956.75,Mukesh Hu
+216514444844,2022-12-30 10:22:18,Internal Transfer,Inflow,15157.75,Ruth Chaichana
+216514444844,2022-12-30 12:42:34,Direct Debit,Outflow,-99584.27,Lucy Shimizu
+216514444844,2022-12-31 11:43:53,Direct Debit,Outflow,-40104.39,Nobuko Kobayashi
+216514444844,2022-12-31 17:00:33,Cross Border Transfer,Inflow,25033.6,Esther Ishii
+216514444844,2022-12-31 14:47:52,Direct Debit,Outflow,-30554.71,Karen Óskarsdóttir
+216514444844,2022-12-31 10:50:29,Internal Transfer,Outflow,-57054.38,Yong Zulu
+216514444844,2022-12-31 17:42:45,Cross Border Transfer,Inflow,93834.68,Janet Bos
+216514444844,2022-12-31 10:36:01,Internal Transfer,Outflow,-15233.08,Zanele Willems
+216514444844,2022-12-31 09:44:59,Internal Transfer,Outflow,-39179.69,Elizabeth Matthews
+216514444844,2022-12-31 10:06:16,Direct Debit,Inflow,22671.6,Mukesh Haraldsdóttir
+216514444844,2022-12-31 17:09:10,Cheque,Outflow,-34634.62,Franz Łukaszewski
+216514444844,2022-12-31 14:09:37,Cheque,Outflow,-5118.56,Yhudah Hahn
+216514444844,2022-12-31 17:58:31,Direct Debit,Outflow,-12554.63,Franz Kaczmarek
+216514444844,2022-12-31 10:54:46,Internal Transfer,Outflow,-49480.95,Latda Fujita
+216514444844,2022-12-31 09:12:52,Cross Border Transfer,Outflow,-46380.33,Zhen Veselý
+216514444844,2022-12-31 16:56:45,Cross Border Transfer,Outflow,-43184.9,Hui Van-der-Heijden
+253812189249,2022-12-28 15:25:10,Internal Transfer,Outflow,-48650.83,Jerzy Visser
+253812189249,2022-12-28 10:06:55,Cross Border Transfer,Outflow,-79985.77,Jennifer Böttcher
+253812189249,2022-12-28 15:44:43,Cheque,Outflow,-83523.65,Bin White
+253812189249,2022-12-28 11:04:17,Internal Transfer,Inflow,48926.62,Dinesh Rodríguez
+253812189249,2022-12-28 14:31:29,Cross Border Transfer,Inflow,26202.08,Jianping Weiß
+253812189249,2022-12-28 12:30:05,Cheque,Inflow,77278,Roy Schwartz
+253812189249,2022-12-28 09:22:34,Internal Transfer,Inflow,15748.2,Catherine Kozlova
+253812189249,2022-12-28 15:51:39,Direct Debit,Outflow,-40544.76,Marek De-Groot
+253812189249,2022-12-28 13:24:39,Cheque,Outflow,-76301.1,Suman Harðardóttir
+253812189249,2022-12-28 10:06:03,Cheque,Inflow,47748.06,Daniel Kibet
+253812189249,2022-12-28 15:00:46,Cross Border Transfer,Outflow,-19317.5,Aminu Einarsdóttir
+253812189249,2022-12-28 11:56:01,Cheque,Inflow,71954.02,Aleksandra Guðmundsdóttir
+253812189249,2022-12-28 10:12:50,Direct Debit,Outflow,-2218.98,Dennis Köhler
+253812189249,2022-12-28 16:56:01,Cross Border Transfer,Inflow,67616.02,Janet Ãshaikh
+253812189249,2022-12-28 12:57:03,Internal Transfer,Outflow,-28254.08,Elke Muñoz
+253812189249,2022-12-28 17:11:18,Cross Border Transfer,Inflow,55943.74,Hiroko Adri
+253812189249,2022-12-28 14:55:53,Cheque,Outflow,-81793.95,Moses Jabłoński
+253812189249,2022-12-28 14:19:36,Internal Transfer,Inflow,71842.53,Dariusz Ramírez
+253812189249,2022-12-28 12:26:45,Cross Border Transfer,Outflow,-15837.08,Jorge Rodríguez
+253812189249,2022-12-29 14:13:21,Direct Debit,Inflow,6817.15,Ling Cook
+253812189249,2022-12-29 14:10:21,Cross Border Transfer,Outflow,-95674.98,Yuko Gomez
+253812189249,2022-12-29 12:29:56,Cross Border Transfer,Inflow,37963.59,Dorota Witkowski
+253812189249,2022-12-29 10:54:56,Cross Border Transfer,Inflow,38308.99,Nadezhda Harðardóttir
+253812189249,2022-12-29 10:59:44,Cheque,Outflow,-13311.97,Xiang Mandal
+253812189249,2022-12-29 12:07:06,Direct Debit,Inflow,80625.9,Kun Hájek
+253812189249,2022-12-29 10:23:14,Cheque,Inflow,19032.07,Esther Pavlova
+253812189249,2022-12-29 16:58:03,Cheque,Outflow,-49183.62,Arnar Jóhannesdóttir
+253812189249,2022-12-29 10:59:24,Direct Debit,Outflow,-54231.4,Chanah Veselá
+253812189249,2022-12-29 13:37:11,Cheque,Outflow,-89376.9,Walter Cortes
+253812189249,2022-12-29 11:21:13,Direct Debit,Outflow,-84983.44,Roy Kristjánsson
+253812189249,2022-12-29 15:50:10,Cross Border Transfer,Inflow,84849.62,Themba Govender
+253812189249,2022-12-29 14:32:10,Internal Transfer,Inflow,84295.88,John Jabarin
+253812189249,2022-12-29 17:38:58,Cross Border Transfer,Outflow,-51536.75,Brigitte Stefánsson
+253812189249,2022-12-29 17:07:03,Direct Debit,Inflow,19136.49,Reiko Müller
+253812189249,2022-12-29 09:03:51,Direct Debit,Outflow,-80168.89,Emiko Kristinsdóttir
+253812189249,2022-12-29 10:17:59,Internal Transfer,Inflow,59769.68,Pavel Onyango
+253812189249,2022-12-30 15:32:12,Cross Border Transfer,Outflow,-95014.81,Jean Þórðarson
+253812189249,2022-12-30 10:33:10,Cross Border Transfer,Inflow,34400.02,Susanne Sanz
+253812189249,2022-12-30 14:28:18,Cheque,Inflow,50076.32,Themba Visser
+253812189249,2022-12-30 15:00:28,Cheque,Outflow,-82692.75,Urai Őzse
+253812189249,2022-12-30 16:25:16,Cross Border Transfer,Inflow,60346.09,Nokuthula Álvarez
+253812189249,2022-12-30 09:27:29,Cheque,Inflow,68948.32,Ying Łuczak
+253812189249,2022-12-30 14:06:54,Internal Transfer,Outflow,-26845.13,Alejandro Jasiński
+253812189249,2022-12-30 13:31:36,Cross Border Transfer,Outflow,-61145.4,Lalita Ólafsdóttir
+253812189249,2022-12-30 13:00:18,Direct Debit,Inflow,79004.16,Christian Sitwat
+253812189249,2022-12-30 16:44:26,Internal Transfer,Outflow,-82169.22,Helga Þorsteinsdóttir
+253812189249,2022-12-30 15:55:06,Cheque,Inflow,26487.1,Mohan Haraldsdóttir
+253812189249,2022-12-30 09:39:18,Internal Transfer,Inflow,83858.47,Min Mizrahi
+253812189249,2022-12-30 17:19:30,Cheque,Outflow,-40600.64,Moses Okoth
+253812189249,2022-12-30 16:22:57,Cheque,Outflow,-32389.86,Yoshimi Helgadóttir
+253812189249,2022-12-30 09:57:47,Internal Transfer,Outflow,-70907.5,Prasit Jiang
+264886740639,2022-12-29 09:22:21,Internal Transfer,Outflow,-26566.12,Inga Óskarsdóttir
+264886740639,2022-12-29 12:58:49,Cheque,Inflow,92856.2,Suphaphon Harðarson
+264886740639,2022-12-29 10:20:20,Cheque,Outflow,-83968.33,Natalya Ramírez
+264886740639,2022-12-29 16:20:32,Cheque,Outflow,-76775.41,Ana Segel
+264886740639,2022-12-30 11:30:09,Direct Debit,Inflow,32045.89,Lihua Cai
+264886740639,2022-12-30 14:53:34,Direct Debit,Inflow,48797.39,Sharon Weiß
+264886740639,2022-12-30 12:19:06,Cheque,Inflow,60336.03,Dinesh Maas
+264886740639,2022-12-31 09:19:11,Cheque,Inflow,68599.04,Wolfgang Scott
+264886740639,2022-12-31 10:20:26,Direct Debit,Outflow,-94063.6,Anong Zemanová
+264886740639,2022-12-31 11:46:39,Direct Debit,Inflow,90467.96,Herbert Óskarsson
+264886740639,2022-12-31 09:23:40,Internal Transfer,Inflow,16942.52,Juan Macharia
+264886740639,2022-12-31 14:24:31,Internal Transfer,Outflow,-10617.54,Yukio Möller
+264886740639,2022-12-31 09:00:00,Cheque,Outflow,-39091.44,Vladimir Karlsdóttir
+241936980503,2022-12-28 14:35:03,Internal Transfer,Outflow,-32022.85,Hideo Böttcher
+241936980503,2022-12-28 09:23:57,Direct Debit,Outflow,-14812.12,Omer Pokorný
+241936980503,2022-12-28 12:43:37,Cross Border Transfer,Inflow,54534.41,Dieter Khan
+241936980503,2022-12-29 14:00:15,Direct Debit,Outflow,-19826.68,Elizabeth Szymański
+241936980503,2022-12-29 14:06:39,Cross Border Transfer,Outflow,-67696.94,Dieter Tomaszewski
+241936980503,2022-12-29 11:04:54,Direct Debit,Inflow,72621.68,Bunmi Kok
+241936980503,2022-12-29 11:11:28,Cross Border Transfer,Inflow,66871.25,Dariusz Pétursson
+241936980503,2022-12-29 16:58:17,Cheque,Outflow,-58402.57,Usha Rumbelow
+241936980503,2022-12-29 09:52:33,Internal Transfer,Outflow,-5909.69,Ragnar Biswas
+241936980503,2022-12-29 13:58:23,Cross Border Transfer,Inflow,62875.99,Miykhal Dauda
+241936980503,2022-12-29 16:53:37,Internal Transfer,Inflow,9652.07,Amina Jiménez
+241936980503,2022-12-29 16:17:01,Cheque,Inflow,59619.88,Miykhal Yamashita
+241936980503,2022-12-29 14:29:49,Cross Border Transfer,Outflow,-3844.24,Xiaohong Yamaguchi
+241936980503,2022-12-29 15:58:24,Internal Transfer,Outflow,-40847.57,Johanna Černý
+241936980503,2022-12-30 11:29:48,Direct Debit,Outflow,-62570.7,Eugenia Yakovleva
+241936980503,2022-12-30 15:30:58,Cheque,Inflow,15259.17,Renate Hashimoto
+241936980503,2022-12-30 12:25:23,Direct Debit,Inflow,23505.91,Alan Sigurðsson
+241936980503,2022-12-30 15:15:34,Direct Debit,Inflow,98370.02,Francisco-Javier Baran
+241936980503,2022-12-30 11:45:04,Cross Border Transfer,Outflow,-90491.49,Magdalena Ceng
+241936980503,2022-12-30 13:18:35,Cheque,Outflow,-6131.05,Jakub Jóhannsdóttir
+241936980503,2022-12-30 10:55:32,Direct Debit,Outflow,-22480.76,Beata Halldórsdóttir
+241936980503,2022-12-30 11:33:19,Direct Debit,Outflow,-71634.25,Alejandro Sánchez
+241936980503,2022-12-30 17:31:45,Cross Border Transfer,Inflow,47327.86,Noam Králová
+241936980503,2022-12-30 17:13:25,Direct Debit,Inflow,98781.48,Lakshmi Ðorðić
+241936980503,2022-12-30 11:45:39,Cross Border Transfer,Inflow,50439.49,Gisela Sigurjónsson
+241936980503,2022-12-30 09:33:15,Direct Debit,Inflow,78385.74,Svetlana Sigurðardóttir
+241936980503,2022-12-30 10:33:48,Cross Border Transfer,Inflow,47674.84,Michal Keller
+241936980503,2022-12-30 12:27:18,Direct Debit,Outflow,-6572.19,Radha Lopez
+241936980503,2022-12-30 16:09:36,Internal Transfer,Inflow,10880.36,Moshe Schmitt
+241936980503,2022-12-30 11:03:59,Cross Border Transfer,Outflow,-27446.23,Min Guðjónsdóttir
+241936980503,2022-12-30 13:59:08,Internal Transfer,Outflow,-78519.42,Umar Pospíšil
+241936980503,2022-12-30 13:27:09,Cheque,Inflow,46656.9,Yan Fuchs
+241936980503,2022-12-31 11:37:53,Cheque,Outflow,-94557.4,Irina Szymański
+241936980503,2022-12-31 17:52:27,Internal Transfer,Outflow,-97144.27,Susan Bunmi
+241936980503,2022-12-31 15:18:57,Cheque,Outflow,-93448.63,Jianhua Gunnarsdóttir
+241936980503,2022-12-31 09:44:27,Direct Debit,Inflow,23358.91,Brigitte Thongkham
+241936980503,2022-12-31 10:59:00,Cross Border Transfer,Outflow,-77562.05,Cheng Scholz
+771526573774,2022-12-28 11:26:31,Cross Border Transfer,Outflow,-28677.92,Avraham Ágústsson
+771526573774,2022-12-28 10:32:24,Internal Transfer,Inflow,80390.78,Sarah Krüger
+771526573774,2022-12-28 12:38:38,Internal Transfer,Outflow,-54118.25,Sibusiso Kučerová
+771526573774,2022-12-28 10:08:23,Internal Transfer,Inflow,97757.04,Alexander Jónasson
+771526573774,2022-12-28 09:44:12,Direct Debit,Outflow,-44885.09,Lilja Qiu
+771526573774,2022-12-28 16:05:17,Internal Transfer,Inflow,15771.79,Amnuai Procházková
+771526573774,2022-12-28 09:43:38,Cheque,Outflow,-52481.55,Ruth Jóhannsdóttir
+771526573774,2022-12-28 12:10:52,Cross Border Transfer,Inflow,73902.47,Yhudiyt Dvořáková
+771526573774,2022-12-28 17:24:26,Internal Transfer,Inflow,93045.04,Galina Sekh
+771526573774,2022-12-28 11:36:36,Cheque,Outflow,-3105.19,Hong Inoue
+771526573774,2022-12-28 12:04:08,Cross Border Transfer,Outflow,-92792.07,Jan Helgadóttir
+771526573774,2022-12-28 17:01:54,Direct Debit,Inflow,89136.06,Ursula Dahan
+771526573774,2022-12-30 09:40:31,Cross Border Transfer,Inflow,50842.48,Heike Yuan
+771526573774,2022-12-30 10:55:39,Cheque,Outflow,-253.89,Ivan Hernandez
+771526573774,2022-12-30 16:06:31,Internal Transfer,Outflow,-26463.78,Rafael Karlsson
+771526573774,2022-12-30 15:24:00,Internal Transfer,Inflow,87118.06,Alan Ramírez
+771526573774,2022-12-30 09:28:26,Cheque,Outflow,-84704.65,Xiaoli Avraham
+771526573774,2022-12-30 10:16:13,Cheque,Inflow,68910.02,Hulda Schütz
+771526573774,2022-12-30 09:24:52,Cross Border Transfer,Inflow,28409.49,Kelvin Mathebula
+771526573774,2022-12-30 15:43:05,Internal Transfer,Inflow,58274.94,Xiang Chebet
+771526573774,2022-12-30 11:57:37,Cheque,Inflow,35913.18,Gerhard Őhlschlägerová
+771526573774,2022-12-30 09:01:24,Direct Debit,Outflow,-18247.49,Amnuai Okoro
+771526573774,2022-12-30 16:46:18,Internal Transfer,Outflow,-92636.29,Philip Kimani
+771526573774,2022-12-31 11:29:51,Direct Debit,Outflow,-99778.25,Fernando Ragnarsson
+771526573774,2022-12-31 13:06:35,Internal Transfer,Outflow,-98965.85,Francisco Dijkstra
+771526573774,2022-12-31 13:48:11,Direct Debit,Inflow,31610.78,Natalya Levy
+771526573774,2022-12-31 10:32:31,Direct Debit,Inflow,89810.27,Somphong Alvarez
+771526573774,2022-12-31 13:00:40,Cross Border Transfer,Inflow,13046.53,Masami Dong
+771526573774,2022-12-31 15:58:05,Internal Transfer,Inflow,51781.8,Na Árnason
+771526573774,2022-12-31 15:46:34,Cross Border Transfer,Outflow,-74242.33,Haruna Powell
+771526573774,2022-12-31 13:26:04,Internal Transfer,Outflow,-53919.4,Luis Fernández
+771526573774,2022-12-31 15:23:49,Direct Debit,Outflow,-5880.39,Jesus Pokorná
+771526573774,2022-12-31 14:12:22,Cheque,Inflow,58118.54,Hulda Øvergård
+771526573774,2022-12-31 09:55:41,Direct Debit,Inflow,85574.94,Latda Rutkowski
+771526573774,2022-12-31 10:36:34,Cross Border Transfer,Outflow,-67863.18,Susanne Michalak
+804725181558,2022-12-28 12:22:12,Cross Border Transfer,Inflow,68415.62,Bello Krejčí
+804725181558,2022-12-28 09:28:11,Internal Transfer,Inflow,86264.01,Suwit Þórðardóttir
+804725181558,2022-12-28 15:10:22,Cross Border Transfer,Inflow,63952.03,Nkosinathi Þorsteinsdóttir
+804725181558,2022-12-28 15:25:58,Cross Border Transfer,Outflow,-68339.9,Rattana Ūžien
+804725181558,2022-12-28 16:55:38,Direct Debit,Outflow,-37159.02,Lei Sisuk
+804725181558,2022-12-28 16:12:06,Internal Transfer,Outflow,-6284.61,Ivan Sulaiman
+804725181558,2022-12-28 13:54:36,Internal Transfer,Inflow,97677.08,Dolores Wojciechowski
+804725181558,2022-12-28 14:04:06,Internal Transfer,Inflow,821.7,Lei Prasad
+804725181558,2022-12-28 13:48:02,Direct Debit,Inflow,35947.82,Hulda Sveinsdóttir
+804725181558,2022-12-29 15:15:07,Cheque,Outflow,-89951.3,Kenji Novotná
+804725181558,2022-12-29 10:01:53,Internal Transfer,Outflow,-45207.28,Maciej Fialová
+804725181558,2022-12-29 10:52:06,Internal Transfer,Inflow,27233.67,Yoshimi Harðardóttir
+804725181558,2022-12-29 09:34:16,Direct Debit,Outflow,-78256.04,Aisha Magnúsdóttir
+804725181558,2022-12-29 13:37:00,Internal Transfer,Outflow,-60925.15,Cheng Saeueng
+804725181558,2022-12-29 16:22:15,Direct Debit,Outflow,-75729.34,Mpho Þórðarson
+804725181558,2022-12-29 17:12:11,Direct Debit,Inflow,30241.31,Rut Zoabi
+804725181558,2022-12-29 11:53:53,Internal Transfer,Outflow,-71966.77,Somnuek Njoroge
+804725181558,2022-12-29 14:09:58,Direct Debit,Outflow,-86934.53,Akira Magnúsdóttir
+804725181558,2022-12-29 13:20:40,Cross Border Transfer,Inflow,47752.16,Jennifer Baldursdóttir
+804725181558,2022-12-30 14:53:58,Direct Debit,Outflow,-56755.02,Miykhael Guo
+804725181558,2022-12-30 12:09:24,Direct Debit,Outflow,-36096.86,Ingrid Őri
+804725181558,2022-12-30 13:09:45,Cheque,Outflow,-14718.09,Miriam Bjarnadóttir
+804725181558,2022-12-30 12:11:45,Internal Transfer,Inflow,86353.25,Christopher Ðorðić
+804725181558,2022-12-30 10:54:59,Cheque,Outflow,-5220.23,Zbigniew Einarsdóttir
+804725181558,2022-12-30 09:15:04,Internal Transfer,Outflow,-76555.08,Mikhail Marková
+804725181558,2022-12-30 10:24:13,Cheque,Inflow,67728.08,Andrzej Saengthong
+804725181558,2022-12-30 11:31:31,Cross Border Transfer,Outflow,-2339.57,Fran Ishikawa
+804725181558,2022-12-30 13:21:25,Cross Border Transfer,Inflow,27329.52,Jianguo Ota
+804725181558,2022-12-31 16:26:21,Direct Debit,Inflow,92595.77,Miguel-Angel Lehmann
+804725181558,2022-12-31 11:16:53,Cross Border Transfer,Inflow,2832.05,Bin Ødegård
+804725181558,2022-12-31 10:56:27,Direct Debit,Inflow,63289,Ann Weiß
+804725181558,2022-12-31 16:20:29,Internal Transfer,Outflow,-66196.6,Yosef Krejčí
+804725181558,2022-12-31 10:49:20,Internal Transfer,Inflow,70451.5,Bunmi Goto
+804725181558,2022-12-31 16:17:51,Cheque,Inflow,51437.05,Somsak Förster
+804725181558,2022-12-31 10:16:05,Internal Transfer,Outflow,-13874.5,Margaret Ūsas
+804725181558,2022-12-31 16:48:08,Direct Debit,Outflow,-2008.63,Sri Yaakv
+804725181558,2022-12-31 13:22:47,Cross Border Transfer,Outflow,-18495.86,Birgit Cele
+804725181558,2022-12-31 10:19:45,Cheque,Inflow,94085.24,Fumiko Novotná
+804725181558,2022-12-31 10:52:12,Direct Debit,Inflow,13502.02,Natalya Žukauskienė
+804725181558,2022-12-31 10:37:51,Cheque,Outflow,-58419.11,Jose-Manuel Nuñez
+804725181558,2022-12-31 13:33:15,Cross Border Transfer,Outflow,-44141.17,Inga Guðmundsdóttir
+804725181558,2022-12-31 17:55:09,Cross Border Transfer,Inflow,64065.22,Rong Panya
+804725181558,2022-12-31 09:41:50,Cheque,Inflow,33050,Chan Baldursdóttir
+804725181558,2022-12-31 10:15:43,Internal Transfer,Inflow,14710.78,Renate Óskarsdóttir
+831603273528,2022-12-28 11:30:12,Direct Debit,Outflow,-88324.69,Sipho Egorov
+831603273528,2022-12-28 17:22:22,Cheque,Outflow,-7526.41,Somkhit Liu
+831603273528,2022-12-29 17:49:44,Internal Transfer,Outflow,-59962.86,Tomiko Rubio
+831603273528,2022-12-29 15:57:23,Cross Border Transfer,Outflow,-89330.97,Amit Smee
+831603273528,2022-12-29 14:37:07,Direct Debit,Outflow,-3894.66,Helen Harðardóttir
+831603273528,2022-12-29 17:35:34,Cheque,Inflow,8722.56,Maria-Isabel Pálsson
+831603273528,2022-12-29 14:48:22,Internal Transfer,Outflow,-85409.19,Arnar Halldórsdóttir
+831603273528,2022-12-29 11:32:12,Cheque,Outflow,-89582.07,Iwona Sigurðsson
+831603273528,2022-12-29 13:17:31,Direct Debit,Inflow,44349.61,Prani Turner
+831603273528,2022-12-29 12:56:07,Internal Transfer,Outflow,-1174.97,Sommai Łukaszewski
+831603273528,2022-12-29 13:37:41,Internal Transfer,Outflow,-32278.16,Nan Medina
+831603273528,2022-12-29 09:48:26,Cheque,Inflow,42199.75,Kasia Groß
+831603273528,2022-12-29 15:18:48,Internal Transfer,Inflow,60637.63,Sri Roberts
+831603273528,2022-12-29 14:51:22,Cheque,Outflow,-45008.3,Dieter Azulay
+831603273528,2022-12-29 13:27:40,Internal Transfer,Inflow,37722.35,Ling Dekker
+831603273528,2022-12-29 11:13:55,Internal Transfer,Inflow,76468.66,Karl-Heinz Guzmán
+831603273528,2022-12-29 12:50:04,Cross Border Transfer,Outflow,-38444.96,Dilip Sigurðsson
+831603273528,2022-12-29 12:55:14,Internal Transfer,Inflow,76555.99,Reiko Þórðarson
+831603273528,2022-12-29 17:25:20,Direct Debit,Inflow,14213.74,Christa Yamazaki
+831603273528,2022-12-29 11:32:40,Internal Transfer,Inflow,70518.88,Lucy Procházková
+831603273528,2022-12-29 10:37:17,Cheque,Outflow,-15643.42,Zhiqiang Magnúsdóttir
+831603273528,2022-12-30 12:24:04,Cross Border Transfer,Inflow,45237.41,Bunmi Jónasdóttir
+831603273528,2022-12-30 15:58:49,Internal Transfer,Outflow,-10084.52,Eva Procházková
+831603273528,2022-12-30 12:51:56,Cross Border Transfer,Outflow,-78759.32,Artur Saeueng
+831603273528,2022-12-30 10:14:28,Direct Debit,Inflow,32137.37,Michael Karlsson
+831603273528,2022-12-30 16:52:47,Cheque,Outflow,-9023.06,Franz Xu
+831603273528,2022-12-30 17:08:29,Direct Debit,Outflow,-34396.01,Wanjiru Werner
+831603273528,2022-12-30 12:28:27,Direct Debit,Outflow,-8841.44,Omer Karlsdóttir
+831603273528,2022-12-30 10:28:37,Internal Transfer,Inflow,82661.11,Aminu Juma
+831603273528,2022-12-30 14:54:36,Direct Debit,Outflow,-45742.65,Aminu Schmidt
+831603273528,2022-12-30 12:49:26,Cheque,Outflow,-11773.58,Adiy Łapiński
+831603273528,2022-12-30 14:27:42,Internal Transfer,Outflow,-95258.49,Xiaoli Ásgeirsdóttir
+831603273528,2022-12-30 16:04:57,Cheque,Outflow,-4127.5,Katarzyna Kučerová
+831603273528,2022-12-30 09:30:10,Direct Debit,Inflow,18093.96,Pushpa Müller
+831603273528,2022-12-30 11:22:42,Cheque,Outflow,-9265.99,Katsumi Usman
+831603273528,2022-12-30 12:20:15,Direct Debit,Outflow,-21363.2,Jose-Luis Ito
+831603273528,2022-12-30 12:23:25,Cross Border Transfer,Outflow,-87949.64,Fumiko Chepkemoi
+831603273528,2022-12-30 16:53:40,Direct Debit,Outflow,-92160.03,Dilip Svobodová
+831603273528,2022-12-30 17:24:45,Cheque,Outflow,-63298.32,Lucy Fuchs
+831603273528,2022-12-31 15:21:26,Direct Debit,Inflow,12314.44,Birgir Groß
+831603273528,2022-12-31 13:45:58,Internal Transfer,Outflow,-83002.45,Artyom Procházková
+831603273528,2022-12-31 14:30:23,Cross Border Transfer,Outflow,-29897.8,Sukanya Turner
+831603273528,2022-12-31 11:06:01,Internal Transfer,Outflow,-75566.2,Eunice Adebayo
+831603273528,2022-12-31 14:27:31,Internal Transfer,Inflow,21325.55,Miriam Kowalczyk
+831603273528,2022-12-31 12:59:15,Cross Border Transfer,Inflow,34150.56,Amphon Rogers
+421297443778,2022-12-28 11:15:41,Direct Debit,Inflow,58334.83,Renate Helgadóttir
+421297443778,2022-12-29 09:44:51,Internal Transfer,Outflow,-47168.82,Esther Bjarnason
+421297443778,2022-12-29 09:10:58,Internal Transfer,Inflow,69607.91,Yan Jóhannsdóttir
+421297443778,2022-12-30 10:40:39,Cross Border Transfer,Inflow,51034.11,Dolores Sunday
+421297443778,2022-12-30 17:00:40,Direct Debit,Outflow,-47615.99,Dmitry Frolova
+421297443778,2022-12-30 14:19:01,Direct Debit,Outflow,-5003.4,Pieter Kongkaeo
+421297443778,2022-12-30 11:02:51,Direct Debit,Inflow,15070.06,Agata Bai
+421297443778,2022-12-30 16:22:30,Cheque,Inflow,63818.38,Bjarni Yamashita
+421297443778,2022-12-30 12:59:11,Cross Border Transfer,Outflow,-94030.26,Hong Zieliński
+421297443778,2022-12-30 11:27:55,Direct Debit,Outflow,-1785.37,Hauwa Suarez
+421297443778,2022-12-30 11:53:50,Cross Border Transfer,Inflow,22612.09,Nonhlanhla Behera
+421297443778,2022-12-30 12:35:44,Cross Border Transfer,Inflow,91031.09,Carol Novotná
+421297443778,2022-12-30 15:36:54,Cheque,Outflow,-91922.11,Birgit Lozano
+421297443778,2022-12-30 13:49:16,Cheque,Outflow,-6335.69,Ning Chmielewski
+421297443778,2022-12-30 10:16:23,Direct Debit,Inflow,63981.56,Ravi Baldursdóttir
+421297443778,2022-12-30 16:41:06,Internal Transfer,Outflow,-46962.48,Maciej Hahn
+421297443778,2022-12-30 14:23:34,Cheque,Inflow,75508.18,Ivan Brouwer
+421297443778,2022-12-30 17:15:34,Cheque,Inflow,76588.38,Manju Halldórsson
+421297443778,2022-12-30 13:43:57,Internal Transfer,Inflow,76549.64,Johan Schröder
+421297443778,2022-12-30 10:26:08,Internal Transfer,Inflow,42635.1,Mina Wu
+421297443778,2022-12-30 15:15:57,Cheque,Inflow,9457.85,Karl-Heinz Pospíšil
+421297443778,2022-12-31 17:38:08,Direct Debit,Outflow,-7690.67,Miguel-Angel Árnason
+421297443778,2022-12-31 13:36:30,Direct Debit,Outflow,-1887.05,Jose Fischer
+535722735966,2022-12-28 14:09:27,Internal Transfer,Inflow,45974.38,Koshi Martínez
+535722735966,2022-12-28 14:05:39,Cross Border Transfer,Outflow,-19036,Dmitry Watson
+535722735966,2022-12-28 15:16:07,Direct Debit,Inflow,5313.04,Kiran Umaru
+535722735966,2022-12-28 17:36:28,Internal Transfer,Outflow,-16822.31,Galina Stefánsdóttir
+535722735966,2022-12-29 15:33:58,Internal Transfer,Inflow,78999.48,Francisco Okada
+535722735966,2022-12-29 11:26:28,Cross Border Transfer,Outflow,-32477.93,Mitsuo Keller
+535722735966,2022-12-29 14:44:48,Cheque,Inflow,19736.96,Bunmi Karlsdóttir
+535722735966,2022-12-29 12:31:41,Cross Border Transfer,Inflow,24268.11,Xolani Turner
+535722735966,2022-12-29 13:52:27,Cross Border Transfer,Outflow,-95265.67,Michal Mathebula
+535722735966,2022-12-29 14:10:37,Cross Border Transfer,Outflow,-56975.35,Berglind Martinez
+535722735966,2022-12-29 10:21:52,Cheque,Outflow,-18826.81,Kristina Khan
+535722735966,2022-12-29 11:11:42,Cross Border Transfer,Outflow,-81143.08,Miykhal Þórðardóttir
+535722735966,2022-12-29 13:53:39,Cross Border Transfer,Inflow,42773.8,Edda Zajac
+535722735966,2022-12-29 09:33:06,Cheque,Inflow,37376.75,Catherine Þorsteinsson
+535722735966,2022-12-29 10:06:54,Cheque,Inflow,28579.06,Shoshanah Černý
+535722735966,2022-12-29 16:03:38,Cross Border Transfer,Inflow,3838.16,Mina Pospíšil
+535722735966,2022-12-29 12:04:46,Direct Debit,Inflow,64116.49,Roman Łukaszewski
+535722735966,2022-12-29 12:43:01,Direct Debit,Inflow,97647.61,Joy Dominguez
+535722735966,2022-12-29 13:43:47,Cross Border Transfer,Inflow,61841.07,Raphael Yosef
+535722735966,2022-12-30 13:37:00,Cross Border Transfer,Inflow,18687.74,Vijay Maeda
+535722735966,2022-12-30 15:41:41,Cross Border Transfer,Inflow,85505.52,Omer Jóhannsdóttir
+535722735966,2022-12-30 12:47:04,Cheque,Outflow,-57859.88,Sebastian Ãshaikh
+535722735966,2022-12-30 09:18:40,Internal Transfer,Outflow,-51636.66,Shimon Lozano
+535722735966,2022-12-30 16:45:10,Internal Transfer,Inflow,32898.23,Shanti Guðjónsdóttir
+535722735966,2022-12-30 16:12:01,Cheque,Outflow,-49422.69,Jennifer Nováková
+535722735966,2022-12-30 17:39:43,Cross Border Transfer,Outflow,-67918.77,Sarah Ramírez
+535722735966,2022-12-30 16:45:49,Internal Transfer,Inflow,71955.67,Peter Njeri
+535722735966,2022-12-30 15:38:10,Direct Debit,Outflow,-49801.29,Mo Young
+535722735966,2022-12-31 17:19:39,Cheque,Inflow,76504.22,Peter Ðorðić
+535722735966,2022-12-31 12:03:51,Cross Border Transfer,Outflow,-16305.91,Amiyr Lopez
+535722735966,2022-12-31 09:44:06,Internal Transfer,Outflow,-22491.93,Karolina Ðorðić
+535722735966,2022-12-31 09:09:11,Internal Transfer,Inflow,49819.82,Ester Scott
+535722735966,2022-12-31 13:40:57,Direct Debit,Outflow,-530.58,Amnuai Yuan
+535722735966,2022-12-31 16:50:49,Direct Debit,Inflow,45889.02,Hiroko Lang
+535722735966,2022-12-31 15:11:43,Internal Transfer,Outflow,-3486.41,Irina Stefánsson
+535722735966,2022-12-31 09:39:49,Direct Debit,Inflow,13525.07,Beata Svobodová
+535722735966,2022-12-31 09:39:20,Cross Border Transfer,Outflow,-19078.78,Josef Van-Beek
+535722735966,2022-12-31 13:28:02,Direct Debit,Inflow,77829.51,Haiyan Watson
+535722735966,2022-12-31 17:24:41,Direct Debit,Outflow,-78425.02,Yu Njeri
+535722735966,2022-12-31 16:24:26,Internal Transfer,Outflow,-23860.97,Werner Jadhav
+535722735966,2022-12-31 10:06:13,Direct Debit,Outflow,-3138.98,Yusuf Pospíšil
+535722735966,2022-12-31 17:58:04,Cross Border Transfer,Inflow,51915.66,Sammy Mthembu
+535722735966,2022-12-31 16:28:18,Internal Transfer,Inflow,37431,Yu Sokołowski
