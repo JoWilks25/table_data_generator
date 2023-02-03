@@ -64,7 +64,6 @@ accountNosList.forEach((accountNumber) => {
     })
     
     // If current is earliest date i.e. fromDate, then currentDayAccBalObject = the starting balance value of the account.
-    console.log('prevDayAccBalObject', prevDayAccBalObject)
     if (index === 0) {
       prevDayAccBalObject = {...currentDayAccBalObject}
       prevDaysTrans = sumTransactions
