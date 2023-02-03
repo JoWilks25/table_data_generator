@@ -1,3 +1,4 @@
+import moment from 'moment';
 import { randAccount, randBetweenDate, randNumber, randCompanyName, randFullName } from '@ngneat/falso';
 import { selectRandValue, getDates, generateRandomBankName } from './helpers/functions.js'
 import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './helpers/sampleDataLists.js'
@@ -5,11 +6,12 @@ import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './he
 // VARIABLES
 const numberAccounts = 10
 const accountLength = 12
-const fromDate = '01/01/2022'
-const toDate = '12/31/2022'
+const fromDate = '2022-12-01' // YYYY-MM-DD
+const toDate = '2022-12-31' // YYYY-MM-DD
+const outputDateFormat = 'YYYY-MM-DD HH:mm:ss'
 
 // GENERATE ARRAY OF DATES FOR SPECIFIED DATE RANGE
-const dates = getDates(new Date(fromDate), new Date(toDate))
+const dates = getDates(fromDate, toDate)
 
 // GENERATE ROW DATA FOR ACCOUNT BALANCES TABLE
 let accountBalancesTable = [];
@@ -21,7 +23,7 @@ accountNosList.forEach((accountNumber) => {
   const baseAccounBalRow = {
     'Account Number': accountNumber,
     'Location': selectRandValue(SUBSET_COUNTRIES),
-    'Datetime': new Date(fromDate),
+    'Datetime': null,
     'Account Currency': selectRandValue(SUBSET_CURRENCIES),
     'Product Type': selectRandValue(BANKING_PRODUCT_TYPES),
     'Financial Institution': generateRandomBankName(),
@@ -29,16 +31,15 @@ accountNosList.forEach((accountNumber) => {
     'Entity': randCompanyName(),
   }
 
-  dates.forEach((date) => {
+  dates.forEach((date, index) => {
     const dailyAccountBalRow = {
       ...baseAccounBalRow,
-      'Datetime': date,
-      'Account Currency Balance': null,
+      'Datetime': date.format(outputDateFormat),
+      'Account Currency Balance': index === 0 ? randNumber({ min: 10000, max: 10000000, fraction: 2 }) : null // Set opening balance for earliest date (assuming index 0 is earliest date)
     }
     accountBalancesTable.push(dailyAccountBalRow)
   })
 })
-
 
 
 // GENERATE ROW DATA FOR TRANSACTIONS TABLE
@@ -51,27 +52,25 @@ accountNosList.forEach((accountNumber) => {
     const transactionAmounts = randNumber({ length: noTransactions, min: -100000, max: 100000, fraction: 2 })
 
     // Updating the balance in the Account Balances list so it adds up.
-    const accountBalance = transactionAmounts.reduce((prevValue, nextValue) => Number(prevValue) + Number(nextValue), [0])
-    accountBalancesTable.forEach((accountBalRowObj) => {
-      if (accountBalRowObj['Account Number'] === accountNumber && accountBalRowObj.Datetime === date) {
-        accountBalRowObj['Account Currency Balance'] = accountBalance;
-      }
-    })
+    const sumTransactions = transactionAmounts.reduce((prevValue, nextValue) => Number(prevValue) + Number(nextValue), [0])
 
-    const endDateTime = new Date(date.toISOString().split('T')[0]).setHours(23, 59, 99, 999)
+    let prevDayAccBalObject = accountBalancesTable.find((accBalObject) => accountNumber === accBalObject['Account Number'] && date.format(outputDateFormat) === accBalObject.Datetime)
+    let currentDayAccBalObject = accountBalancesTable.find((accBalObject) => accountNumber === accBalObject['Account Number'] && date.clone().subtract(1, 'd').format(outputDateFormat) === accBalObject.Datetime)
+    if (prevDayAccBalObject && currentDayAccBalObject) {
+      currentDayAccBalObject['Account Currency Balance'] = prevDayAccBalObject['Account Currency Balance'] + sumTransactions
+    }
+    // Restricting random times to within 9am - 6pm
+    const startDateTime = date.hours(9).format()
+    const endDateTime = date.hours(18).format()
 
     // Creating each transaction row based off the amounts
     transactionAmounts.forEach((amount) => {
       const transactionType = selectRandValue(['Internal Transfer', 'Cross Border Transfer', 'Direct Debit', 'Cheque'])
       const transactionRow = {
         'Account Number': accountNumber,
-        'Location': selectRandValue(SUBSET_COUNTRIES),
-        'Account Currency': selectRandValue(SUBSET_CURRENCIES),
-        'Financial Institution': generateRandomBankName(),
-        'Datetime': randBetweenDate({ from: date, to: endDateTime }),
+        'Datetime': moment(randBetweenDate({ from: new Date(startDateTime), to: new Date(endDateTime) })).format(outputDateFormat),
         'Transaction type': transactionType,
         'Inflows / Outflows': amount < 0 ? 'Outflow' : 'Inflow',
-        'Entity': randCompanyName(),
         'Transaction Amount in Account Currency': amount,
         'Counterparty': randFullName()
     
@@ -82,43 +81,39 @@ accountNosList.forEach((accountNumber) => {
 })
 
 
-// WRITE ACCOUNT BALANCES TABLE TO CSV
-import { createObjectCsvWriter } from 'csv-writer'
-const csvWriterAccountBalances = createObjectCsvWriter({
-  path: 'output/account_balances.csv',
-  header: [
-    { id: 'Account Number', title: 'Account Number' },
-    { id: 'Location', title: 'Location' },
-    { id: 'Datetime', title: 'Datetime' },
-    { id: 'Account Currency', title: 'Account Currency' },
-    { id: 'Product Type', title: 'Product Type' },
-    { id: 'Financial Institution', title: 'Financial Institution' },
-    { id: 'Account Currency Balance', title: 'Account Currency Balance' },
-    { id: 'Entity', title: 'Entity' },
-  ]
-});
+// // WRITE ACCOUNT BALANCES TABLE TO CSV
+// import { createObjectCsvWriter } from 'csv-writer'
+// const csvWriterAccountBalances = createObjectCsvWriter({
+//   path: 'output/account_balances.csv',
+//   header: [
+//     { id: 'Account Number', title: 'Account Number' },
+//     { id: 'Location', title: 'Location' },
+//     { id: 'Datetime', title: 'Datetime' },
+//     { id: 'Account Currency', title: 'Account Currency' },
+//     { id: 'Product Type', title: 'Product Type' },
+//     { id: 'Financial Institution', title: 'Financial Institution' },
+//     { id: 'Account Currency Balance', title: 'Account Currency Balance' },
+//     { id: 'Entity', title: 'Entity' },
+//   ]
+// });
 
-csvWriterAccountBalances
-  .writeRecords(accountBalancesTable)
-  .then(() => console.log('The Account Balances CSV file was written successfully'));
+// csvWriterAccountBalances
+//   .writeRecords(accountBalancesTable)
+//   .then(() => console.log('The Account Balances CSV file was written successfully'));
 
-// WRITE TRANSACTIONS TABLE TO CSV
-const csvWriterTransactions = createObjectCsvWriter({
-  path: 'output/transactions.csv',
-  header: [
-    { id: 'Account Number', title: 'Account Number' },
-    { id: 'Location', title: 'Location' },
-    { id: 'Account Currency', title: 'Account Currency' },
-    { id: 'Financial Institution', title: 'Financial Institution' },
-    { id: 'Datetime', title: 'Datetime' },
-    { id: 'Transaction type', title: 'Transaction type' },
-    { id: 'Inflows / Outflows', title: 'Inflows / Outflows' },
-    { id: 'Entity', title: 'Entity' },
-    { id: 'Transaction Amount in Account Currency', title: 'Transaction Amount in Account Currency' },
-    { id: 'Counterparty', title: 'Counterparty' },
-  ]
-});
+// // WRITE TRANSACTIONS TABLE TO CSV
+// const csvWriterTransactions = createObjectCsvWriter({
+//   path: 'output/transactions.csv',
+//   header: [
+//     { id: 'Account Number', title: 'Account Number' },
+//     { id: 'Datetime', title: 'Datetime' },
+//     { id: 'Transaction type', title: 'Transaction type' },
+//     { id: 'Inflows / Outflows', title: 'Inflows / Outflows' },
+//     { id: 'Transaction Amount in Account Currency', title: 'Transaction Amount in Account Currency' },
+//     { id: 'Counterparty', title: 'Counterparty' },
+//   ]
+// });
 
-csvWriterTransactions
-  .writeRecords(transactionsTable)
-  .then(() => console.log('The Transactions CSV file was written successfully'));
+// csvWriterTransactions
+//   .writeRecords(transactionsTable)
+//   .then(() => console.log('The Transactions CSV file was written successfully'));
