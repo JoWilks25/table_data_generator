@@ -9,7 +9,8 @@ const accountLength = 12
 const numberEntities = 4
 const fromDate = '2022-12-28' // YYYY-MM-DD
 const toDate = '2022-12-31' // YYYY-MM-DD
-const outputDateFormat = 'YYYY-MM-DD HH:mm:ss'
+const outputDatetimeFormat = 'YYYY-MM-DD HH:mm:ss'
+const outputDateFormat = 'YYYY-MM-DD'
 
 // GENERATE ARRAY OF DATES FOR SPECIFIED DATE RANGE
 const dates = getDates(fromDate, toDate)
@@ -26,31 +27,28 @@ accountNosList.forEach((accountNumber) => {
   const baseAccounBalRow = {
     'Account Number': accountNumber,
     'Location': selectRandValue(SUBSET_COUNTRIES),
-    'Datetime': null,
+    'Date': null,
     'Account Currency': selectRandValue(SUBSET_CURRENCIES),
     'Product Type': selectRandValue(BANKING_PRODUCT_TYPES),
     'Financial Institution': generateRandomBankName(),
     'Account Currency Balance': null,
     'Entity': selectRandValue(listEntities),
   }
-
   dates.forEach((date, index) => {
     const dailyAccountBalRow = {
       ...baseAccounBalRow,
-      'Datetime': date.format(outputDateFormat),
+      'Date': date.format(outputDateFormat),
       'Account Currency Balance': index === 0 ? randNumber({ min: 10000, max: 10000000, precision: 1000 }) : 0 // Set opening balance for earliest date (assuming index 0 is earliest date)
     }
     accountBalancesTable.push(dailyAccountBalRow)
   })
 })
 
-
 // GENERATE ROW DATA FOR TRANSACTIONS TABLE
 let transactionsTable = []
 
 accountNosList.forEach((accountNumber) => {
   let prevDayAccBalObject
-  let prevDaysTrans
   dates.forEach((date, index) => {
     // Generating random number of transactions for a specific account number
     const noTransactions = randNumber({ min: 0, max: 20 })
@@ -60,17 +58,15 @@ accountNosList.forEach((accountNumber) => {
     const sumTransactions = transactionAmounts.reduce((prevValue, nextValue) => Number(prevValue) + Number(nextValue), [0])
 
     let currentDayAccBalObject = accountBalancesTable.find((accBalObject) => {
-      return accountNumber === accBalObject['Account Number'] && date.format(outputDateFormat) === accBalObject.Datetime
+      return accountNumber === accBalObject['Account Number'] && date.format(outputDateFormat) === accBalObject.Date
     })
     
     // If current is earliest date i.e. fromDate, then currentDayAccBalObject = the starting balance value of the account.
     if (index === 0) {
       prevDayAccBalObject = {...currentDayAccBalObject}
-      prevDaysTrans = sumTransactions
     } else {
-      currentDayAccBalObject['Account Currency Balance'] = prevDayAccBalObject['Account Currency Balance'] + prevDaysTrans
+      currentDayAccBalObject['Account Currency Balance'] = prevDayAccBalObject['Account Currency Balance'] + sumTransactions
       prevDayAccBalObject = {...currentDayAccBalObject}
-      prevDaysTrans = sumTransactions
     }
 
     // Restricting random times to within 9am - 6pm
@@ -82,8 +78,8 @@ accountNosList.forEach((accountNumber) => {
       const transactionType = selectRandValue(['Internal Transfer', 'Cross Border Transfer', 'Direct Debit', 'Cheque'])
       const transactionRow = {
         'Account Number': accountNumber,
-        'Datetime': moment(randBetweenDate({ from: new Date(startDateTime), to: new Date(endDateTime) })).format(outputDateFormat),
-        'Transaction type': transactionType,
+        'Datetime': moment(randBetweenDate({ from: new Date(startDateTime), to: new Date(endDateTime) })).format(outputDatetimeFormat),
+        'Trantimesaction type': transactionType,
         'Inflows / Outflows': amount < 0 ? 'Outflow' : 'Inflow',
         'Transaction Amount in Account Currency': amount,
         'Counterparty': randFullName()
@@ -102,7 +98,7 @@ const csvWriterAccountBalances = createObjectCsvWriter({
   header: [
     { id: 'Account Number', title: 'Account Number' },
     { id: 'Location', title: 'Location' },
-    { id: 'Datetime', title: 'Datetime' },
+    { id: 'Date', title: 'Date' },
     { id: 'Account Currency', title: 'Account Currency' },
     { id: 'Product Type', title: 'Product Type' },
     { id: 'Financial Institution', title: 'Financial Institution' },
