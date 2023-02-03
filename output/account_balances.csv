@@ -1,41 +1,41 @@
 Account Number,Location,Date,Account Currency,Product Type,Financial Institution,Account Currency Balance,Entity
-440801598577,Algeria,2022-12-28,EUR,Demand deposit,Bank of 13,2310000,"Strosin, Oberbrunner and Wunsch"
-440801598577,Algeria,2022-12-29,EUR,Demand deposit,Bank of 13,2242991.34,"Strosin, Oberbrunner and Wunsch"
-440801598577,Algeria,2022-12-30,EUR,Demand deposit,Bank of 13,2242991.340,"Strosin, Oberbrunner and Wunsch"
-440801598577,Algeria,2022-12-31,EUR,Demand deposit,Bank of 13,2242991.340-293136.03,"Strosin, Oberbrunner and Wunsch"
-736462163384,Japan,2022-12-28,USD,Demand deposit,Bank of 16,6408000,"Maggio, Wisoky and Blick"
-736462163384,Japan,2022-12-29,USD,Demand deposit,Bank of 16,6545507.4,"Maggio, Wisoky and Blick"
-736462163384,Japan,2022-12-30,USD,Demand deposit,Bank of 16,6471738.04,"Maggio, Wisoky and Blick"
-736462163384,Japan,2022-12-31,USD,Demand deposit,Bank of 16,6829773.69,"Maggio, Wisoky and Blick"
-241411331332,Qatar,2022-12-28,GBP,Demand deposit,Bank of 3,7811000,"Maggio, Wisoky and Blick"
-241411331332,Qatar,2022-12-29,GBP,Demand deposit,Bank of 3,7625426.66,"Maggio, Wisoky and Blick"
-241411331332,Qatar,2022-12-30,GBP,Demand deposit,Bank of 3,7649185.05,"Maggio, Wisoky and Blick"
-241411331332,Qatar,2022-12-31,GBP,Demand deposit,Bank of 3,7929476.7299999995,"Maggio, Wisoky and Blick"
-874057972830,United Kingdom,2022-12-28,GBP,Demand deposit,Bank of 2,4081000,Russel - Hintz
-874057972830,United Kingdom,2022-12-29,GBP,Demand deposit,Bank of 2,4315905.18,Russel - Hintz
-874057972830,United Kingdom,2022-12-30,GBP,Demand deposit,Bank of 2,4541782,Russel - Hintz
-874057972830,United Kingdom,2022-12-31,GBP,Demand deposit,Bank of 2,4452518.4,Russel - Hintz
-533652865102,Ireland,2022-12-28,GBP,Demand deposit,Bank of 15,3137000,"Maggio, Wisoky and Blick"
-533652865102,Ireland,2022-12-29,GBP,Demand deposit,Bank of 15,3421652.4,"Maggio, Wisoky and Blick"
-533652865102,Ireland,2022-12-30,GBP,Demand deposit,Bank of 15,3399397.29,"Maggio, Wisoky and Blick"
-533652865102,Ireland,2022-12-31,GBP,Demand deposit,Bank of 15,3499079.86,"Maggio, Wisoky and Blick"
-213858761960,Taiwan,2022-12-28,EUR,Demand deposit,Bank of 10,5442000,Russel - Hintz
-213858761960,Taiwan,2022-12-29,EUR,Demand deposit,Bank of 10,5691927.55,Russel - Hintz
-213858761960,Taiwan,2022-12-30,EUR,Demand deposit,Bank of 10,5698557.109999999,Russel - Hintz
-213858761960,Taiwan,2022-12-31,EUR,Demand deposit,Bank of 10,5723980.129999999,Russel - Hintz
-688417035183,Israel,2022-12-28,GBP,Demand deposit,Bank of 3,8932000,"Maggio, Wisoky and Blick"
-688417035183,Israel,2022-12-29,GBP,Demand deposit,Bank of 3,8710125.02,"Maggio, Wisoky and Blick"
-688417035183,Israel,2022-12-30,GBP,Demand deposit,Bank of 3,8715828.84,"Maggio, Wisoky and Blick"
-688417035183,Israel,2022-12-31,GBP,Demand deposit,Bank of 3,8851488.97,"Maggio, Wisoky and Blick"
-324083264747,India,2022-12-28,GBP,Demand deposit,Bank of 19,3921000,"Strosin, Oberbrunner and Wunsch"
-324083264747,India,2022-12-29,GBP,Demand deposit,Bank of 19,4147926.74,"Strosin, Oberbrunner and Wunsch"
-324083264747,India,2022-12-30,GBP,Demand deposit,Bank of 19,4165565.6100000003,"Strosin, Oberbrunner and Wunsch"
-324083264747,India,2022-12-31,GBP,Demand deposit,Bank of 19,4210292.79,"Strosin, Oberbrunner and Wunsch"
-477739443206,Portugal,2022-12-28,EUR,Demand deposit,Bank of 19,7835000,Russel - Hintz
-477739443206,Portugal,2022-12-29,EUR,Demand deposit,Bank of 19,8025329.27,Russel - Hintz
-477739443206,Portugal,2022-12-30,EUR,Demand deposit,Bank of 19,8133609.649999999,Russel - Hintz
-477739443206,Portugal,2022-12-31,EUR,Demand deposit,Bank of 19,8152993.1899999995,Russel - Hintz
-338588045904,Canada,2022-12-28,USD,Demand deposit,Bank of 17,8904000,Bogan - Daniel
-338588045904,Canada,2022-12-29,USD,Demand deposit,Bank of 17,8886633.18,Bogan - Daniel
-338588045904,Canada,2022-12-30,USD,Demand deposit,Bank of 17,8853302.87,Bogan - Daniel
-338588045904,Canada,2022-12-31,USD,Demand deposit,Bank of 17,8903974.5,Bogan - Daniel
+282884674164,France,2022-12-28,USD,Demand deposit,Bank of 12,5680000,Lesch and Sons
+282884674164,France,2022-12-29,USD,Demand deposit,Bank of 12,5774962.04,Lesch and Sons
+282884674164,France,2022-12-30,USD,Demand deposit,Bank of 12,5924285.16,Lesch and Sons
+282884674164,France,2022-12-31,USD,Demand deposit,Bank of 12,5756157.95,Lesch and Sons
+644366817415,Germany,2022-12-28,USD,Demand deposit,Bank of 14,5577000,Johnston - Wisozk
+644366817415,Germany,2022-12-29,USD,Demand deposit,Bank of 14,5924462.2,Johnston - Wisozk
+644366817415,Germany,2022-12-30,USD,Demand deposit,Bank of 14,6159365.46,Johnston - Wisozk
+644366817415,Germany,2022-12-31,USD,Demand deposit,Bank of 14,5675538.56,Johnston - Wisozk
+030237805512,Morocco,2022-12-28,EUR,Demand deposit,Bank of 4,350000,Lesch and Sons
+030237805512,Morocco,2022-12-29,EUR,Demand deposit,Bank of 4,387329.27,Lesch and Sons
+030237805512,Morocco,2022-12-30,EUR,Demand deposit,Bank of 4,570559.55,Lesch and Sons
+030237805512,Morocco,2022-12-31,EUR,Demand deposit,Bank of 4,414983.03,Lesch and Sons
+771675640338,United Kingdom,2022-12-28,USD,Demand deposit,Bank of 12,1841000,"Strosin, Oberbrunner and Wunsch"
+771675640338,United Kingdom,2022-12-29,USD,Demand deposit,Bank of 12,1810503.3,"Strosin, Oberbrunner and Wunsch"
+771675640338,United Kingdom,2022-12-30,USD,Demand deposit,Bank of 12,1936932.01,"Strosin, Oberbrunner and Wunsch"
+771675640338,United Kingdom,2022-12-31,USD,Demand deposit,Bank of 12,1753436.66,"Strosin, Oberbrunner and Wunsch"
+484626875203,Argentina,2022-12-28,USD,Demand deposit,Bank of 19,7814000,"Strosin, Oberbrunner and Wunsch"
+484626875203,Argentina,2022-12-29,USD,Demand deposit,Bank of 19,7958727.76,"Strosin, Oberbrunner and Wunsch"
+484626875203,Argentina,2022-12-30,USD,Demand deposit,Bank of 19,8069788.029999999,"Strosin, Oberbrunner and Wunsch"
+484626875203,Argentina,2022-12-31,USD,Demand deposit,Bank of 19,7912894.6,"Strosin, Oberbrunner and Wunsch"
+239121181327,South Korea,2022-12-28,GBP,Demand deposit,Bank of 11,9537000,"Strosin, Oberbrunner and Wunsch"
+239121181327,South Korea,2022-12-29,GBP,Demand deposit,Bank of 11,9974465.29,"Strosin, Oberbrunner and Wunsch"
+239121181327,South Korea,2022-12-30,GBP,Demand deposit,Bank of 11,9525290.569999998,"Strosin, Oberbrunner and Wunsch"
+239121181327,South Korea,2022-12-31,GBP,Demand deposit,Bank of 11,9450025.489999998,"Strosin, Oberbrunner and Wunsch"
+786923705661,United Kingdom,2022-12-28,EUR,Demand deposit,Bank of 13,5853000,Johnston - Wisozk
+786923705661,United Kingdom,2022-12-29,EUR,Demand deposit,Bank of 13,5632666.57,Johnston - Wisozk
+786923705661,United Kingdom,2022-12-30,EUR,Demand deposit,Bank of 13,5632629.970000001,Johnston - Wisozk
+786923705661,United Kingdom,2022-12-31,EUR,Demand deposit,Bank of 13,5504695.7700000005,Johnston - Wisozk
+010882417603,Indonesia,2022-12-28,EUR,Demand deposit,Bank of 15,4540000,"Strosin, Oberbrunner and Wunsch"
+010882417603,Indonesia,2022-12-29,EUR,Demand deposit,Bank of 15,4872062.2700000005,"Strosin, Oberbrunner and Wunsch"
+010882417603,Indonesia,2022-12-30,EUR,Demand deposit,Bank of 15,4726080.180000001,"Strosin, Oberbrunner and Wunsch"
+010882417603,Indonesia,2022-12-31,EUR,Demand deposit,Bank of 15,4688114.5200000005,"Strosin, Oberbrunner and Wunsch"
+833725565717,Israel,2022-12-28,GBP,Demand deposit,Bank of 4,5291000,Carroll Group
+833725565717,Israel,2022-12-29,GBP,Demand deposit,Bank of 4,5419491.9,Carroll Group
+833725565717,Israel,2022-12-30,GBP,Demand deposit,Bank of 4,5556038.680000001,Carroll Group
+833725565717,Israel,2022-12-31,GBP,Demand deposit,Bank of 4,5578821.5200000005,Carroll Group
+504940267474,Canada,2022-12-28,GBP,Demand deposit,Bank of 10,1435000,Carroll Group
+504940267474,Canada,2022-12-29,GBP,Demand deposit,Bank of 10,1504202.25,Carroll Group
+504940267474,Canada,2022-12-30,GBP,Demand deposit,Bank of 10,1069266.73,Carroll Group
+504940267474,Canada,2022-12-31,GBP,Demand deposit,Bank of 10,940832.85,Carroll Group

@@ -79,7 +79,7 @@ accountNosList.forEach((accountNumber) => {
       const transactionRow = {
         'Account Number': accountNumber,
         'Datetime': moment(randBetweenDate({ from: new Date(startDateTime), to: new Date(endDateTime) })).format(outputDatetimeFormat),
-        'Trantimesaction type': transactionType,
+        'Transaction type': transactionType,
         'Inflows / Outflows': amount < 0 ? 'Outflow' : 'Inflow',
         'Transaction Amount in Account Currency': amount,
         'Counterparty': randFullName()
