@@ -70,7 +70,7 @@ accountNosList.forEach((accountNumber) => {
         'Financial Institution': generateRandomBankName(),
         'Datetime': randBetweenDate({ from: date, to: endDateTime }),
         'Transaction type': transactionType,
-        'Inflows / Outflows': selectRandValue(['Outflow', 'Inflow']),
+        'Inflows / Outflows': amount < 0 ? 'Outflow' : 'Inflow',
         'Entity': randCompanyName(),
         'Transaction Amount in Account Currency': amount,
         'Counterparty': randFullName()
