@@ -4,13 +4,13 @@ import { selectRandValue, getDates, generateRandomBankName } from './helpers/fun
 import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './helpers/sampleDataLists.js'
 
 // VARIABLES
-const numberAccounts = 10
-const accountLength = 12
-const numberEntities = 4
-const fromDate = '2022-12-28' // YYYY-MM-DD
-const toDate = '2022-12-31' // YYYY-MM-DD
-const outputDatetimeFormat = 'YYYY-MM-DD HH:mm:ss'
-const outputDateFormat = 'YYYY-MM-DD'
+const numberAccounts = 10 // How many different accounts you want to generate transactional data for
+const accountLength = 12 // The length of numbers for the account number
+const numberEntities = 4 // An entity can have many accounts, this is used to define how many entities own the number of accounts generated
+const fromDate = '2022-12-28' // YYYY-MM-DD - when to start generating transaction data from
+const toDate = '2022-12-31' // YYYY-MM-DD - when to stop generating transaction data to
+const outputDatetimeFormat = 'YYYY-MM-DD HH:mm:ss' // format of datetime for output csv's
+const outputDateFormat = 'YYYY-MM-DD' // format of date for output csv's
 
 // GENERATE ARRAY OF DATES FOR SPECIFIED DATE RANGE
 const dates = getDates(fromDate, toDate)

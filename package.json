@@ -5,10 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@ngneat/falso": "^6.4.0",
+    "@ngneat/falso": "^6.4.0"s,
     "csv-writer": "^1.6.0",
     "fs": "^0.0.1-security",
     "moment": "^2.29.4"
