@@ -2,6 +2,8 @@ import moment from 'moment';
 import { randAccount, randBetweenDate, randNumber, randCompanyName, randFullName } from '@ngneat/falso';
 import { selectRandValue, getDates, generateRandomBankName } from './helpers/functions.js'
 import { SUBSET_COUNTRIES, SUBSET_CURRENCIES, BANKING_PRODUCT_TYPES } from './helpers/sampleDataLists.js'
+import generateCsv from './helpers/generateCsv.js';
+
 
 // VARIABLES
 const numberAccounts = 10 // How many different accounts you want to generate transactional data for
@@ -57,16 +59,17 @@ accountNosList.forEach((accountNumber) => {
     // Updating the balance in the Account Balances list so it adds up.
     const sumTransactions = transactionAmounts.reduce((prevValue, nextValue) => Number(prevValue) + Number(nextValue), [0])
 
+
     let currentDayAccBalObject = accountBalancesTable.find((accBalObject) => {
       return accountNumber === accBalObject['Account Number'] && date.format(outputDateFormat) === accBalObject.Date
     })
-    
+
     // If current is earliest date i.e. fromDate, then currentDayAccBalObject = the starting balance value of the account.
     if (index === 0) {
-      prevDayAccBalObject = {...currentDayAccBalObject}
+      prevDayAccBalObject = { ...currentDayAccBalObject }
     } else {
       currentDayAccBalObject['Account Currency Balance'] = Number(prevDayAccBalObject['Account Currency Balance']) + sumTransactions
-      prevDayAccBalObject = {...currentDayAccBalObject}
+      prevDayAccBalObject = { ...currentDayAccBalObject }
     }
 
     // Restricting random times to within 9am - 6pm
@@ -83,7 +86,7 @@ accountNosList.forEach((accountNumber) => {
         'Inflows / Outflows': amount < 0 ? 'Outflow' : 'Inflow',
         'Transaction Amount in Account Currency': amount,
         'Counterparty': randFullName()
-    
+
       }
       transactionsTable.push(transactionRow)
     })
@@ -91,11 +94,16 @@ accountNosList.forEach((accountNumber) => {
 })
 
 
+// GENERATE ROW DATA FOR TERM DEPOSIT TABLE
+let termDepositTable = [];
+
+
+
 // WRITE ACCOUNT BALANCES TABLE TO CSV
-import { createObjectCsvWriter } from 'csv-writer'
-const csvWriterAccountBalances = createObjectCsvWriter({
-  path: 'output/account_balances.csv',
-  header: [
+generateCsv(
+  accountBalancesTable,
+  'output/account_balances.csv',
+  [
     { id: 'Account Number', title: 'Account Number' },
     { id: 'Location', title: 'Location' },
     { id: 'Date', title: 'Date' },
@@ -105,16 +113,13 @@ const csvWriterAccountBalances = createObjectCsvWriter({
     { id: 'Account Currency Balance', title: 'Account Currency Balance' },
     { id: 'Entity', title: 'Entity' },
   ]
-});
-
-csvWriterAccountBalances
-  .writeRecords(accountBalancesTable)
-  .then(() => console.log('The Account Balances CSV file was written successfully'));
+)
 
 // WRITE TRANSACTIONS TABLE TO CSV
-const csvWriterTransactions = createObjectCsvWriter({
-  path: 'output/transactions.csv',
-  header: [
+generateCsv(
+  transactionsTable,
+  'output/transactions.csv',
+  [
     { id: 'Account Number', title: 'Account Number' },
     { id: 'Datetime', title: 'Datetime' },
     { id: 'Transaction type', title: 'Transaction type' },
@@ -122,8 +127,26 @@ const csvWriterTransactions = createObjectCsvWriter({
     { id: 'Transaction Amount in Account Currency', title: 'Transaction Amount in Account Currency' },
     { id: 'Counterparty', title: 'Counterparty' },
   ]
-});
+)
 
-csvWriterTransactions
-  .writeRecords(transactionsTable)
-  .then(() => console.log('The Transactions CSV file was written successfully'));
+// WRITE TERM DEPOSIT TABLE TO CSV
+generateCsv(
+  termDepositTable,
+  'output/term_deposit.csv',
+  [
+    { id: 'Account Number', title: 'Account Number' },
+    { id: 'Location', title: 'Location' },
+    { id: 'Date', title: 'Date' },
+    { id: 'Account Currency', title: 'Account Currency' },
+    { id: 'Product Type', title: 'Product Type' },
+    { id: 'Financial Institution', title: 'Financial Institution' },
+    { id: 'Account Currency Balance', title: 'Account Currency Balance' },
+    { id: 'Account Currency Interest Amount', title: 'Account Currency Interest Amount' },
+    { id: 'Entity', title: 'Entity' },
+    { id: 'Interest Rate (%)', title: 'Interest Rate (%)' },
+    { id: 'Placement Date', title: 'Placement Date' },
+    { id: 'Maturity Date', title: 'Maturity Date' },
+    { id: 'Tenor Days', title: 'Tenor Days' },
+    { id: 'Days to Maturity', title: 'Days to Maturity' },
+  ]
+)
