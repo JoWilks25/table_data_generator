@@ -14,6 +14,11 @@ const toDate = '2022-12-31' // YYYY-MM-DD - when to stop generating transaction 
 const outputDatetimeFormat = 'YYYY-MM-DD HH:mm:ss' // format of datetime for output csv's
 const outputDateFormat = 'YYYY-MM-DD' // format of date for output csv's
 
+// Error Handling for variables
+if (numberEntities > numberAccounts) { throw new Error('numberEntities should be less than numberAccounts') }
+if (accountLength <= 6) { throw new Error('accountLength should not be less than 6 digits') }
+if (moment(toDate) <= moment(fromDate)) { throw new Error('toDate must be a date greater than fromDate') }
+
 // GENERATE ARRAY OF DATES FOR SPECIFIED DATE RANGE
 const dates = getDates(fromDate, toDate)
 
@@ -25,9 +30,9 @@ const accountNosList = randAccount({ length: numberAccounts, accountLength });
 const listEntities = randCompanyName({ length: numberEntities })
 
 // Create account balance row for each account number for all dates
-accountNosList.forEach((accountNumber) => {
+accountNosList.forEach((accountNo) => {
   const baseAccounBalRow = {
-    'Account Number': accountNumber,
+    'Account Number': accountNo,
     'Location': selectRandValue(SUBSET_COUNTRIES),
     'Date': null,
     'Account Currency': selectRandValue(SUBSET_CURRENCIES),
@@ -49,7 +54,7 @@ accountNosList.forEach((accountNumber) => {
 // GENERATE ROW DATA FOR TRANSACTIONS TABLE
 let transactionsTable = []
 
-accountNosList.forEach((accountNumber) => {
+accountNosList.forEach((accountNo) => {
   let prevDayAccBalObject
   dates.forEach((date, index) => {
     // Generating random number of transactions for a specific account number
@@ -61,7 +66,7 @@ accountNosList.forEach((accountNumber) => {
 
 
     let currentDayAccBalObject = accountBalancesTable.find((accBalObject) => {
-      return accountNumber === accBalObject['Account Number'] && date.format(outputDateFormat) === accBalObject.Date
+      return accountNo === accBalObject['Account Number'] && date.format(outputDateFormat) === accBalObject.Date
     })
 
     // If current is earliest date i.e. fromDate, then currentDayAccBalObject = the starting balance value of the account.
@@ -80,7 +85,7 @@ accountNosList.forEach((accountNumber) => {
     transactionAmounts.forEach((amount) => {
       const transactionType = selectRandValue(['Internal Transfer', 'Cross Border Transfer', 'Direct Debit', 'Cheque'])
       const transactionRow = {
-        'Account Number': accountNumber,
+        'Account Number': accountNo,
         'Datetime': moment(randBetweenDate({ from: new Date(startDateTime), to: new Date(endDateTime) })).format(outputDatetimeFormat),
         'Transaction type': transactionType,
         'Inflows / Outflows': amount < 0 ? 'Outflow' : 'Inflow',
@@ -97,6 +102,66 @@ accountNosList.forEach((accountNumber) => {
 // GENERATE ROW DATA FOR TERM DEPOSIT TABLE
 let termDepositTable = [];
 
+let noExistingTD = 2 // how many term deposits that have started before fromDate
+let noStartingTD = 2 // how many term deposits that have started after fromDate & before toDate
+let noMaturingTD = 1 // how many term deposits that will mature during fromDate & toDate within existing & starting
+
+// Error Handling for variables
+if (noMaturingTD > noExistingTD) { throw new Error('Cannot calculate Term Deposit, noMaturingTD is greater than noExistingTD') }
+if (noMaturingTD > noStartingTD) { throw new Error('Cannot calculate Term Deposit, noMaturingTD is greater than noStartingTD') }
+
+// Create unique Account Numbers for total number of term deposits
+const existingTDAccounts = randAccount({ length: noExistingTD, accountLength });
+const startingTDAccounts = randAccount({ length: noStartingTD, accountLength });
+
+// Allocate to each accountNumber whether it will be existing or starting
+
+let counter = noMaturingTD
+
+existingTDAccounts.forEach((accountNo) => {
+  // Create Placement Date prior to fromDate from some random number of days before fromDate
+  let placementDate = moment(toDate).subtract(randNumber({ min: 1, max: 100 }), 'd')
+
+  // By default set maturity date to some random number of days after toDate
+  let maturityDate = moment(toDate).add(randNumber({ min: 1, max: 100 }), 'd')
+
+  // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
+  if (counter > 0) {
+    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: 100 }), 'd')
+    counter -= 1
+  }
+
+
+  const baseTDAccBalRow = {
+    'Account Number': accountNo,
+    'Location': selectRandValue(SUBSET_COUNTRIES),
+    'Date': null, // Current date of balance
+    'Account Currency': selectRandValue(SUBSET_CURRENCIES),
+    'Product Type': selectRandValue(BANKING_PRODUCT_TYPES),
+    'Financial Institution': generateRandomBankName(),
+    'Account Currency Balance': null,
+    'Account Currency Interest Amount': '',
+    'Entity': selectRandValue(listEntities),
+    'Interest Rate (%)': randNumber({ min: 0.1, max: 10, precision: 10 }), // Annual Interest rate 
+    'Placement Date': placementDate, // Date when term deposit began for existing nee~ds to be before fromDate
+    'Maturity Date': maturityDate, // Date when term deposit ends and initial sum is returned
+    'Tenor Days': '', // Date (so current date) - Placement Date (Date when term deposit began)
+    'Days to Maturity': '', // How many days from (current) Date to Maturity Date
+  }
+
+  dates.forEach((date, index) => {
+    const dailyTDAccBalRow = {
+      ...baseTDAccBalRow,
+      'Date': date.format(outputDateFormat),
+      'Account Currency Balance': '',
+      'Tenor Days': '', // Date (so current date) - Placement Date (Date when term deposit began)
+      'Days to Maturity': '', // How many days from (current) Date to Maturity Date
+    }
+    termDepositTable.push(dailyTDAccBalRow)
+  })
+
+  termDepositTable.push()
+})
 
 
 // WRITE ACCOUNT BALANCES TABLE TO CSV
