@@ -100,39 +100,23 @@ accountNosList.forEach((accountNo) => {
 
 
 // GENERATE ROW DATA FOR TERM DEPOSIT TABLE
-let termDepositTable = [];
-
-let noExistingTD = 2 // how many term deposits that have started before fromDate
-let noStartingTD = 2 // how many term deposits that have started after fromDate & before toDate
+let noExistingTD = 3 // how many term deposits that have started before fromDate
+let noStartingTD = 3 // how many term deposits that have started after fromDate & before toDate
 let noMaturingTD = 1 // how many term deposits that will mature during fromDate & toDate within existing & starting
 
 // Error Handling for variables
 if (noMaturingTD > noExistingTD) { throw new Error('Cannot calculate Term Deposit, noMaturingTD is greater than noExistingTD') }
 if (noMaturingTD > noStartingTD) { throw new Error('Cannot calculate Term Deposit, noMaturingTD is greater than noStartingTD') }
 
+let termDepositTable = []
+
 // Create unique Account Numbers for total number of term deposits
 const existingTDAccounts = randAccount({ length: noExistingTD, accountLength });
 const startingTDAccounts = randAccount({ length: noStartingTD, accountLength });
 
-// Allocate to each accountNumber whether it will be existing or starting
-
-let counter = noMaturingTD
-
-existingTDAccounts.forEach((accountNo) => {
-  // Create Placement Date prior to fromDate from some random number of days before fromDate
-  let placementDate = moment(toDate).subtract(randNumber({ min: 1, max: 100 }), 'd')
-
-  // By default set maturity date to some random number of days after toDate
-  let maturityDate = moment(toDate).add(randNumber({ min: 1, max: 100 }), 'd')
-
-  // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
-  if (counter > 0) {
-    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: 100 }), 'd')
-    counter -= 1
-  }
-
-
-  const baseTDAccBalRow = {
+const calcBaseTemplate = (argObj) => {
+  const { placementDate, maturityDate, accountNo } = argObj
+  return {
     'Account Number': accountNo,
     'Location': selectRandValue(SUBSET_COUNTRIES),
     'Date': null, // Current date of balance
@@ -142,27 +126,81 @@ existingTDAccounts.forEach((accountNo) => {
     'Account Currency Balance': null,
     'Account Currency Interest Amount': '',
     'Entity': selectRandValue(listEntities),
-    'Interest Rate (%)': randNumber({ min: 0.1, max: 10, precision: 10 }), // Annual Interest rate 
-    'Placement Date': placementDate, // Date when term deposit began for existing nee~ds to be before fromDate
-    'Maturity Date': maturityDate, // Date when term deposit ends and initial sum is returned
+    'Interest Rate (%)': null, // Annual Interest rate 
+    'Placement Date': placementDate.format(outputDateFormat), // Date when term deposit began for existing needs to be before fromDate
+    'Maturity Date': maturityDate.format(outputDateFormat), // Date when term deposit ends and initial sum is returned
     'Tenor Days': '', // Date (so current date) - Placement Date (Date when term deposit began)
     'Days to Maturity': '', // How many days from (current) Date to Maturity Date
   }
+}
 
-  dates.forEach((date, index) => {
+// Allocate to each accountNumber whether it will be existing or starting
+let counter = noMaturingTD
+existingTDAccounts.forEach((accountNo) => {
+  // Create Placement Date prior to fromDate from some random number of days before fromDate
+  const placementDate = moment(toDate).subtract(randNumber({ min: 1, max: 100 }), 'd')
+  // By default set maturity date to some random number of days after toDate
+  let maturityDate = moment(toDate).add(randNumber({ min: 1, max: 100 }), 'd')
+  // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
+  if (counter > 0) {
+    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: 100 }), 'd')
+    counter -= 1
+  }
+
+  const baseTDAccBalRow = calcBaseTemplate({ placementDate, maturityDate, accountNo })
+  const interestRate = randNumber({ min: 0.1, max: 10, fraction: 2 })
+  const accCurrBalance = randNumber({ min: 10000, max: 10000000, precision: 1000 })
+
+  dates.forEach((date) => {
+    const daysToMaturity = moment(maturityDate).diff(date, 'days');
+    // If it's already matured so don't add row
+    if (daysToMaturity < 0 ) { return }
     const dailyTDAccBalRow = {
       ...baseTDAccBalRow,
       'Date': date.format(outputDateFormat),
       'Account Currency Balance': '',
-      'Tenor Days': '', // Date (so current date) - Placement Date (Date when term deposit began)
-      'Days to Maturity': '', // How many days from (current) Date to Maturity Date
+      'Tenor Days': moment(date).diff(placementDate, 'days'), // Date (so current date) - Placement Date (Date when term deposit began)
+      'Days to Maturity': daysToMaturity,
+      'Interest Rate (%)': interestRate, // Annual Interest rate
+      'Account Currency Balance': accCurrBalance,
     }
     termDepositTable.push(dailyTDAccBalRow)
   })
-
-  termDepositTable.push()
 })
 
+startingTDAccounts.forEach((accountNo) => {
+  // Create Placement Date between fromDate and toDate
+  const noDaysBetweenFromToDate = moment(toDate).diff(fromDate, 'days')
+  const placementDate = moment(fromDate).add(randNumber({ min: 1, max: noDaysBetweenFromToDate }), 'd')
+  // By default set maturity date to some random number of days after toDate
+  let maturityDate = moment(placementDate).add(randNumber({ min: 1, max: 100 }), 'd')
+  // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
+  if (counter > 0) {
+    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: 100 }), 'd')
+    counter -= 1
+  }
+
+  const baseTDAccBalRow = calcBaseTemplate({ placementDate, maturityDate, accountNo })
+  const interestRate = randNumber({ min: 0.1, max: 10, fraction: 2 })
+  const accCurrBalance = randNumber({ min: 10000, max: 10000000, precision: 1000 })
+
+  dates.forEach((date) => {
+    const daysToMaturity = moment(maturityDate).diff(date, 'days');
+    const tenorDays = moment(date).diff(placementDate, 'days')
+    // If it's already matured/hasn't started yet don't add row
+    if (daysToMaturity < 0 || tenorDays < 0) { return }
+    const dailyTDAccBalRow = {
+      ...baseTDAccBalRow,
+      'Date': date.format(outputDateFormat),
+      'Account Currency Balance': '',
+      'Tenor Days': moment(date).diff(placementDate, 'days'), // Date (so current date) - Placement Date (Date when term deposit began)
+      'Days to Maturity': daysToMaturity,
+      'Interest Rate (%)': interestRate, // Annual Interest rate
+      'Account Currency Balance': accCurrBalance,
+    }
+    termDepositTable.push(dailyTDAccBalRow)
+  })
+})
 
 // WRITE ACCOUNT BALANCES TABLE TO CSV
 generateCsv(
