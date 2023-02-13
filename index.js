@@ -9,7 +9,7 @@ import generateCsv from './helpers/generateCsv.js';
 const numberAccounts = 10 // How many different accounts you want to generate transactional data for
 const accountLength = 12 // The length of numbers for the account number
 const numberEntities = 4 // An entity can have many accounts, this is used to define how many entities own the number of accounts generated
-const fromDate = '2022-12-28' // YYYY-MM-DD - when to start generating transaction data from
+const fromDate = '2022-01-01' // YYYY-MM-DD - when to start generating transaction data from
 const toDate = '2022-12-31' // YYYY-MM-DD - when to stop generating transaction data to
 const outputDatetimeFormat = 'YYYY-MM-DD HH:mm:ss' // format of datetime for output csv's
 const outputDateFormat = 'YYYY-MM-DD' // format of date for output csv's
@@ -19,8 +19,10 @@ if (numberEntities > numberAccounts) { throw new Error('numberEntities should be
 if (accountLength <= 6) { throw new Error('accountLength should not be less than 6 digits') }
 if (moment(toDate) <= moment(fromDate)) { throw new Error('toDate must be a date greater than fromDate') }
 
+
 // GENERATE ARRAY OF DATES FOR SPECIFIED DATE RANGE
 const dates = getDates(fromDate, toDate)
+
 
 // GENERATE ROW DATA FOR ACCOUNT BALANCES TABLE
 let accountBalancesTable = [];
@@ -50,6 +52,7 @@ accountNosList.forEach((accountNo) => {
     accountBalancesTable.push(dailyAccountBalRow)
   })
 })
+
 
 // GENERATE ROW DATA FOR TRANSACTIONS TABLE
 let transactionsTable = []
@@ -100,9 +103,9 @@ accountNosList.forEach((accountNo) => {
 
 
 // GENERATE ROW DATA FOR TERM DEPOSIT TABLE
-let noExistingTD = 3 // how many term deposits that have started before fromDate
-let noStartingTD = 3 // how many term deposits that have started after fromDate & before toDate
-let noMaturingTD = 1 // how many term deposits that will mature during fromDate & toDate within existing & starting
+let noExistingTD = 5 // how many term deposits that have started before fromDate
+let noStartingTD = 5 // how many term deposits that have started after fromDate & before toDate
+let noMaturingTD = 2 // how many term deposits that will mature during fromDate & toDate within existing & starting
 
 // Error Handling for variables
 if (noMaturingTD > noExistingTD) { throw new Error('Cannot calculate Term Deposit, noMaturingTD is greater than noExistingTD') }
@@ -123,15 +126,22 @@ const calcBaseTemplate = (argObj) => {
     'Account Currency': selectRandValue(SUBSET_CURRENCIES),
     'Product Type': selectRandValue(BANKING_PRODUCT_TYPES),
     'Financial Institution': generateRandomBankName(),
-    'Account Currency Balance': null,
-    'Account Currency Interest Amount': '',
+    'Account Currency Balance': 0,
+    'Account Currency Interest Amount': 0,
     'Entity': selectRandValue(listEntities),
-    'Interest Rate (%)': null, // Annual Interest rate 
+    'Interest Rate (%)': 0, // Annual Interest rate 
     'Placement Date': placementDate.format(outputDateFormat), // Date when term deposit began for existing needs to be before fromDate
     'Maturity Date': maturityDate.format(outputDateFormat), // Date when term deposit ends and initial sum is returned
     'Tenor Days': '', // Date (so current date) - Placement Date (Date when term deposit began)
     'Days to Maturity': '', // How many days from (current) Date to Maturity Date
   }
+}
+
+const calculateInterest = (argObj) => {
+  const { accCurrBalance, interestRate, tenorDays } = argObj
+  const annualInterest = accCurrBalance * (interestRate / 100) // How much interest is for Annual period
+  const percentYear = tenorDays / 365 // What percent of a year the tenorDays is
+  return annualInterest * percentYear
 }
 
 // Allocate to each accountNumber whether it will be existing or starting
@@ -148,21 +158,22 @@ existingTDAccounts.forEach((accountNo) => {
   }
 
   const baseTDAccBalRow = calcBaseTemplate({ placementDate, maturityDate, accountNo })
-  const interestRate = randNumber({ min: 0.1, max: 10, fraction: 2 })
+  const interestRate = randNumber({ min: 1, max: 10, fraction: 2 })
   const accCurrBalance = randNumber({ min: 10000, max: 10000000, precision: 1000 })
 
   dates.forEach((date) => {
     const daysToMaturity = moment(maturityDate).diff(date, 'days');
-    // If it's already matured so don't add row
-    if (daysToMaturity < 0 ) { return }
+    const tenorDays = moment(date).diff(placementDate, 'days')
+    // If it's already matured/hasn't started yet don't add row
+    if (daysToMaturity < 0 || tenorDays < 0) { return }
     const dailyTDAccBalRow = {
       ...baseTDAccBalRow,
       'Date': date.format(outputDateFormat),
-      'Account Currency Balance': '',
-      'Tenor Days': moment(date).diff(placementDate, 'days'), // Date (so current date) - Placement Date (Date when term deposit began)
+      'Tenor Days': tenorDays, // Date (so current date) - Placement Date (Date when term deposit began)
       'Days to Maturity': daysToMaturity,
       'Interest Rate (%)': interestRate, // Annual Interest rate
-      'Account Currency Balance': accCurrBalance,
+      'Account Currency Balance': daysToMaturity === 0 ? 0 : accCurrBalance,
+      'Account Currency Interest Amount': daysToMaturity === 0 ? calculateInterest({ accCurrBalance, interestRate, tenorDays }): 0,
     }
     termDepositTable.push(dailyTDAccBalRow)
   })
@@ -192,15 +203,20 @@ startingTDAccounts.forEach((accountNo) => {
     const dailyTDAccBalRow = {
       ...baseTDAccBalRow,
       'Date': date.format(outputDateFormat),
-      'Account Currency Balance': '',
-      'Tenor Days': moment(date).diff(placementDate, 'days'), // Date (so current date) - Placement Date (Date when term deposit began)
+      'Tenor Days': tenorDays, // Date (so current date) - Placement Date (Date when term deposit began)
       'Days to Maturity': daysToMaturity,
       'Interest Rate (%)': interestRate, // Annual Interest rate
-      'Account Currency Balance': accCurrBalance,
+      'Account Currency Balance': daysToMaturity === 0 ? 0 : accCurrBalance,
+      'Account Currency Interest Amount': daysToMaturity === 0 ? calculateInterest({ accCurrBalance, interestRate, tenorDays }): 0,
     }
     termDepositTable.push(dailyTDAccBalRow)
   })
 })
+
+
+// GENERATE ROW DATA FOR TERM DEPOSITS TRANSACTIONS
+
+
 
 // WRITE ACCOUNT BALANCES TABLE TO CSV
 generateCsv(
