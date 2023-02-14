@@ -9,7 +9,7 @@ import generateCsv from './helpers/generateCsv.js';
 const numberAccounts = 10 // How many different accounts you want to generate transactional data for
 const accountLength = 12 // The length of numbers for the account number
 const numberEntities = 4 // An entity can have many accounts, this is used to define how many entities own the number of accounts generated
-const fromDate = '2022-01-01' // YYYY-MM-DD - when to start generating transaction data from
+const fromDate = '2022-09-01' // YYYY-MM-DD - when to start generating transaction data from
 const toDate = '2022-12-31' // YYYY-MM-DD - when to stop generating transaction data to
 const outputDatetimeFormat = 'YYYY-MM-DD HH:mm:ss' // format of datetime for output csv's
 const outputDateFormat = 'YYYY-MM-DD' // format of date for output csv's
@@ -103,9 +103,9 @@ accountNosList.forEach((accountNo) => {
 
 
 // GENERATE ROW DATA FOR TERM DEPOSIT TABLE
-let noExistingTD = 5 // how many term deposits that have started before fromDate
-let noStartingTD = 5 // how many term deposits that have started after fromDate & before toDate
-let noMaturingTD = 2 // how many term deposits that will mature during fromDate & toDate within existing & starting
+let noExistingTD = 2 // how many term deposits that have started before fromDate
+let noStartingTD = 2 // how many term deposits that have started after fromDate & before toDate
+let noMaturingTD = 1 // how many term deposits that will mature during fromDate & toDate within existing & starting
 
 // Error Handling for variables
 if (noMaturingTD > noExistingTD) { throw new Error('Cannot calculate Term Deposit, noMaturingTD is greater than noExistingTD') }
@@ -124,7 +124,7 @@ const calcBaseTemplate = (argObj) => {
     'Location': selectRandValue(SUBSET_COUNTRIES),
     'Date': null, // Current date of balance
     'Account Currency': selectRandValue(SUBSET_CURRENCIES),
-    'Product Type': selectRandValue(BANKING_PRODUCT_TYPES),
+    'Product Type': 'Term Deposit',
     'Financial Institution': generateRandomBankName(),
     'Account Currency Balance': 0,
     'Account Currency Interest Amount': 0,
@@ -153,7 +153,8 @@ existingTDAccounts.forEach((accountNo) => {
   let maturityDate = moment(toDate).add(randNumber({ min: 1, max: 100 }), 'd')
   // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
   if (counter > 0) {
-    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: 100 }), 'd')
+    const noDaysBetweenFromToDate = moment(toDate).diff(fromDate, 'days')
+    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: noDaysBetweenFromToDate }), 'd')
     counter -= 1
   }
 
@@ -179,6 +180,7 @@ existingTDAccounts.forEach((accountNo) => {
   })
 })
 
+let counter2 = noMaturingTD
 startingTDAccounts.forEach((accountNo) => {
   // Create Placement Date between fromDate and toDate
   const noDaysBetweenFromToDate = moment(toDate).diff(fromDate, 'days')
@@ -186,9 +188,9 @@ startingTDAccounts.forEach((accountNo) => {
   // By default set maturity date to some random number of days after toDate
   let maturityDate = moment(placementDate).add(randNumber({ min: 1, max: 100 }), 'd')
   // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
-  if (counter > 0) {
-    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: 100 }), 'd')
-    counter -= 1
+  if (counter2 > 0) {
+    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: noDaysBetweenFromToDate }), 'd')
+    counter2 -= 1
   }
 
   const baseTDAccBalRow = calcBaseTemplate({ placementDate, maturityDate, accountNo })
