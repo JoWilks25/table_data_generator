@@ -148,7 +148,7 @@ const calculateInterest = (argObj) => {
 let counter = noMaturingTD
 existingTDAccounts.forEach((accountNo) => {
   // Create Placement Date prior to fromDate from some random number of days before fromDate
-  const placementDate = moment(toDate).subtract(randNumber({ min: 1, max: 100 }), 'd')
+  const placementDate = moment(fromDate).subtract(randNumber({ min: 1, max: 100 }), 'd')
   // By default set maturity date to some random number of days after toDate
   let maturityDate = moment(toDate).add(randNumber({ min: 1, max: 100 }), 'd')
   // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
@@ -161,7 +161,6 @@ existingTDAccounts.forEach((accountNo) => {
   const baseTDAccBalRow = calcBaseTemplate({ placementDate, maturityDate, accountNo })
   const interestRate = randNumber({ min: 1, max: 10, fraction: 2 })
   const accCurrBalance = randNumber({ min: 10000, max: 10000000, precision: 1000 })
-
   dates.forEach((date) => {
     const daysToMaturity = moment(maturityDate).diff(date, 'days');
     const tenorDays = moment(date).diff(placementDate, 'days')
@@ -186,17 +185,17 @@ startingTDAccounts.forEach((accountNo) => {
   const noDaysBetweenFromToDate = moment(toDate).diff(fromDate, 'days')
   const placementDate = moment(fromDate).add(randNumber({ min: 1, max: noDaysBetweenFromToDate }), 'd')
   // By default set maturity date to some random number of days after toDate
-  let maturityDate = moment(placementDate).add(randNumber({ min: 1, max: 100 }), 'd')
+  let maturityDate = moment(toDate).add(randNumber({ min: 1, max: 100 }), 'd')
   // If noMaturingTD > 0 then select a maturity date between fromDate & toDate
   if (counter2 > 0) {
-    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: noDaysBetweenFromToDate }), 'd')
+    const diffBetweenPlacementToDate = moment(toDate).diff(placementDate, 'days')
+    maturityDate = moment(fromDate).add(randNumber({ min: 1, max: diffBetweenPlacementToDate }), 'd')
     counter2 -= 1
   }
 
   const baseTDAccBalRow = calcBaseTemplate({ placementDate, maturityDate, accountNo })
   const interestRate = randNumber({ min: 0.1, max: 10, fraction: 2 })
   const accCurrBalance = randNumber({ min: 10000, max: 10000000, precision: 1000 })
-
   dates.forEach((date) => {
     const daysToMaturity = moment(maturityDate).diff(date, 'days');
     const tenorDays = moment(date).diff(placementDate, 'days')
@@ -214,7 +213,6 @@ startingTDAccounts.forEach((accountNo) => {
     termDepositTable.push(dailyTDAccBalRow)
   })
 })
-
 
 // GENERATE ROW DATA FOR TERM DEPOSITS TRANSACTIONS
 
