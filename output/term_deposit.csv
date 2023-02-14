@@ -1,333 +1,260 @@
 Account Number,Location,Date,Account Currency,Product Type,Financial Institution,Account Currency Balance,Account Currency Interest Amount,Entity,Interest Rate (%),Placement Date,Maturity Date,Tenor Days,Days to Maturity
-849570430684,Morocco,2022-10-22,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,0,76
-849570430684,Morocco,2022-10-23,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,1,75
-849570430684,Morocco,2022-10-24,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,2,74
-849570430684,Morocco,2022-10-25,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,3,73
-849570430684,Morocco,2022-10-26,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,4,72
-849570430684,Morocco,2022-10-27,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,5,71
-849570430684,Morocco,2022-10-28,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,6,70
-849570430684,Morocco,2022-10-29,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,7,69
-849570430684,Morocco,2022-10-30,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,8,68
-849570430684,Morocco,2022-10-31,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,9,67
-849570430684,Morocco,2022-11-01,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,10,66
-849570430684,Morocco,2022-11-02,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,11,65
-849570430684,Morocco,2022-11-03,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,12,64
-849570430684,Morocco,2022-11-04,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,13,63
-849570430684,Morocco,2022-11-05,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,14,62
-849570430684,Morocco,2022-11-06,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,15,61
-849570430684,Morocco,2022-11-07,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,16,60
-849570430684,Morocco,2022-11-08,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,17,59
-849570430684,Morocco,2022-11-09,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,18,58
-849570430684,Morocco,2022-11-10,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,19,57
-849570430684,Morocco,2022-11-11,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,20,56
-849570430684,Morocco,2022-11-12,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,21,55
-849570430684,Morocco,2022-11-13,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,22,54
-849570430684,Morocco,2022-11-14,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,23,53
-849570430684,Morocco,2022-11-15,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,24,52
-849570430684,Morocco,2022-11-16,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,25,51
-849570430684,Morocco,2022-11-17,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,26,50
-849570430684,Morocco,2022-11-18,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,27,49
-849570430684,Morocco,2022-11-19,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,28,48
-849570430684,Morocco,2022-11-20,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,29,47
-849570430684,Morocco,2022-11-21,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,30,46
-849570430684,Morocco,2022-11-22,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,31,45
-849570430684,Morocco,2022-11-23,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,32,44
-849570430684,Morocco,2022-11-24,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,33,43
-849570430684,Morocco,2022-11-25,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,34,42
-849570430684,Morocco,2022-11-26,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,35,41
-849570430684,Morocco,2022-11-27,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,36,40
-849570430684,Morocco,2022-11-28,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,37,39
-849570430684,Morocco,2022-11-29,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,38,38
-849570430684,Morocco,2022-11-30,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,39,37
-849570430684,Morocco,2022-12-01,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,40,36
-849570430684,Morocco,2022-12-02,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,41,35
-849570430684,Morocco,2022-12-03,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,42,34
-849570430684,Morocco,2022-12-04,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,43,33
-849570430684,Morocco,2022-12-05,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,44,32
-849570430684,Morocco,2022-12-06,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,45,31
-849570430684,Morocco,2022-12-07,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,46,30
-849570430684,Morocco,2022-12-08,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,47,29
-849570430684,Morocco,2022-12-09,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,48,28
-849570430684,Morocco,2022-12-10,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,49,27
-849570430684,Morocco,2022-12-11,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,50,26
-849570430684,Morocco,2022-12-12,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,51,25
-849570430684,Morocco,2022-12-13,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,52,24
-849570430684,Morocco,2022-12-14,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,53,23
-849570430684,Morocco,2022-12-15,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,54,22
-849570430684,Morocco,2022-12-16,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,55,21
-849570430684,Morocco,2022-12-17,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,56,20
-849570430684,Morocco,2022-12-18,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,57,19
-849570430684,Morocco,2022-12-19,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,58,18
-849570430684,Morocco,2022-12-20,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,59,17
-849570430684,Morocco,2022-12-21,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,60,16
-849570430684,Morocco,2022-12-22,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,61,15
-849570430684,Morocco,2022-12-23,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,62,14
-849570430684,Morocco,2022-12-24,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,63,13
-849570430684,Morocco,2022-12-25,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,64,12
-849570430684,Morocco,2022-12-26,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,65,11
-849570430684,Morocco,2022-12-27,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,66,10
-849570430684,Morocco,2022-12-28,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,67,9
-849570430684,Morocco,2022-12-29,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,68,8
-849570430684,Morocco,2022-12-30,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,69,7
-849570430684,Morocco,2022-12-31,EUR,Demand deposit,Bank of 17,608000,0,Kreiger - Sauer,2.03,2022-10-22,2023-01-06,70,6
-552167564668,United Kingdom,2022-11-03,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,0,70
-552167564668,United Kingdom,2022-11-04,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,1,69
-552167564668,United Kingdom,2022-11-05,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,2,68
-552167564668,United Kingdom,2022-11-06,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,3,67
-552167564668,United Kingdom,2022-11-07,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,4,66
-552167564668,United Kingdom,2022-11-08,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,5,65
-552167564668,United Kingdom,2022-11-09,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,6,64
-552167564668,United Kingdom,2022-11-10,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,7,63
-552167564668,United Kingdom,2022-11-11,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,8,62
-552167564668,United Kingdom,2022-11-12,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,9,61
-552167564668,United Kingdom,2022-11-13,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,10,60
-552167564668,United Kingdom,2022-11-14,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,11,59
-552167564668,United Kingdom,2022-11-15,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,12,58
-552167564668,United Kingdom,2022-11-16,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,13,57
-552167564668,United Kingdom,2022-11-17,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,14,56
-552167564668,United Kingdom,2022-11-18,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,15,55
-552167564668,United Kingdom,2022-11-19,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,16,54
-552167564668,United Kingdom,2022-11-20,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,17,53
-552167564668,United Kingdom,2022-11-21,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,18,52
-552167564668,United Kingdom,2022-11-22,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,19,51
-552167564668,United Kingdom,2022-11-23,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,20,50
-552167564668,United Kingdom,2022-11-24,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,21,49
-552167564668,United Kingdom,2022-11-25,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,22,48
-552167564668,United Kingdom,2022-11-26,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,23,47
-552167564668,United Kingdom,2022-11-27,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,24,46
-552167564668,United Kingdom,2022-11-28,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,25,45
-552167564668,United Kingdom,2022-11-29,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,26,44
-552167564668,United Kingdom,2022-11-30,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,27,43
-552167564668,United Kingdom,2022-12-01,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,28,42
-552167564668,United Kingdom,2022-12-02,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,29,41
-552167564668,United Kingdom,2022-12-03,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,30,40
-552167564668,United Kingdom,2022-12-04,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,31,39
-552167564668,United Kingdom,2022-12-05,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,32,38
-552167564668,United Kingdom,2022-12-06,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,33,37
-552167564668,United Kingdom,2022-12-07,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,34,36
-552167564668,United Kingdom,2022-12-08,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,35,35
-552167564668,United Kingdom,2022-12-09,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,36,34
-552167564668,United Kingdom,2022-12-10,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,37,33
-552167564668,United Kingdom,2022-12-11,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,38,32
-552167564668,United Kingdom,2022-12-12,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,39,31
-552167564668,United Kingdom,2022-12-13,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,40,30
-552167564668,United Kingdom,2022-12-14,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,41,29
-552167564668,United Kingdom,2022-12-15,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,42,28
-552167564668,United Kingdom,2022-12-16,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,43,27
-552167564668,United Kingdom,2022-12-17,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,44,26
-552167564668,United Kingdom,2022-12-18,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,45,25
-552167564668,United Kingdom,2022-12-19,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,46,24
-552167564668,United Kingdom,2022-12-20,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,47,23
-552167564668,United Kingdom,2022-12-21,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,48,22
-552167564668,United Kingdom,2022-12-22,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,49,21
-552167564668,United Kingdom,2022-12-23,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,50,20
-552167564668,United Kingdom,2022-12-24,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,51,19
-552167564668,United Kingdom,2022-12-25,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,52,18
-552167564668,United Kingdom,2022-12-26,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,53,17
-552167564668,United Kingdom,2022-12-27,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,54,16
-552167564668,United Kingdom,2022-12-28,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,55,15
-552167564668,United Kingdom,2022-12-29,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,56,14
-552167564668,United Kingdom,2022-12-30,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,57,13
-552167564668,United Kingdom,2022-12-31,USD,Demand deposit,Bank of 11,3602000,0,"Maggio, Wisoky and Blick",0.69,2022-11-03,2023-01-12,58,12
-857755753536,Brazil,2022-12-03,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,0,35
-857755753536,Brazil,2022-12-04,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,1,34
-857755753536,Brazil,2022-12-05,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,2,33
-857755753536,Brazil,2022-12-06,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,3,32
-857755753536,Brazil,2022-12-07,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,4,31
-857755753536,Brazil,2022-12-08,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,5,30
-857755753536,Brazil,2022-12-09,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,6,29
-857755753536,Brazil,2022-12-10,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,7,28
-857755753536,Brazil,2022-12-11,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,8,27
-857755753536,Brazil,2022-12-12,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,9,26
-857755753536,Brazil,2022-12-13,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,10,25
-857755753536,Brazil,2022-12-14,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,11,24
-857755753536,Brazil,2022-12-15,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,12,23
-857755753536,Brazil,2022-12-16,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,13,22
-857755753536,Brazil,2022-12-17,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,14,21
-857755753536,Brazil,2022-12-18,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,15,20
-857755753536,Brazil,2022-12-19,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,16,19
-857755753536,Brazil,2022-12-20,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,17,18
-857755753536,Brazil,2022-12-21,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,18,17
-857755753536,Brazil,2022-12-22,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,19,16
-857755753536,Brazil,2022-12-23,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,20,15
-857755753536,Brazil,2022-12-24,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,21,14
-857755753536,Brazil,2022-12-25,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,22,13
-857755753536,Brazil,2022-12-26,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,23,12
-857755753536,Brazil,2022-12-27,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,24,11
-857755753536,Brazil,2022-12-28,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,25,10
-857755753536,Brazil,2022-12-29,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,26,9
-857755753536,Brazil,2022-12-30,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,27,8
-857755753536,Brazil,2022-12-31,GBP,Demand deposit,Bank of 14,4267000,0,Hills and Sons,9.56,2022-12-03,2023-01-07,28,7
-223103559677,United Kingdom,2022-08-27,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,0,34
-223103559677,United Kingdom,2022-08-28,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,1,33
-223103559677,United Kingdom,2022-08-29,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,2,32
-223103559677,United Kingdom,2022-08-30,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,3,31
-223103559677,United Kingdom,2022-08-31,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,4,30
-223103559677,United Kingdom,2022-09-01,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,5,29
-223103559677,United Kingdom,2022-09-02,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,6,28
-223103559677,United Kingdom,2022-09-03,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,7,27
-223103559677,United Kingdom,2022-09-04,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,8,26
-223103559677,United Kingdom,2022-09-05,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,9,25
-223103559677,United Kingdom,2022-09-06,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,10,24
-223103559677,United Kingdom,2022-09-07,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,11,23
-223103559677,United Kingdom,2022-09-08,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,12,22
-223103559677,United Kingdom,2022-09-09,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,13,21
-223103559677,United Kingdom,2022-09-10,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,14,20
-223103559677,United Kingdom,2022-09-11,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,15,19
-223103559677,United Kingdom,2022-09-12,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,16,18
-223103559677,United Kingdom,2022-09-13,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,17,17
-223103559677,United Kingdom,2022-09-14,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,18,16
-223103559677,United Kingdom,2022-09-15,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,19,15
-223103559677,United Kingdom,2022-09-16,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,20,14
-223103559677,United Kingdom,2022-09-17,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,21,13
-223103559677,United Kingdom,2022-09-18,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,22,12
-223103559677,United Kingdom,2022-09-19,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,23,11
-223103559677,United Kingdom,2022-09-20,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,24,10
-223103559677,United Kingdom,2022-09-21,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,25,9
-223103559677,United Kingdom,2022-09-22,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,26,8
-223103559677,United Kingdom,2022-09-23,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,27,7
-223103559677,United Kingdom,2022-09-24,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,28,6
-223103559677,United Kingdom,2022-09-25,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,29,5
-223103559677,United Kingdom,2022-09-26,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,30,4
-223103559677,United Kingdom,2022-09-27,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,31,3
-223103559677,United Kingdom,2022-09-28,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,32,2
-223103559677,United Kingdom,2022-09-29,EUR,Demand deposit,Bank of 3,6359000,0,Block - Rau,5.32,2022-08-27,2022-09-30,33,1
-223103559677,United Kingdom,2022-09-30,EUR,Demand deposit,Bank of 3,0,31512.764931506856,Block - Rau,5.32,2022-08-27,2022-09-30,34,0
-950392505667,Malaysia,2022-06-11,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,0,60
-950392505667,Malaysia,2022-06-12,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,1,59
-950392505667,Malaysia,2022-06-13,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,2,58
-950392505667,Malaysia,2022-06-14,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,3,57
-950392505667,Malaysia,2022-06-15,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,4,56
-950392505667,Malaysia,2022-06-16,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,5,55
-950392505667,Malaysia,2022-06-17,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,6,54
-950392505667,Malaysia,2022-06-18,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,7,53
-950392505667,Malaysia,2022-06-19,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,8,52
-950392505667,Malaysia,2022-06-20,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,9,51
-950392505667,Malaysia,2022-06-21,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,10,50
-950392505667,Malaysia,2022-06-22,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,11,49
-950392505667,Malaysia,2022-06-23,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,12,48
-950392505667,Malaysia,2022-06-24,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,13,47
-950392505667,Malaysia,2022-06-25,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,14,46
-950392505667,Malaysia,2022-06-26,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,15,45
-950392505667,Malaysia,2022-06-27,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,16,44
-950392505667,Malaysia,2022-06-28,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,17,43
-950392505667,Malaysia,2022-06-29,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,18,42
-950392505667,Malaysia,2022-06-30,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,19,41
-950392505667,Malaysia,2022-07-01,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,20,40
-950392505667,Malaysia,2022-07-02,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,21,39
-950392505667,Malaysia,2022-07-03,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,22,38
-950392505667,Malaysia,2022-07-04,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,23,37
-950392505667,Malaysia,2022-07-05,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,24,36
-950392505667,Malaysia,2022-07-06,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,25,35
-950392505667,Malaysia,2022-07-07,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,26,34
-950392505667,Malaysia,2022-07-08,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,27,33
-950392505667,Malaysia,2022-07-09,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,28,32
-950392505667,Malaysia,2022-07-10,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,29,31
-950392505667,Malaysia,2022-07-11,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,30,30
-950392505667,Malaysia,2022-07-12,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,31,29
-950392505667,Malaysia,2022-07-13,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,32,28
-950392505667,Malaysia,2022-07-14,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,33,27
-950392505667,Malaysia,2022-07-15,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,34,26
-950392505667,Malaysia,2022-07-16,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,35,25
-950392505667,Malaysia,2022-07-17,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,36,24
-950392505667,Malaysia,2022-07-18,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,37,23
-950392505667,Malaysia,2022-07-19,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,38,22
-950392505667,Malaysia,2022-07-20,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,39,21
-950392505667,Malaysia,2022-07-21,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,40,20
-950392505667,Malaysia,2022-07-22,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,41,19
-950392505667,Malaysia,2022-07-23,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,42,18
-950392505667,Malaysia,2022-07-24,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,43,17
-950392505667,Malaysia,2022-07-25,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,44,16
-950392505667,Malaysia,2022-07-26,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,45,15
-950392505667,Malaysia,2022-07-27,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,46,14
-950392505667,Malaysia,2022-07-28,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,47,13
-950392505667,Malaysia,2022-07-29,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,48,12
-950392505667,Malaysia,2022-07-30,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,49,11
-950392505667,Malaysia,2022-07-31,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,50,10
-950392505667,Malaysia,2022-08-01,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,51,9
-950392505667,Malaysia,2022-08-02,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,52,8
-950392505667,Malaysia,2022-08-03,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,53,7
-950392505667,Malaysia,2022-08-04,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,54,6
-950392505667,Malaysia,2022-08-05,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,55,5
-950392505667,Malaysia,2022-08-06,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,56,4
-950392505667,Malaysia,2022-08-07,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,57,3
-950392505667,Malaysia,2022-08-08,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,58,2
-950392505667,Malaysia,2022-08-09,USD,Demand deposit,Bank of 10,8237000,0,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,59,1
-950392505667,Malaysia,2022-08-10,USD,Demand deposit,Bank of 10,0,130122.03287671231,"Maggio, Wisoky and Blick",9.61,2022-06-11,2022-08-10,60,0
-219670803501,United Kingdom,2022-05-01,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,0,25
-219670803501,United Kingdom,2022-05-02,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,1,24
-219670803501,United Kingdom,2022-05-03,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,2,23
-219670803501,United Kingdom,2022-05-04,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,3,22
-219670803501,United Kingdom,2022-05-05,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,4,21
-219670803501,United Kingdom,2022-05-06,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,5,20
-219670803501,United Kingdom,2022-05-07,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,6,19
-219670803501,United Kingdom,2022-05-08,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,7,18
-219670803501,United Kingdom,2022-05-09,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,8,17
-219670803501,United Kingdom,2022-05-10,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,9,16
-219670803501,United Kingdom,2022-05-11,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,10,15
-219670803501,United Kingdom,2022-05-12,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,11,14
-219670803501,United Kingdom,2022-05-13,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,12,13
-219670803501,United Kingdom,2022-05-14,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,13,12
-219670803501,United Kingdom,2022-05-15,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,14,11
-219670803501,United Kingdom,2022-05-16,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,15,10
-219670803501,United Kingdom,2022-05-17,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,16,9
-219670803501,United Kingdom,2022-05-18,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,17,8
-219670803501,United Kingdom,2022-05-19,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,18,7
-219670803501,United Kingdom,2022-05-20,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,19,6
-219670803501,United Kingdom,2022-05-21,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,20,5
-219670803501,United Kingdom,2022-05-22,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,21,4
-219670803501,United Kingdom,2022-05-23,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,22,3
-219670803501,United Kingdom,2022-05-24,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,23,2
-219670803501,United Kingdom,2022-05-25,USD,Demand deposit,Bank of 8,5287000,0,Hills and Sons,2.55,2022-05-01,2022-05-26,24,1
-219670803501,United Kingdom,2022-05-26,USD,Demand deposit,Bank of 8,0,9234.143835616438,Hills and Sons,2.55,2022-05-01,2022-05-26,25,0
-753523261335,Portugal,2022-08-15,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,0,15
-753523261335,Portugal,2022-08-16,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,1,14
-753523261335,Portugal,2022-08-17,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,2,13
-753523261335,Portugal,2022-08-18,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,3,12
-753523261335,Portugal,2022-08-19,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,4,11
-753523261335,Portugal,2022-08-20,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,5,10
-753523261335,Portugal,2022-08-21,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,6,9
-753523261335,Portugal,2022-08-22,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,7,8
-753523261335,Portugal,2022-08-23,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,8,7
-753523261335,Portugal,2022-08-24,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,9,6
-753523261335,Portugal,2022-08-25,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,10,5
-753523261335,Portugal,2022-08-26,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,11,4
-753523261335,Portugal,2022-08-27,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,12,3
-753523261335,Portugal,2022-08-28,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,13,2
-753523261335,Portugal,2022-08-29,EUR,Demand deposit,Bank of 2,427000,0,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,14,1
-753523261335,Portugal,2022-08-30,EUR,Demand deposit,Bank of 2,0,131.6095890410959,"Maggio, Wisoky and Blick",0.75,2022-08-15,2022-08-30,15,0
-243345731564,Jordan,2022-03-21,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,0,34
-243345731564,Jordan,2022-03-22,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,1,33
-243345731564,Jordan,2022-03-23,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,2,32
-243345731564,Jordan,2022-03-24,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,3,31
-243345731564,Jordan,2022-03-25,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,4,30
-243345731564,Jordan,2022-03-26,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,5,29
-243345731564,Jordan,2022-03-27,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,6,28
-243345731564,Jordan,2022-03-28,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,7,27
-243345731564,Jordan,2022-03-29,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,8,26
-243345731564,Jordan,2022-03-30,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,9,25
-243345731564,Jordan,2022-03-31,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,10,24
-243345731564,Jordan,2022-04-01,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,11,23
-243345731564,Jordan,2022-04-02,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,12,22
-243345731564,Jordan,2022-04-03,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,13,21
-243345731564,Jordan,2022-04-04,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,14,20
-243345731564,Jordan,2022-04-05,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,15,19
-243345731564,Jordan,2022-04-06,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,16,18
-243345731564,Jordan,2022-04-07,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,17,17
-243345731564,Jordan,2022-04-08,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,18,16
-243345731564,Jordan,2022-04-09,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,19,15
-243345731564,Jordan,2022-04-10,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,20,14
-243345731564,Jordan,2022-04-11,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,21,13
-243345731564,Jordan,2022-04-12,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,22,12
-243345731564,Jordan,2022-04-13,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,23,11
-243345731564,Jordan,2022-04-14,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,24,10
-243345731564,Jordan,2022-04-15,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,25,9
-243345731564,Jordan,2022-04-16,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,26,8
-243345731564,Jordan,2022-04-17,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,27,7
-243345731564,Jordan,2022-04-18,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,28,6
-243345731564,Jordan,2022-04-19,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,29,5
-243345731564,Jordan,2022-04-20,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,30,4
-243345731564,Jordan,2022-04-21,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,31,3
-243345731564,Jordan,2022-04-22,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,32,2
-243345731564,Jordan,2022-04-23,EUR,Demand deposit,Bank of 2,1585000,0,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,33,1
-243345731564,Jordan,2022-04-24,EUR,Demand deposit,Bank of 2,0,3617.27397260274,Kreiger - Sauer,2.45,2022-03-21,2022-04-24,34,0
+378927572327,Algeria,2022-09-01,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,55,55
+378927572327,Algeria,2022-09-02,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,56,54
+378927572327,Algeria,2022-09-03,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,57,53
+378927572327,Algeria,2022-09-04,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,58,52
+378927572327,Algeria,2022-09-05,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,59,51
+378927572327,Algeria,2022-09-06,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,60,50
+378927572327,Algeria,2022-09-07,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,61,49
+378927572327,Algeria,2022-09-08,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,62,48
+378927572327,Algeria,2022-09-09,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,63,47
+378927572327,Algeria,2022-09-10,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,64,46
+378927572327,Algeria,2022-09-11,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,65,45
+378927572327,Algeria,2022-09-12,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,66,44
+378927572327,Algeria,2022-09-13,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,67,43
+378927572327,Algeria,2022-09-14,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,68,42
+378927572327,Algeria,2022-09-15,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,69,41
+378927572327,Algeria,2022-09-16,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,70,40
+378927572327,Algeria,2022-09-17,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,71,39
+378927572327,Algeria,2022-09-18,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,72,38
+378927572327,Algeria,2022-09-19,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,73,37
+378927572327,Algeria,2022-09-20,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,74,36
+378927572327,Algeria,2022-09-21,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,75,35
+378927572327,Algeria,2022-09-22,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,76,34
+378927572327,Algeria,2022-09-23,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,77,33
+378927572327,Algeria,2022-09-24,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,78,32
+378927572327,Algeria,2022-09-25,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,79,31
+378927572327,Algeria,2022-09-26,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,80,30
+378927572327,Algeria,2022-09-27,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,81,29
+378927572327,Algeria,2022-09-28,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,82,28
+378927572327,Algeria,2022-09-29,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,83,27
+378927572327,Algeria,2022-09-30,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,84,26
+378927572327,Algeria,2022-10-01,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,85,25
+378927572327,Algeria,2022-10-02,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,86,24
+378927572327,Algeria,2022-10-03,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,87,23
+378927572327,Algeria,2022-10-04,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,88,22
+378927572327,Algeria,2022-10-05,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,89,21
+378927572327,Algeria,2022-10-06,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,90,20
+378927572327,Algeria,2022-10-07,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,91,19
+378927572327,Algeria,2022-10-08,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,92,18
+378927572327,Algeria,2022-10-09,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,93,17
+378927572327,Algeria,2022-10-10,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,94,16
+378927572327,Algeria,2022-10-11,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,95,15
+378927572327,Algeria,2022-10-12,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,96,14
+378927572327,Algeria,2022-10-13,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,97,13
+378927572327,Algeria,2022-10-14,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,98,12
+378927572327,Algeria,2022-10-15,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,99,11
+378927572327,Algeria,2022-10-16,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,100,10
+378927572327,Algeria,2022-10-17,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,101,9
+378927572327,Algeria,2022-10-18,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,102,8
+378927572327,Algeria,2022-10-19,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,103,7
+378927572327,Algeria,2022-10-20,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,104,6
+378927572327,Algeria,2022-10-21,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,105,5
+378927572327,Algeria,2022-10-22,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,106,4
+378927572327,Algeria,2022-10-23,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,107,3
+378927572327,Algeria,2022-10-24,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,108,2
+378927572327,Algeria,2022-10-25,GBP,Term Deposit,Bank of 2,7618000,0,Abbott LLC,4.71,2022-07-08,2022-10-26,109,1
+378927572327,Algeria,2022-10-26,GBP,Term Deposit,Bank of 2,0,108133.85753424658,Abbott LLC,4.71,2022-07-08,2022-10-26,110,0
+152043272528,Mexico,2022-09-01,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,93,125
+152043272528,Mexico,2022-09-02,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,94,124
+152043272528,Mexico,2022-09-03,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,95,123
+152043272528,Mexico,2022-09-04,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,96,122
+152043272528,Mexico,2022-09-05,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,97,121
+152043272528,Mexico,2022-09-06,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,98,120
+152043272528,Mexico,2022-09-07,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,99,119
+152043272528,Mexico,2022-09-08,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,100,118
+152043272528,Mexico,2022-09-09,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,101,117
+152043272528,Mexico,2022-09-10,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,102,116
+152043272528,Mexico,2022-09-11,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,103,115
+152043272528,Mexico,2022-09-12,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,104,114
+152043272528,Mexico,2022-09-13,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,105,113
+152043272528,Mexico,2022-09-14,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,106,112
+152043272528,Mexico,2022-09-15,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,107,111
+152043272528,Mexico,2022-09-16,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,108,110
+152043272528,Mexico,2022-09-17,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,109,109
+152043272528,Mexico,2022-09-18,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,110,108
+152043272528,Mexico,2022-09-19,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,111,107
+152043272528,Mexico,2022-09-20,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,112,106
+152043272528,Mexico,2022-09-21,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,113,105
+152043272528,Mexico,2022-09-22,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,114,104
+152043272528,Mexico,2022-09-23,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,115,103
+152043272528,Mexico,2022-09-24,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,116,102
+152043272528,Mexico,2022-09-25,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,117,101
+152043272528,Mexico,2022-09-26,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,118,100
+152043272528,Mexico,2022-09-27,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,119,99
+152043272528,Mexico,2022-09-28,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,120,98
+152043272528,Mexico,2022-09-29,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,121,97
+152043272528,Mexico,2022-09-30,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,122,96
+152043272528,Mexico,2022-10-01,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,123,95
+152043272528,Mexico,2022-10-02,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,124,94
+152043272528,Mexico,2022-10-03,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,125,93
+152043272528,Mexico,2022-10-04,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,126,92
+152043272528,Mexico,2022-10-05,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,127,91
+152043272528,Mexico,2022-10-06,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,128,90
+152043272528,Mexico,2022-10-07,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,129,89
+152043272528,Mexico,2022-10-08,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,130,88
+152043272528,Mexico,2022-10-09,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,131,87
+152043272528,Mexico,2022-10-10,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,132,86
+152043272528,Mexico,2022-10-11,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,133,85
+152043272528,Mexico,2022-10-12,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,134,84
+152043272528,Mexico,2022-10-13,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,135,83
+152043272528,Mexico,2022-10-14,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,136,82
+152043272528,Mexico,2022-10-15,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,137,81
+152043272528,Mexico,2022-10-16,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,138,80
+152043272528,Mexico,2022-10-17,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,139,79
+152043272528,Mexico,2022-10-18,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,140,78
+152043272528,Mexico,2022-10-19,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,141,77
+152043272528,Mexico,2022-10-20,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,142,76
+152043272528,Mexico,2022-10-21,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,143,75
+152043272528,Mexico,2022-10-22,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,144,74
+152043272528,Mexico,2022-10-23,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,145,73
+152043272528,Mexico,2022-10-24,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,146,72
+152043272528,Mexico,2022-10-25,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,147,71
+152043272528,Mexico,2022-10-26,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,148,70
+152043272528,Mexico,2022-10-27,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,149,69
+152043272528,Mexico,2022-10-28,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,150,68
+152043272528,Mexico,2022-10-29,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,151,67
+152043272528,Mexico,2022-10-30,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,152,66
+152043272528,Mexico,2022-10-31,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,153,65
+152043272528,Mexico,2022-11-01,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,154,64
+152043272528,Mexico,2022-11-02,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,155,63
+152043272528,Mexico,2022-11-03,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,156,62
+152043272528,Mexico,2022-11-04,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,157,61
+152043272528,Mexico,2022-11-05,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,158,60
+152043272528,Mexico,2022-11-06,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,159,59
+152043272528,Mexico,2022-11-07,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,160,58
+152043272528,Mexico,2022-11-08,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,161,57
+152043272528,Mexico,2022-11-09,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,162,56
+152043272528,Mexico,2022-11-10,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,163,55
+152043272528,Mexico,2022-11-11,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,164,54
+152043272528,Mexico,2022-11-12,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,165,53
+152043272528,Mexico,2022-11-13,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,166,52
+152043272528,Mexico,2022-11-14,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,167,51
+152043272528,Mexico,2022-11-15,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,168,50
+152043272528,Mexico,2022-11-16,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,169,49
+152043272528,Mexico,2022-11-17,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,170,48
+152043272528,Mexico,2022-11-18,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,171,47
+152043272528,Mexico,2022-11-19,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,172,46
+152043272528,Mexico,2022-11-20,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,173,45
+152043272528,Mexico,2022-11-21,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,174,44
+152043272528,Mexico,2022-11-22,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,175,43
+152043272528,Mexico,2022-11-23,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,176,42
+152043272528,Mexico,2022-11-24,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,177,41
+152043272528,Mexico,2022-11-25,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,178,40
+152043272528,Mexico,2022-11-26,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,179,39
+152043272528,Mexico,2022-11-27,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,180,38
+152043272528,Mexico,2022-11-28,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,181,37
+152043272528,Mexico,2022-11-29,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,182,36
+152043272528,Mexico,2022-11-30,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,183,35
+152043272528,Mexico,2022-12-01,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,184,34
+152043272528,Mexico,2022-12-02,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,185,33
+152043272528,Mexico,2022-12-03,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,186,32
+152043272528,Mexico,2022-12-04,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,187,31
+152043272528,Mexico,2022-12-05,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,188,30
+152043272528,Mexico,2022-12-06,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,189,29
+152043272528,Mexico,2022-12-07,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,190,28
+152043272528,Mexico,2022-12-08,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,191,27
+152043272528,Mexico,2022-12-09,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,192,26
+152043272528,Mexico,2022-12-10,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,193,25
+152043272528,Mexico,2022-12-11,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,194,24
+152043272528,Mexico,2022-12-12,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,195,23
+152043272528,Mexico,2022-12-13,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,196,22
+152043272528,Mexico,2022-12-14,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,197,21
+152043272528,Mexico,2022-12-15,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,198,20
+152043272528,Mexico,2022-12-16,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,199,19
+152043272528,Mexico,2022-12-17,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,200,18
+152043272528,Mexico,2022-12-18,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,201,17
+152043272528,Mexico,2022-12-19,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,202,16
+152043272528,Mexico,2022-12-20,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,203,15
+152043272528,Mexico,2022-12-21,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,204,14
+152043272528,Mexico,2022-12-22,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,205,13
+152043272528,Mexico,2022-12-23,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,206,12
+152043272528,Mexico,2022-12-24,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,207,11
+152043272528,Mexico,2022-12-25,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,208,10
+152043272528,Mexico,2022-12-26,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,209,9
+152043272528,Mexico,2022-12-27,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,210,8
+152043272528,Mexico,2022-12-28,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,211,7
+152043272528,Mexico,2022-12-29,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,212,6
+152043272528,Mexico,2022-12-30,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,213,5
+152043272528,Mexico,2022-12-31,USD,Term Deposit,Bank of 9,5259000,0,Doyle Group,5.14,2022-05-31,2023-01-04,214,4
+775797628492,Jordan,2022-09-15,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,0,25
+775797628492,Jordan,2022-09-16,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,1,24
+775797628492,Jordan,2022-09-17,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,2,23
+775797628492,Jordan,2022-09-18,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,3,22
+775797628492,Jordan,2022-09-19,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,4,21
+775797628492,Jordan,2022-09-20,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,5,20
+775797628492,Jordan,2022-09-21,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,6,19
+775797628492,Jordan,2022-09-22,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,7,18
+775797628492,Jordan,2022-09-23,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,8,17
+775797628492,Jordan,2022-09-24,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,9,16
+775797628492,Jordan,2022-09-25,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,10,15
+775797628492,Jordan,2022-09-26,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,11,14
+775797628492,Jordan,2022-09-27,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,12,13
+775797628492,Jordan,2022-09-28,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,13,12
+775797628492,Jordan,2022-09-29,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,14,11
+775797628492,Jordan,2022-09-30,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,15,10
+775797628492,Jordan,2022-10-01,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,16,9
+775797628492,Jordan,2022-10-02,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,17,8
+775797628492,Jordan,2022-10-03,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,18,7
+775797628492,Jordan,2022-10-04,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,19,6
+775797628492,Jordan,2022-10-05,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,20,5
+775797628492,Jordan,2022-10-06,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,21,4
+775797628492,Jordan,2022-10-07,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,22,3
+775797628492,Jordan,2022-10-08,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,23,2
+775797628492,Jordan,2022-10-09,GBP,Term Deposit,Bank of 14,4916000,0,Doyle Group,3.82,2022-09-15,2022-10-10,24,1
+775797628492,Jordan,2022-10-10,GBP,Term Deposit,Bank of 14,0,12862.410958904107,Doyle Group,3.82,2022-09-15,2022-10-10,25,0
+732926254391,Thailand,2022-11-07,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,0,68
+732926254391,Thailand,2022-11-08,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,1,67
+732926254391,Thailand,2022-11-09,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,2,66
+732926254391,Thailand,2022-11-10,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,3,65
+732926254391,Thailand,2022-11-11,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,4,64
+732926254391,Thailand,2022-11-12,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,5,63
+732926254391,Thailand,2022-11-13,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,6,62
+732926254391,Thailand,2022-11-14,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,7,61
+732926254391,Thailand,2022-11-15,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,8,60
+732926254391,Thailand,2022-11-16,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,9,59
+732926254391,Thailand,2022-11-17,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,10,58
+732926254391,Thailand,2022-11-18,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,11,57
+732926254391,Thailand,2022-11-19,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,12,56
+732926254391,Thailand,2022-11-20,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,13,55
+732926254391,Thailand,2022-11-21,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,14,54
+732926254391,Thailand,2022-11-22,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,15,53
+732926254391,Thailand,2022-11-23,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,16,52
+732926254391,Thailand,2022-11-24,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,17,51
+732926254391,Thailand,2022-11-25,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,18,50
+732926254391,Thailand,2022-11-26,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,19,49
+732926254391,Thailand,2022-11-27,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,20,48
+732926254391,Thailand,2022-11-28,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,21,47
+732926254391,Thailand,2022-11-29,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,22,46
+732926254391,Thailand,2022-11-30,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,23,45
+732926254391,Thailand,2022-12-01,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,24,44
+732926254391,Thailand,2022-12-02,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,25,43
+732926254391,Thailand,2022-12-03,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,26,42
+732926254391,Thailand,2022-12-04,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,27,41
+732926254391,Thailand,2022-12-05,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,28,40
+732926254391,Thailand,2022-12-06,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,29,39
+732926254391,Thailand,2022-12-07,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,30,38
+732926254391,Thailand,2022-12-08,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,31,37
+732926254391,Thailand,2022-12-09,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,32,36
+732926254391,Thailand,2022-12-10,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,33,35
+732926254391,Thailand,2022-12-11,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,34,34
+732926254391,Thailand,2022-12-12,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,35,33
+732926254391,Thailand,2022-12-13,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,36,32
+732926254391,Thailand,2022-12-14,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,37,31
+732926254391,Thailand,2022-12-15,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,38,30
+732926254391,Thailand,2022-12-16,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,39,29
+732926254391,Thailand,2022-12-17,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,40,28
+732926254391,Thailand,2022-12-18,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,41,27
+732926254391,Thailand,2022-12-19,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,42,26
+732926254391,Thailand,2022-12-20,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,43,25
+732926254391,Thailand,2022-12-21,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,44,24
+732926254391,Thailand,2022-12-22,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,45,23
+732926254391,Thailand,2022-12-23,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,46,22
+732926254391,Thailand,2022-12-24,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,47,21
+732926254391,Thailand,2022-12-25,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,48,20
+732926254391,Thailand,2022-12-26,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,49,19
+732926254391,Thailand,2022-12-27,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,50,18
+732926254391,Thailand,2022-12-28,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,51,17
+732926254391,Thailand,2022-12-29,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,52,16
+732926254391,Thailand,2022-12-30,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,53,15
+732926254391,Thailand,2022-12-31,USD,Term Deposit,Bank of 18,193000,0,Kub and Sons,6.53,2022-11-07,2023-01-14,54,14
