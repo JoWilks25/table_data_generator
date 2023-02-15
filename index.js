@@ -163,13 +163,13 @@ existingTDAccounts.forEach((accountNo) => {
   const accCurrBalance = randNumber({ min: 10000, max: 10000000, precision: 1000 })
   dates.forEach((date) => {
     const daysToMaturity = moment(maturityDate).diff(date, 'days');
-    const tenorDays = moment(date).diff(placementDate, 'days')
+    const tenorDays = moment(maturityDate).diff(placementDate, 'days')
     // If it's already matured/hasn't started yet don't add row
     if (daysToMaturity < 0 || tenorDays < 0) { return }
     const dailyTDAccBalRow = {
       ...baseTDAccBalRow,
       'Date': date.format(outputDateFormat),
-      'Tenor Days': tenorDays, // Date (so current date) - Placement Date (Date when term deposit began)
+      'Tenor Days': tenorDays, // maturity date (so final day of Term Deposit) - Placement Date (Date when term deposit began)
       'Days to Maturity': daysToMaturity,
       'Interest Rate (%)': interestRate, // Annual Interest rate
       'Account Currency Balance': daysToMaturity === 0 ? 0 : accCurrBalance,
@@ -198,13 +198,13 @@ startingTDAccounts.forEach((accountNo) => {
   const accCurrBalance = randNumber({ min: 10000, max: 10000000, precision: 1000 })
   dates.forEach((date) => {
     const daysToMaturity = moment(maturityDate).diff(date, 'days');
-    const tenorDays = moment(date).diff(placementDate, 'days')
+    const tenorDays = moment(maturityDate).diff(placementDate, 'days')
     // If it's already matured/hasn't started yet don't add row
     if (daysToMaturity < 0 || tenorDays < 0) { return }
     const dailyTDAccBalRow = {
       ...baseTDAccBalRow,
       'Date': date.format(outputDateFormat),
-      'Tenor Days': tenorDays, // Date (so current date) - Placement Date (Date when term deposit began)
+      'Tenor Days': tenorDays, // maturity date (so final day of Term Deposit) - Placement Date (Date when term deposit began)
       'Days to Maturity': daysToMaturity,
       'Interest Rate (%)': interestRate, // Annual Interest rate
       'Account Currency Balance': daysToMaturity === 0 ? 0 : accCurrBalance,
